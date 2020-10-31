@@ -1,0 +1,874 @@
+{{Redirect|Pacquiao|other uses|Pacquiao (disambiguation)}}
+{{pp|small=yes}}
+{{short description|Filipino professional boxer and politician}}{{Cleanup|date=June 2020|reason=The style and format of the page need to be cleaned up.  More detail about his boxing career and removal of infoboxes would be appreciated.}}
+
+{{Infobox office holder
+| honorific_prefix = [[The Honourable]]
+| name               = Manny Pacquiao
+| image              = File:Manny Pacquiao 2010.jpg
+| caption            = Pacquiao in 2010
+| office1      = [[Senator of the Philippines]]
+| term_start1  = June 30, 2016
+| term_end1    = 
+| office2      = Chair of the [[List of Philippine Senate committees|Senate Public Works; Ethics and Privileges Committee]]
+| term_start2  = July 22, 2019
+| term_end2    = 
+| predecessor2 = 
+| successor2   = 
+| office3      = Chair of the [[List of Philippine Senate committees|Senate Public Works Committee]]
+| term_start3  = July 25, 2016
+| term_end3    = 
+| predecessor3 = [[Bongbong Marcos|Ferdinand Marcos Jr.]]
+| successor3   = 
+| office4      = Member of the [[Philippine House of Representatives]]<br />from [[Sarangani]]
+| term_start4  = June 30, 2010
+| term_end4  = June 30, 2016
+| predecessor4 = Erwin Chiongbian
+| successor4   = Rogelio Pacquiao
+| birth_name         = Emmanuel Dapidran Pacquiao
+| birth_date         = {{birth date and age|1978|12|17}}
+| birth_place        = [[Kibawe, Bukidnon]], [[Philippines]]
+| nationality        = Filipino
+| education          = [[Notre Dame of Dadiangas University]]<br />[[University of Makati]]
+| known_for          = Professional Boxing
+| net_worth          = {{US$|220 Million|link=no}}<ref name="networthofsenators">{{cite news |title=Villar still richest, Go among poorest in Senate in 2019 |url=https://news.abs-cbn.com/news/10/16/19/villar-still-richest-go-among-poorest-in-senate-in-2019 |accessdate=15 May 2020 |work=ABS-CBN News|date=16 October 2019 |quote=Sen. Manny Pacquiao - P3,005,808,000 (As of Dec. 31, 2018)}}</ref><br/>({{abbr|Dec.|December}} 31, 2019)
+| spouse             = {{marriage|[[Jinkee Pacquiao|Jinkee Jamora]]|2000}}
+| children           = 5
+| relatives          = [[Bobby Pacquiao|Alberto "Bobby" Pacquiao]] (brother)
+| module             = {{Infobox boxer
+| embed = yes
+| name = Manny Pacquiao
+| nickname = PacMan
+| height = 5 ft 6 in<ref name=stats2018>[[ESPN]] tale of the tape prior to the [[Lucas Matthysse]] fight</ref>
+| reach = 67 in<ref name=stats2018/>
+| weight = {{plainlist|
+*[[Light-flyweight]]
+*[[Flyweight]]
+*[[Super-bantamweight]]
+*[[Featherweight]]
+*[[Super-featherweight]]
+*[[Lightweight]]
+*[[Light-welterweight]]
+*[[Welterweight]]
+*[[Light-middleweight]]
+}}
+| style = [[Southpaw stance|Southpaw]]
+| total = 71
+| wins = 62
+| KO = 39
+| losses = 7
+| draws = 2
+| no contests = 
+}}
+| signature          = Autograph of Manny Pacquiao.svg
+}}
+{{Philippine name|Dapidran|Pacquiao}}
+'''Emmanuel''' "'''Manny'''" '''Dapidran Pacquiao''', [[Philippine Legion of Honor|CLH]] ({{IPAc-en|ˈ|p|æ|k|i|aʊ}} {{respell|PAK|ee|ow}}; born December 17, 1978) is a Filipino [[Professional boxing|professional boxer]] and [[Senate of the Philippines|Senator of the Phillippines]]. Nicknamed "PacMan", he is regarded as one of the greatest professional boxers of all time.<ref>{{cite news|work=ABS-CBN News|title=Historian: No doubt about Pacquiao’s greatness|url=https://news.abs-cbn.com/sports/11/16/10/historian-no-doubt-about-pacquiao%E2%80%99s-greatness|publisher=ABS-CBN}}</ref> He was elected as [[Senate of the Philippines|Senator of the Phillippines]] in 2016 and is serving a 6 year term.
+
+Manny Pacquiao is the only [[Octuple champion|eight-division world champion]] in the history of boxing, and has won twelve major world titles.<ref>{{cite news|title=Eighth world title gives Pacquiao unique status|url=https://www.reuters.com/article/uk-boxing-pacquiao-idUKTRE6AD0NL20101114|work=Reuters|date=November 14, 2010}}</ref><ref name="twelve">{{cite news|url=http://sports.inquirer.net/311388/pacquiao-gets-record-12th-world-title-8-weight-divisions|title=Pacquiao gets record 12th world title in 8 weight divisions|work=Philippine Daily Inquirer|date=July 16, 2018}}</ref> He was the first boxer to win the [[lineal championship]] in five different weight classes,<ref name="auto1">{{cite web|url=http://www.cyberboxingzone.com/boxing/pastchp.htm|title=The Lineal Boxing World Champions|publisher=The Cyber Boxing Zone Encyclopedia}}</ref><ref name="thecomeback.com">{{cite web|url=http://thecomeback.com/queensberryrules/2016-articles/manny-pacquiao-rebounds-in-perhaps-his-last-fight-decisions-timothy-bradley.html|title=Pacquiao Rebounds, Decisions Bradley|work=Queensberry Rules|accessdate=May 2, 2016}}</ref><ref name="auto2">{{cite web|url=http://www.boxingscene.com/manny-pacquiao-return-love-game--110233|title=Manny Pacquiao's Return Is For The Love Of The Game|publisher=Boxing Scene|author=Jake Donovan}}</ref> the first boxer to win major world titles in four of the eight "glamour divisions": [[flyweight]], [[featherweight]], [[lightweight]], and [[welterweight]],<ref name="auto3">{{cite web|url=http://www.espn.com/boxing/story/_/id/15132011/ranking-manny-pacquiao-eight-division-titles|title=Ranking Manny Pacquiao's eight division titles|work=ESPN|accessdate=May 3, 2016}}</ref><ref>{{cite news|author1=MJ Law|url=http://linealchamps.com/page3.html|title=Hey dude, who's the Champ?|work=The Lineal Champs|date=February 13, 2013|accessdate=May 3, 2016}}</ref><ref name="auto4">{{cite news|author=Jake Emen|url=http://www.proboxing-fans.com/boxing-101/weight-divisions-history|title=Weight Divisions History & Guide|work=ProBoxing-Fans|accessdate=July 6, 2016}}</ref> and is the only boxer to hold world championships across four decades (1990s, 2000s, 2010s, and 2020s).<ref>{{cite web|url=https://boxingjunkie.usatoday.com/2020/01/manny-pacquiao-boxings-first-four-decade-champion/42055/|title=Manny Pacquiao: Boxing's first four-decade champion|publisher=boxingjunkie.usatoday.com}}</ref>
+
+As of 2015, Pacquiao's fights had generated $1.2 billion in revenue from his 25 pay-per-view bouts.<ref name="Kurt Badenhausen">{{cite magazine|author=Kurt Badenhausen|url=https://www.forbes.com/sites/kurtbadenhausen/2016/04/09/manny-pacquiao-set-to-retire-with-500-million-in-career-earnings/#5f4ff5866f25|title=Manny Pacquiao Set To Retire After Bradley Fight With $500 Million In Career Earnings|magazine=Forbes|date=April 9, 2015}}</ref> According to ''[[Forbes]]'', he was the second highest paid athlete in the world in 2015.<ref name="forbes2013">[https://www.forbes.com/athletes/list/ The World's Highest-Paid Athletes]. Forbes.com (2013–06). Retrieved on February 22, 2014.</ref>
+
+In July 2019, Pacquiao became the oldest welterweight world champion in history at the age of 40, and the first boxer in history to become a recognized four-time welterweight champion after defeating [[Keith Thurman]] to win the WBA (Super) welterweight title.
+
+== Early life and amateur career ==
+
+Pacquiao was born and raised in [[Kibawe, Bukidnon]], Philippines. He is the son of Rosalio Pacquiao and Dionisia Dapidran-Pacquiao.<ref name="parents">{{cite web |url=http://www.doghouseboxing.com/DHB/Robert111009.htm |title=Manny Pacquiao's Mom and Dad Reunited? |author=Robbie Pangilinan |date=November 9, 2009 |work=Doghouse Boxing |accessdate=March 15, 2010}}</ref> His parents separated when he was in sixth grade, after his father had an affair.<ref name="parents" /> He is the fourth of six siblings, one of whom, [[Bobby Pacquiao|Alberto "Bobby" Pacquiao]], is also a politician and former professional boxer.
+
+Pacquiao completed his elementary education at Saavedra Saway Elementary School in General Santos City, but dropped out of high school due to extreme poverty.<ref name="time">{{cite news|author=Howard Chua-Eoan and Ishaan Tharoor|date=November 16, 2009|title=The Meaning and Mythos of Manny Pacquiao|work=Time.com|publisher=[[Time (magazine)|Time]]|url=http://www.time.com/time/magazine/article/0,9171,1935091,00.html|accessdate=March 15, 2010}}</ref> At the age of 12, Pacquiao was introduced to boxing a by his maternal uncle Sardo Mejia. According to his autobiography, Pacquiao said watching Mike Tyson's defeat of James "Buster" Douglas in 1990 with his Uncle Sardo as an experience that, "changed my life forever." His early interest in [[combat sports]] was also inspired by martial-artist [[Bruce Lee]] and the boxer [[Muhammad Ali]].<ref>{{cite news|last1=Bishop|first1=Greg|date=1 May 2011|title=Pacquiao’s Style Takes Inspiration From Bruce Lee|work=[[The New York Times]]|url=https://www.nytimes.com/2011/05/02/sports/02pacquiao.html|accessdate=16 January 2020}}</ref><ref>{{cite news|date=June 5, 2016|title=Pacquiao: Muhammad Ali was a huge inspiration|work=ABS-CBN News|url=https://news.abs-cbn.com/sports/06/04/16/pacquiao-muhammad-ali-was-a-huge-inspiration|accessdate=16 January 2020}}</ref>
+
+In 1990, Mejia began training his nephew in a makeshift home gym. After 6 months of training, Pacquiao began boxing in a park in General Santos eventually traveling to other cities to fight higher-ranked opponents. By age 15, he was considered the best junior boxer in the southern Philippines.<ref name=":1" /> At the age of 15, he moved to [[Manila]]. In January 1995, at the age of 16, he made his professional boxing debut as a junior flyweight.<ref name=":0" />
+
+In February 2007, Pacquiao took and passed [[Alternative Learning System (Philippines)|a high school equivalency exam]], and was awarded with a high school diploma by the [[Department of Education (Philippines)|Department of Education.]]<ref name="highschool">{{cite news|author=Jerry E. Esplanada|date=February 22, 2007|title=Pacquiao 'graduates' from high school|url=http://newsinfo.inquirer.net/breakingnews/sports/view/20070222-51049/Pacquiao_%91graduates%92_from_high_school|url-status=dead|archive-url=https://archive.today/20130223040618/http://newsinfo.inquirer.net/breakingnews/sports/view/20070222-51049/Pacquiao_%91graduates%92_from_high_school|archive-date=February 23, 2013|accessdate=March 15, 2010|work=Philippine Daily Inquirer}}</ref>
+
+== Professional boxing ==
+{{summarize|from|Boxing career of Manny Pacquiao|better=y|section=y|date=June 2019}}{{Main|Boxing career of Manny Pacquiao}}
+
+=== Overview ===
+Manny Pacquiao has an amateur record of 60–4 and a record of 62–7–2 as a professional, with 39 wins by knockout. World-renowned boxing expert and historian [[Bert Sugar]] ranked Pacquiao as the greatest [[Southpaw stance|southpaw]] fighter of all time.<ref>{{cite web|title=Where does Pacquiao rank all time?|url=https://www.ringtv.com/123113-where-does-pacquiao-rank-all-time/|publisher=The Ring}}</ref> In 2020, Pacquiao topped the [[Ranker]]'s list of best boxers of the [[21st century]].<ref>{{cite web|title=The Best Boxers of the 21st Century|url=https://www.ranker.com/list/best-boxers-of-the-21st-century/ranker-sports|publisher=[[Ranker]]}}</ref><ref>{{cite web|title=The 50 Greatest Boxers Of The 21st Century Have Been Named|url=https://www.sportbible.com/boxing/news-top-10s-the-50-greatest-boxers-of-the-21st-century-have-been-named-20200212|publisher=SportBible}}</ref>
+
+Pacquiao made history by being the first boxer ever to win world titles in eight weight divisions, having won twelve major world titles, as well as being the first boxer to win the lineal championship in five different weight classes. Pacquiao is also the first boxer in history to win major world titles in four of the original eight weight classes of boxing, also known as the "glamour divisions" (flyweight, featherweight, lightweight and welterweight), and the first boxer ever to become a four-decade world champion, winning world championships across four decades (1990s, 2000s, 2010s, and 2020s).
+
+=== Early years ===
+Pacquiao was introduced to boxing at the age of 12 by his maternal Uncle Sardo Mejia. According to his autobiography, Pacquiao said watching Mike Tyson's defeat of James "Buster" Douglas in 1990 with his Uncle Sardo as an experience that, "changed my life forever." Mejia began training his nephew in a makeshift home gym. After 6 months of training, Pacquiao began boxing in a park in General Santos eventually traveling to other cities to fight higher-ranked opponents. By age 15, he was considered the best junior boxer in the southern Philippines.<ref name=":1">{{Cite web|date=2015-05-02|title=Boxer Manny Pacquiao's incredible rags to riches story|url=https://www.scmp.com/magazines/post-magazine/article/1781556/boxer-manny-pacquiaos-incredible-rags-riches-story|access-date=2020-06-24|website=South China Morning Post|language=en}}</ref> At the age of 15 he moved to [[Manila]]. In January 1995, at the age of 16, he made his professional boxing debut as a junior flyweight.<ref name=":0">{{Cite web|title=Manny Pacquiao {{!}} Biography, Facts, & Notable Fights|url=https://www.britannica.com/biography/Manny-Pacquiao|access-date=2020-06-24|website=Encyclopedia Britannica|language=en}}</ref>
+
+Pacquiao stated of his early years, "''Many of you know me as a legendary boxer, and I'm proud of that. However, that journey was not always easy. When I was younger, I became a fighter because I had to survive. I had nothing. I had no one to depend on except myself. I realized that boxing was something I was good at, and I trained hard so that I could keep myself and my family alive''."<ref name="auto5">{{cite news|date=August 15, 2017|title=Poverty gave Pacquiao his big push|newspaper=China Daily|url=http://www.chinadaily.com.cn/sports/2017-08/15/content_30626532.htm}}</ref>
+
+On December 4, 1998, at the age of 19, he won his first major title, the World Boxing Council (WBC) flyweight title.<ref name=":0" />
+[[File:Pacman.jpg|thumb|left|Pacquiao with his trainer [[Freddie Roach (boxing)|Freddie Roach]]|alt=]]
+
+=== Notable fights ===
+
+Over the course of his decorated career, Pacquiao has defeated 22 world champions{{em dash}}[[Chatchai Singwangcha|Chatchai Sasakul]], [[Lehlo Ledwaba|Lehlohonolo Ledwaba]], [[Jorge Eliécer Julio]], [[Marco Antonio Barrera]] (twice), [[Érik Morales]] (twice), [[Óscar Larios]], [[Jorge Solís]], [[Juan Manuel Márquez]] (twice), [[David Díaz (boxer)|David Díaz]], [[Oscar De La Hoya]], [[Ricky Hatton]], [[Miguel Cotto]], [[Joshua Clottey]], [[Antonio Margarito]], [[Shane Mosley]], [[Brandon Ríos]], [[Timothy Bradley]] (twice), [[Chris Algieri]], [[Jessie Vargas]], [[Lucas Matthysse]], [[Adrien Broner]] and [[Keith Thurman]].<ref>{{Cite web|url=http://philboxing.com/news/story-146073.html|title=PACQUIAO HAS DEFEATED 22 WORLD CHAMPIONS|website=philboxing.com}}</ref>
+
+==== Ranking & awards ====
+Pacquiao was named [[Edward J. Neil Trophy#2000s|"Fighter of the Decade"]] for the 2000s by the [[Boxing Writers Association of America]] (BWAA), [[World Boxing Council]] (WBC), and [[World Boxing Organization]] (WBO). In 2006, 2008, and 2009, he was awarded [[The Ring magazine Fighter of the Year|''Ring'' magazine]] and BWAA's [[Sugar Ray Robinson Award|Fighter of the Year]], and in 2009 and 2011 he won the [[Best Fighter ESPY Award]].<ref name="Pacquiao named Fighter of the Decade">{{cite news|last=Himmer|first=Alastair|date=June 5, 2010|title=Pacquiao named fighter of the decade|agency=[[Reuters]]|url=https://www.reuters.com/article/idUSTRE6541BX20100605}}</ref>  BoxRec ranks him as the greatest Asian fighter of all time.<ref>{{cite web|title=BoxRec Ratings|url=http://boxrec.com/records|url-status=dead|archiveurl=https://web.archive.org/web/20170104115343/http://boxrec.com/records|archivedate=January 4, 2017|accessdate=May 2, 2016}}</ref> In 2016, Pacquiao ranked No. 2 on [[ESPN]]'s list of top pound for pound boxers of the past 25 years<ref name="auto">{{cite news|date=April 8, 2016|title=#P4Prank: No. 2 of past 25 years|publisher=ESPN|url=http://www.espn.com/boxing/story/_/id/14969990/ranking-top-25-pound-pound-boxers-25-years}}</ref> and he ranks No. 2 in [[BoxRec]]'s ranking of the greatest [[pound for pound]] boxers of all time.<ref>{{cite web|title=BoxRec|url=http://boxrec.com/en/ratings?r%5Bcountry%5D=&r%5Bdivision%5D=&r%5Bsex%5D=M&r%5Bstance%5D=&r%5Bstatus%5D=&r_go=|accessdate=July 17, 2018|website=boxrec.com}}</ref>
+
+In October 2018, Pacquiao signed with [[Al Haymon]]'s [[Premier Boxing Champions]] (PBC) promotion<ref>{{cite web |title=Al Haymon and Manny Pacquiao Link Up Shows Haymon Still As Influential As Ever |url=https://www.boxingnewsandviews.com/2018/10/16/al-haymon-and-manny-pacquiao-link-up-shows-haymon-still-as-influential-as-ever/ |website=BoxingNewsandViews.com |accessdate=October 16, 2018 |date=October 16, 2018}}</ref> and currently holds the [[List of WBA world champions#Welterweight|WBA (Super) welterweight title]] since July 2019.
+
+==Political career==
+=== House of Representatives ===
+{{Infobox officeholder
+| honorific_prefix    = [[The Honorable]]
+| name                = Manny Pacquiao
+| image               = Manny Pacquiao with Harry Reid and Daniel Inouye (cropped).jpg{{!}}border
+| office1             = [[Senator of the Philippines]]
+| term_start1         = June 30, 2016
+| term_end1           = 
+| office2             = Chair of the [[List of Philippine Senate committees|Senate Public Works; Ethics and Privileges Committee]]
+| term_start2         = July 22, 2019
+| term_end2           = 
+| predecessor2        = 
+| successor2          = 
+| office3             = Chair of the [[List of Philippine Senate committees|Senate Public Works Committee]]
+| term_start3         = July 25, 2016
+| term_end3           = 
+| predecessor3        = [[Bongbong Marcos|Ferdinand Marcos Jr.]]
+| successor3          = 
+| office4             = Member of the [[Philippine House of Representatives]]<br />from [[Sarangani]]'s [[Legislative district of Sarangani|at-large]] district
+| term_start4         = June 30, 2010
+| term_end4           = June 30, 2016
+| predecessor4        = Erwin Chiongbian
+| successor4          = Rogelio Pacquiao
+| birth_name          = 
+| death_date          = 
+| death_place         = 
+| party               = [[PDP–Laban|PDP-Laban]] (2012–2014, 2016–present)<br />[[People's Champ Movement]] (2010–present)
+| otherparty          = [[Liberal Party (Philippines)|Liberal Party]] (Before 2007, 2010–2012)<br />[[Kabalikat ng Malayang Pilipino]] (2007–2008)<br />[[Nacionalista Party]] (2009–2010)<br />[[United Nationalist Alliance]] (2012–2016)
+| relatives           = 
+| website             = {{url|senate.gov.ph/senators/sen17th.asp|Senate website}}
+| allegiance          = {{flag|Philippines}}
+| branch              = [[File:Flag of the Philippine Army.svg|25px]] [[Philippine Army]]
+| rank                = [[File:PHIL ARMY COL FD-Sh.svg|40px]] [[Colonel]]
+| commands            = 
+| awards              = 
+}}
+On February 12, 2007, Pacquiao announced his campaign for a seat in the [[House of Representatives of the Philippines|Philippine House of Representatives]] to represent the [[Legislative districts of South Cotabato|1st District]] of South Cotabato province running as a candidate of the [[Liberal Party (Philippines)|Liberal Party]] faction under [[Mayor of Manila|Manila mayor]] [[Lito Atienza]].<ref name="announ">{{cite news|author=Marichu Villanueva|date=February 13, 2007|title=Pacquiao to run for Congress|url=http://www.philstar.com/Article.aspx?articleId=384834|url-status=dead|archive-url=https://archive.today/20130131082251/http://www.philstar.com/Article.aspx?articleId=384834|archive-date=January 31, 2013|accessdate=March 13, 2010|work=The Philippine Star}}</ref> Pacquiao, said he was persuaded to run by the local officials of General Santos City, hoping he would act as a bridge between their interests and the national government.<ref name="announ" /> Ultimately Pacquiao was forced to run under the [[Kabalikat ng Malayang Pilipino]] (KAMPI), a pro-Arroyo political party by the courts. Pacquiao was defeated in the election by incumbent Rep. [[Darlene Antonino-Custodio]] of the [[Nationalist People's Coalition]] (NPC), who said, "More than anything, I think, people weren't prepared to lose him as their boxing icon."<ref>{{cite news|date=May 21, 2007|title=Pacquiao concedes defeat in run for Congress|url=http://www.philstar.com/Article.aspx?articleId=1269|url-status=dead|archive-url=https://archive.today/20120909083830/http://www.philstar.com/Article.aspx?articleId=1269|archive-date=September 9, 2012|accessdate=March 13, 2010|work=The Philippine Star}}</ref>
+
+In preparation for his political career in the Filipino House of Representatives, Pacquiao enrolled in the Certificate Course in Development, Legislation, and Governance at the Development Academy of the Philippines – Graduate School of Public and Development Management (DAP-GSPDM).<ref>{{cite news|author=|date=June 16, 2010|title=Pacquiao starts course on how to be a good congressman|url=http://www.abs-cbnnews.com/nation/regions/06/15/10/pacquiao-starts-course-how-be-good-congressman|accessdate=August 10, 2011|work=ABS-CBN News}}</ref>
+
+On November 21, 2009, Pacquiao announced that he would run again for a [[Philippine House of Representatives elections in SOCCSKSARGEN, 2010|congressional seat]], but this time in Sarangani province, the hometown of his wife Jinkee.<ref>{{cite news|date=November 21, 2009|title=Pacquiao confirms run for congressional seat|url=http://newsinfo.inquirer.net/breakingnews/nation/view/20091121-237558/Pacquiao-confirms-run-for-congressional-seat|url-status=dead|archiveurl=https://web.archive.org/web/20091124101117/http://newsinfo.inquirer.net/breakingnews/nation/view/20091121-237558/Pacquiao-confirms-run-for-congressional-seat|archivedate=November 24, 2009|accessdate=March 14, 2010|work=Philippine Daily Inquirer}}</ref> In May 2010, Pacquiao [[2010 Philippine House of Representatives elections in Soccsksargen#Sarangani|was elected]] to the House of Representatives in the [[15th Congress of the Philippines]], representing the province of [[Sarangani]]. He scored a landslide victory over the wealthy and politically well-entrenched Chiongbian clan that had been in power in the province for more than thirty years. Pacquiao got 120,052 votes while his opponent for the seat, Roy Chiongbian, got 60,899 votes.<ref>{{cite news|date=May 14, 2010|title=Pacquiao proclaimed congressman|url=http://sports.inquirer.net/breakingnews/breakingnews/view/20100514-269945/Pacquiao-proclaimed-congressman|url-status=dead|archiveurl=https://web.archive.org/web/20100516101555/http://sports.inquirer.net/breakingnews/breakingnews/view/20100514-269945/Pacquiao-proclaimed-congressman|archivedate=May 16, 2010|work=Philippine Daily Inquirer}}</ref>
+
+In 2013 he was re-elected to the [[16th Congress of the Philippines]].<ref>{{cite web|author=Nancy Gay|date=May 10, 2010|title=Manny Pacquiao Declares 'Landslide' Congressional Win in Philippines|url=http://boxing.fanhouse.com/2010/05/10/manny-pacquiao-declares-landslide-congressional-victory-in-phi/?sms_ss=twitter|accessdate=May 11, 2010|work=Boxing Fanhouse}}</ref>  He ran unopposed. Additionally, his wife, Jinkee, was also elected as vice-governor of Sarangani, while his younger brother, Rogelio was defeated by incumbent Rep. Pedro Acharon of [[Team PNoy]] in second district race in South Cotabato which includes General Santos City.
+
+=== Senate ===
+On October 5, 2015, Pacquiao formally declared that he was running for senator under the [[United Nationalist Alliance]] (UNA) party of vice-president Jejomar Binay.<ref>{{cite news|last=Espejo|first=Edwin|date=October 5, 2015|title=It's official: Pacquiao running for senator|work=Rappler|url=http://www.rappler.com/nation/politics/elections/2016/108190-pacquiao-running-senator|accessdate=February 9, 2016}}</ref> On May 19, 2016, Pacquiao was formally elected as a senator by the Commission on Elections. Pacquiao garnered over 16 million votes, landing 7th among 12 new members of the Senate.<ref>{{cite news|last=|first=|date=May 19, 2016|title=Boxing Great Manny Pacquiao Wins Senate Seat In The Philippines|publisher=NPR.org|url=https://www.npr.org/sections/thetwo-way/2016/05/19/478699594/boxing-great-manny-pacquiao-wins-senate-seat-in-the-philippines|accessdate=August 22, 2016}}</ref><ref>{{cite web|date=May 20, 2016|title=Manny Pacquiao wins senate seat|url=http://espn.go.com/boxing/story/_/id/15604309/boxing-great-manny-pacquiao-wins-senate-seat-philippines|accessdate=July 25, 2016|work=ESPN}}</ref>
+
+As a senator, Pacquiao has supported bringing back [[capital punishment]] in the Philippines.<ref>{{Cite web|last=Doran|first=Niall|date=August 7, 2018|title=Pacquiao Explains Why He Supports Death Penalty|url=https://www.boxingnewsandviews.com/2018/08/07/pacquiao-explains-why-he-supports-death-penalty/}}</ref><ref>{{Cite news|title=Senate to conduct hearings on death penalty|url=https://news.mb.com.ph/2018/08/04/senate-to-conduct-hearings-on-death-penalty|work=Manila Bulletin}}</ref> He has aligned himself with the [[Presidency of Rodrigo Duterte|Duterte government]], facilitating on 18 September 2016 the ouster of [[Leila de Lima]] from the chairmanship of the Senate Justice committee and critiqued de Lima's presentation on 21 September of the same year of an alleged member of the [[Davao Death Squad]].<ref>{{Cite web|title=Pacquiao moves to oust De Lima as Senate chair of justice committee - YouTube|url=https://www.youtube.com/watch?v=xrU_Wv99bxM|access-date=2020-07-29|website=www.youtube.com}}</ref><ref>{{Cite web|title=From one newbie to another: Pacquiao 'lectures' De Lima on rules - YouTube|url=https://www.youtube.com/watch?v=FycRWImKbjc|access-date=2020-07-29|website=www.youtube.com}}</ref> He has been vocal about De Lima's alleged links with alleged druglord Kerwin Espinosa, an allegation that led to De Lima's arrest and detention.<ref>{{Cite web|title=Kerwin links De Lima to drug trade, says Pacquiao (2) - YouTube|url=https://www.youtube.com/watch?v=uS49d1RqnvQ|access-date=2020-07-29|website=www.youtube.com}}</ref><ref name=":2">{{Cite web|title=Jailed Philippine Senator: 'I Won't Be Silenced Or Cowed'|url=https://www.npr.org/sections/parallels/2017/06/24/533794081/jailed-philippine-senator-i-wont-be-silenced-or-cowed|access-date=2020-07-29|website=NPR.org|language=en}}</ref> De Lima has been a member of the opposition in the Senate of the [[17th Congress of the Philippines|17th]] and [[18th Congress of the Philippines|18th Congress]] of the Philippines and a critic of Duterte, investigating Duterte of suspected extrajudicial killings in his War on Drugs prior to her arrest.<ref name=":2" /> Meanwhile, in another Senate hearing, Pacquiao defended then-Davao City Vice Mayor [[Paolo Duterte]] from allegations of having a part, along with his alleged drinking buddy Charlie Tan and Kenneth Dong, in a 2017 seized [[Philippine peso|₱]]6.4-billion shipment of illegal drugs from Xiamen, China into the Philippines.<ref>{{Cite web|last=Jesus|first=Julliane Love De|date=2017-09-08|title=De Lima laments how Pacquiao defended Paolo for having photos with Dong|url=https://newsinfo.inquirer.net/928967/de-lima-laments-how-pacquiao-defended-paolo-for-having-photos-with-dong|access-date=2020-07-29|website=INQUIRER.net|language=en}}</ref>
+
+During the [[COVID-19 pandemic|SARS-CoV-2 outbreak]] of 2020, Pacquiao teamed up with [[Alibaba Group]] co-founder [[Jack Ma]] to help bring some much-needed relief to the Philippines.<ref>{{Cite web|title=MANNY PACQUIAO TEAMS UP WITH ALIBABA CO-FOUNDER JACK MA TO PROVIDE 50,000 CORONAVIRUS TEST KITS TO THE PHILIPPINES|url=https://www.dazn.com/en-US/news/boxing/manny-pacquiao-teams-up-with-alibaba-co-founder-jack-ma-to-provide-50000-coronavirus-test-kits-to-the-philippines/1kxsckcz7sbce1jl6ljqd4f448|website=DAZN NEWS}}</ref> The [[Bureau of Customs]] has facilitated the release of more than 50,000 COVID-19 test kits from the charity foundations of the two.<ref>{{Cite news|title=BOC expedites release of 57,000 Pacquiao-Jack Ma COVID-19 test kits|url=https://www.gmanetwork.com/news/news/nation/731545/boc-expedites-release-of-57-000-pacquiao-jack-ma-covid-19-test-kits/story/|work=GMA News}}</ref>
+
+Pacquiao has endorsed politicians outside the Philippines, in particular his secondary home country in the United States, as he endorsed [[Nevada]] senator [[Harry Reid]] and [[California]] governor [[Jerry Brown]] in November 2010.<ref>[http://latimesblogs.latimes.com/sports_blog/2010/11/manny-pacquiao-i-helped-jerry-brown-and-nevadas-harry-reid-win-elections-.html Manny Pacquiao: 'I helped' Jerry Brown and Nevada's Harry Reid win elections – latimes.com]. Latimesblogs.latimes.com (November 3, 2010). Retrieved on July 1, 2012.</ref> Pacquiao also endorsed Republican [[Duke Aiona]] for [[Hawaii]] governor in 2014.<ref>[http://www.kitv.com/news/boxer-manny-pacquiao-endorses-duke-aiona-for-governor/29110356 Boxer Manny Pacquiao endorses Duke Aiona for governor]. KITV (October 14, 2014). Retrieved on October 6, 2015. {{webarchive|url=https://web.archive.org/web/20141209071937/http://www.kitv.com/news/boxer-manny-pacquiao-endorses-duke-aiona-for-governor/29110356|date=December 9, 2014}}</ref>
+
+=== Military service ===
+Pacquiao is a [[Military reserve|military reservist]] with the rank of [[colonel]] in the Reserve Force of the [[Philippine Army]].<ref>{{cite news|last=Bigtas|first=Janine Anne|date=December 11, 2017|title=Manny Pacquiao is promoted to full colonel|work=GMA News|url=http://www.gmanetwork.com/news/lifestyle/content/636094/manny-pacquiao-is-promoted-to-a-full-colonel/story/|accessdate=July 15, 2018}}</ref> Prior to being promoted to full colonel after finishing his General Staff Course (GSC) schooling, he held the rank of lieutenant colonel for being a member of the Philippine Congress as per the AFP's regulations for reservist officers. He first entered the army's reserve force on April 27, 2006, as a [[sergeant]]. Later, he rose to [[Technical Sergeant]] on December 1 of the same year. On October 7, 2007, he became a [[Master Sergeant]], the highest rank for enlisted personnel. On May 4, 2009, he was given the special rank of [[Senior Master Sergeant]] and was also designated as the Command Sergeant Major of the 15th Ready Reserve Division.<ref>{{cite news|last=Santos|first=Matikas|date=December 5, 2011|title=Army promotes Pacquiao to lieutenant colonel|work=Inquirer News|url=http://newsinfo.inquirer.net/105617/army-promotes-pacquiao-to-lieutenant-colonel|accessdate=June 23, 2012}}</ref>
+
+== Career other ==
+
+=== Basketball ===
+
+On April 17, 2014, Pacquiao announced his intention to join the [[Philippine Basketball Association]] (PBA) as the playing coach of [[Kia Sorento (PBA team)|Kia Motors Basketball team]], an incoming expansion team for the PBA's [[2014–15 PBA season|2014–15 season]].<ref>[https://ph.news.yahoo.com/pacquiao-picks-17-pba-jersey-number-185521218.html Manny Pacquiao will play at the PBA, picks jersey no. 17]. sports.yahoo.com.ph (November 3, 2010). Retrieved on April 17, 2014.</ref><ref>[http://www.spin.ph/sports/basketball/news/manny-pacquiao-seriously-considering-playing-for-kia-motors-in-pba-debut-v02 Manny Pacquiao seriously considering playing for Kia Motors debut in PBA]. sports.inquirer.net (November 3, 2010). Retrieved on April 17, 2014.</ref><ref>Badua, Snow (April 8, 2014) [http://www.spin.ph/sports/boxing/news/manny-pacquiao-says-he-has-reached-deal-to-be-playing-coach-for-new-pba-team-kia-motors-v02 Manny Pacquiao says he has reached deal to be playing coach of new PBA team Kia Motors]. spin.ph. Retrieved on May 10, 2014.</ref> Though he can be the head coach of the incoming team, the league's commissioner, Atty. [[Chito Salud]], clarified that all incoming players should join the PBA draft.<ref>{{cite news|url=http://www.gmanetwork.com/news/story/364898/sports/basketball/pba-call-them-the-kia-kamao-says-pacquiao|title=PBA: Call them the 'Kia Kamao' says Pacquiao|work=GMA News}}</ref> Pacquiao plays basketball as [[cross-training]] to keep himself in shape. He previously played in the semi-professional basketball league, [[Liga Pilipinas]], for the MP-Gensan Warriors, a team that he also owns. He made his debut in the Smart-Liga Pilipinas Conference II on January 16, 2009.<ref>{{cite news|last=|first=|title=Pacquiao can't deliver KO punch for GenSan|publisher=Manila Bulletin Online|date=January 16, 2009|url=http://96.31.84.32/node/194795|url-status=dead|archiveurl=https://archive.today/20120709080351/http://96.31.84.32/node/194795|archivedate=July 9, 2012}}</ref>[[File:Manny Pacquiao, Mahindra.jpg|thumb|Manny Pacquiao playing basketball.|alt=|left]]Pacquiao was publicly criticized, specifically online by [[netizens]] saying he could not handle boxing together with basketball. Pacquiao stated, "It will serve as a challenge for me, they do not know what they are saying, before I have also experienced this before I started boxing, but I proved them wrong."<ref>{{cite web|last1=Bolante|first1=Mikkel|title=Amid criticism, Manny Pacquiao insists: 'I can coach, play for Kia in PBA'|url=http://www.interaksyon.com/interaktv/amid-criticism-manny-pacquiao-insists-i-can-coach-play-for-kia-in-pba|website=Interaksyon.com|publisher=Sports5|accessdate=May 22, 2014|url-status=dead|archiveurl=https://web.archive.org/web/20140526014439/http://www.interaksyon.com/interaktv/amid-criticism-manny-pacquiao-insists-i-can-coach-play-for-kia-in-pba|archivedate=May 26, 2014}}</ref>
+On July 9, 2014, he submitted his application for the upcoming [[2014 PBA draft|rookie draft]] to the commissioner's office. His camp also hopes that the board of governors "respect" his request to be not drafted until Kia's turn.<ref>{{cite news|title=PacMan Sasali na sa Rookie Draft (PacMan will pursue going into the rookie draft)|url=http://pba.inquirer.net/47501/pacman-sasali-na-sa-rookie-draft|work=Philippine Daily Inquirer|publisher=Philippine Basketball Association and INQUIRER.net|accessdate=July 9, 2014}}</ref><ref>[http://www.spin.ph/sports/basketball/news/pacquiao-apply-pba-drafty Boxing gym to sit next to basketball court as Manny Pacquiao prepares for Kia role, Algieri title defense] {{Webarchive|url=https://web.archive.org/web/20150525102045/http://www.spin.ph/sports/basketball/news/pacquiao-apply-pba-drafty |date=2015-05-25 }}, Richard Dy, spin.ph, July 18, 2014</ref>
+
+Pacquiao also owns a team in the [[PBA Developmental League]] (PBA D-League), the MP Hotel Warriors, which debuted in the league's 2014–15 season. He briefly was a co-owner of the [[Pacquiao Powervit Pilipinas Aguilas]] (now known as [[Pilipinas MX3 Kings]]), an [[Asean Basketball League]] team, as well as the founder of [[Maharlika Pilipinas Basketball League]].<ref>{{Cite web|url=http://sports.abs-cbn.com/basketball/news/2018/06/13/from-humble-origins-gensan-mpbl-now-nation-wide-league-42890|title=From humble origins in GenSan, Manny Pacquiao's MPBL is now a nation-wide league|first=ABS-CBN|last=Corp|website=ABS-CBN SPORTS}}</ref>
+
+====Kia Picanto (2014–2017)====
+Pacquiao was picked 11th overall in the first round of the [[2014 PBA draft]] by the [[Mahindra Enforcer|Kia basketball team]], being the oldest rookie to be drafted in the Philippine Basketball Association.<ref>{{cite news |title=Kia selects Manny Pacquiao with 11th overall pick |url=http://www.gmanetwork.com/news/story/376188/sports/basketball/2014-pba-draft-kia-selects-manny-pacquiao-with-11th-overall-pick |work=GMA News|publisher=[[GMA Network]] |accessdate=August 24, 2014 }}</ref>
+
+On February 8, 2015, Pacquiao tallied his first career point after making a shot in the free-throw on a match they won against the then-[[Purefoods Star Hotshots]].<ref>{{cite news|title=Manny Pacquiao scores first career point in the PBA against Purefoods|url=http://www.gmanetwork.com/news/sports/basketball/440379/manny-pacquiao-scores-first-career-point-in-the-pba-against-purefoods/story/|work=GMA News}}</ref> On October 25, 2015, Pacquiao made his first field goal in the PBA in a 108–94 loss against the [[Rain or Shine Elasto Painters]].<ref>{{cite news|title=Manny Pacquiao hits 1st career field goal vs. Rain or Shine|url=http://www.gmanetwork.com/news/sports/basketball/541916/manny-pacquiao-hits-1st-career-field-goal-vs-rain-or-shine/story/|work=GMA News|accessdate=October 25, 2015}}</ref><ref>{{cite news|last1=Del Rosario|first1=Paolo|title=PBA: RoS banks on strong second half to blow by Kia Mahindra|url=http://cnnphilippines.com/sports/2015/10/25/PBA-Philippine-Cup-Rain-or-Shine-Kia-Mahindra-Quinahan-Ahanmisi.html|work=CNN Philippines|accessdate=October 25, 2015}}</ref>
+
+On August 21, 2016, Pacquiao scored a career-high four points in a 97–88 victory against the [[Blackwater Elite]], also sinking the first three-point field goal in his career.<ref>{{cite web|last1=Sacamos|first1=Karlo|title=Manny Pacquiao surpasses his PBA career high|url=http://www.spin.ph/basketball/pba/news/manny-pacquiao-knocks-down-three-pointer-to-surpass-career-total|website=spin.ph|accessdate=August 21, 2016}}</ref>
+
+In 2017, when Pacquiao's three-year rookie deal as a player with the Picanto expired, the team didn't renew his contract again. Speculations swirled about Pacquiao possibly signing with the [[Blackwater Elite]] after its owner Dioceldo Sy said in an interview that he offered Pacquiao a roster spot and a coaching job. Four weeks later, his coaching contract with the Kia Picanto also expired, effectively making him available in the free agent market both as a coach and a player.<ref>{{cite web|last1=Ramos|first1=Gerry|title=Manny Pacquiao parts ways with Kia, stays mum on next PBA step amid offer to join Blackwater|url=http://www.spin.ph/basketball/pba/news/manny-pacquiao-parts-ways-with-kia-stays-mum-on-next-pba-step-amid-offer-to-join-blackwater|website=spin.ph|accessdate=September 22, 2017}}</ref>
+
+In 2018, Pacquiao officially announced his retirement from the league.<ref>[https://www.panaynews.net/manny-pacquiao-retires-from-pba/ Manny Pacquiao ‘retires’ from PBA], {anay News, April 6, 2018</ref>
+
+=== Entertainment ===
+Pacquiao started his acting career as an [[Extra (actor)|extra]] in local films and [[guest appearance]]s on [[ABS–CBN Corporation|ABS-CBN]] shows.
+
+In December 2005, Pacquiao took his first lead role in Violett Films' ''Lisensyadong Kamao'' (Licensed Fist). The film is titled so because (according to director Tony Bernal), being a boxer, Pacquiao is licensed to use his hands.{{citation needed|date=July 2010}}
+
+In 2008, Pacquiao starred with [[Ara Mina]] and [[Valerie Concepcion]] in ''[[Anak ng Kumander]]'' (Child of a Commander). The movie was not a commercial success and was panned by critics.{{citation needed|date=July 2010}}
+
+Pacquiao starred in the superhero/comedy film entitled ''[[Wapakman]]'', which was released on December 25, 2009, as an entry to the [[2009 Metro Manila Film Festival]].<ref>[http://www.mb.com.ph/articles/227960/panday-wapakman-may-be-banned-metro-film-fest Manila Bulletin&nbsp;– '&#39;Panday'&#39;, '&#39;Wapakman'&#39; May Be Banned from the Metro Film Fest]. Mb.com.ph (November 4, 2009). Retrieved on May 19, 2012. {{webarchive |url=https://web.archive.org/web/20130723173645/http://www.mb.com.ph/articles/227960/panday-wapakman-may-be-banned-metro-film-fest |date=July 23, 2013}}</ref> Like his previous films, ''Wapakman'' was not commercially successful.<ref>{{cite news|work=Manila Bulletin|title='Wapakman' suffers knockout |url=http://www.mb.com.ph/node/236087/wapakman-take |last=Ramos |first=Neil |url-status=dead |archiveurl=https://web.archive.org/web/20130723173800/http://www.mb.com.ph/node/236087/wapakman-take |archivedate=July 23, 2013}}</ref>
+
+Upon the expiration of his contract with ABS-CBN, Pacquiao signed with [[GMA Network]] as an actor in September 2007. On December 17, 2007, he taped his first episode of the networks [[infotainment]] show ''[[Pinoy Records]]''.<ref>{{cite news|title=iGMA discovers Manny Pacquiao's Achilles heel|url=http://www.gmanews.tv/story/73203/iGMA-discovers-Manny-Pacquiaos-Achilles-heel|work=GMA News}}</ref> His other projects with the network included ''[[Totoy Bato]]'' and the sitcom ''[[Show Me Da Manny]]'' in which his mother, Dionisia, also appeared.
+
+In 2011, Pacquiao appeared on ''[[Tosh.0]]'' in which he was paired in a fight with [[Daniel Tosh]]. It resulted in Pacquiao winning in one punch.
+
+==In popular culture==
+{{main|Pacquiao: The Movie|Kid Kulafu}}
+[[File:Manny Pacquiao 2015 stampsheet of the Philippines.jpg|thumb|upright=1.2|A stamp sheet issued by the [[Philippine Postal Corporation]] in April 2015|alt=]]
+A film based on Pacquiao's life, ''[[Pacquiao: The Movie]]'', was released on June 21, 2006, featuring Filipino actor [[Jericho Rosales]] as Manny Pacquiao and was directed by [[Joel Lamangan]].<ref>{{cite news | last = Sadiri | first = Walden | title = Joel Lamangan's 'Pacquiao:' Another knockout punch at the box office? |work=Manila Bulletin| date = June 12, 2006 | url = http://www.mb.com.ph/issues/2006/06/12/ENTR2006061266575.html | accessdate =September 4, 2007 |archiveurl = https://web.archive.org/web/20071020094533/http://www.mb.com.ph/issues/2006/06/12/ENTR2006061266575.html <!-- Bot retrieved archive --> |archivedate = October 20, 2007}}</ref> The film flopped at the box office, grossing a total of only P4,812,191 (approximately US$99,322), as confirmed by Lamangan.
+
+Another film, based on Pacquiao's early life in boxing, ''[[Kid Kulafu]]'', was released on April 15, 2015, featuring young actor [[Robert Villar]] as Emmanuel "Manny" Pacquiao. The film dramatizes the life of the Filipino boxing superstar during his childhood.
+
+A documentary entitled "Manny", which featured Pacquiao's early life as well as his boxing and political career, was released with [[Liam Neeson]] as the narrator.<ref>{{cite news | title = Manny Pacquiao Talks About 'Manny' | newspaper = TheMovieNetwork.com | date = April 14, 2015 | url = http://www.themovienetwork.com/interview/manny-pacquiao-talks-about-manny }}</ref>
+
+Pacquiao is featured in the boxing video games ''[[Fight Night Round 2]]'', ''[[Fight Night Round 3]]'', ''[[Fight Night Round 4]]'' and ''[[Fight Night Champion]]''. [[EA Sports]] released a limited edition demo of ''Fight Night Round 4'', featuring Pacquiao and Ricky Hatton prior to their [[Ricky Hatton vs. Manny Pacquiao|May 2 fight]].<ref>[http://www.gametrailers.com/video/demo-hatton-fight-night/49362?cid=YSSP – Pacquiao vs. Hatton Gameplay Demo for Fight Night Round 4]. Gametrailers.com (May 15, 2009). Retrieved on May 19, 2012. {{webarchive |url=https://web.archive.org/web/20111220045104/http://www.gametrailers.com/video/demo-hatton-fight-night/49362?cid=YSSP |date=December 20, 2011 }}</ref>
+
+Pacquiao became the first Filipino [[Sportsperson|athlete]] to appear on a [[postage stamp]].<ref>[http://www.gmanews.tv/video/22054/Boxing-champ-Pacquiao-to-appear-on-RP-postage-stamp Boxing champ Pacquiao to appear on RP postage stamp]. Gmanews.tv (May 3, 2008). Retrieved on May 19, 2012.</ref>
+
+Pacquiao became the first Filipino Olympic non-participant to be Team Philippines' flag-bearer during the August 8 opening ceremonies of the [[2008 Summer Olympics]] at the [[Beijing National Stadium]]. Swimmer [[Miguel Molina (swimmer)|Miguel Molina]], [[2005 Southeast Asian Games]]' Best Male Athlete, yielded the honor to Pacquiao, upon the request of President Gloria Macapagal-Arroyo to the national sports officials on the [[Philippines at the 2008 Summer Olympics]].<ref>{{cite news|title=Pacquiao records another first |work=Philippine Daily Inquirer|date=August 9, 2008 |url=http://www.inquirer.net/specialfeatures/ThePacquiaoFiles/view.php?db=1&article=20080809-153590 |url-status=dead |archiveurl=https://web.archive.org/web/20130723053324/http://www.inquirer.net/specialfeatures/ThePacquiaoFiles/view.php?db=1&article=20080809-153590 |archivedate=July 23, 2013 }}</ref>
+
+Various business sectors have solicited Pacquiao's help in endorsing their products through commercial advertisements in print and in broadcast media. These include detergents, medicines, foods, beverage, garments, telecommunications and even a political ad for politicians during the 2007 and 2010 [[Elections in the Philippines|Philippine elections]]. Additionally, Pacquiao appeared in commercials for [[Nike, Inc.|Nike]]'s "Fast Forward" campaign (with [[Tiger Woods]], [[Kobe Bryant]], [[Maria Sharapova]], [[Roger Federer]], [[Cristiano Ronaldo]] and [[Liu Xiang (hurdler)|Liu Xiang]]). Pacquiao also appeared in a commercial for [[San Miguel Corporation|San Miguel Beer]] with [[Jet Li]] and Érik Morales.{{citation needed|date=May 2015}}
+
+Pacquiao was one of [[Time 100|''Time's'' 100 most influential people]] for the year 2009, for his exploits in boxing and his influence among the [[Filipino people]].<ref>[http://www.time.com/time/specials/packages/completelist/0,29569,1894410,00.html 2009 TIME 100 Most Influential People –]. Time.com. Retrieved on May 19, 2012.</ref> Pacquiao was also included by ''Forbes'' in its annual [[Celebrity 100]] list for the year 2009, joining Hollywood actress [[Angelina Jolie]] and fellow athletes Woods and Bryant.<ref>[https://www.forbes.com/lists/2009/53/celebrity-09_The-Celebrity-100_Rank_3.html 2009 Celebrity 100 List]. Forbes.com. Retrieved on May 19, 2012.</ref>
+
+''Forbes'' also listed Pacquiao as the world's equal sixth highest paid athlete, with a total of $40 million or [[Philippine peso|₱]]2 billion pesos (₱2,000,000,000.00) from the second half of 2008 to the first half of 2009. Tied with him on the sixth spot was [[National Basketball Association|NBA]] player [[LeBron James]] and golfer [[Phil Mickelson]].<ref>[https://www.forbes.com/2009/06/17/top-earning-athletes-business-sports-top-earning-athletes.html The World's Highest-Paid Athletes (2009) –]. Forbes.com (June 17, 2009). Retrieved on May 19, 2012.</ref> Pacquiao was again included in [[Forbes' list of the world's highest-paid athletes|''Forbes''' list of highest paid athletes]] from the second half of 2009 to the first half of 2010; he was ranked eighth with an income of $42 million.<ref>{{cite news| url=https://www.forbes.com/2010/07/20/most-valuable-athletes-and-teams-business-sports-sportsmoney-fifty-fifty-athletes_slide_9.html | work=Forbes | first1=Michael K. | last1=Ozanian | first2=Kurt | last2=Badenhausen | title=Slide Show: The World's 50 Top-Earning Athletes}}</ref> Pacquiao also won the 2009 [[ESPY Awards]] for the [[Best Fighter ESPY Award|Best Fighter]] category, beating fellow boxer Shane Mosley and [[Brazilians|Brazilian]] [[mixed martial arts]] fighters Lyoto Machida and Anderson Silva.<ref name="gmanews.tv">[http://www.gmanews.tv/story/167506/Pacquiao-is-2009-ESPY-Awards-Best-Fighter Pacquiao is 2009 ESPY Awards' Best Fighter –]. Gmanews.tv (July 16, 2009). Retrieved on May 19, 2012.</ref> [[ESPN Magazine]] reported that Pacquiao was one of the two top earning athletes for 2010, alongside American [[Major League Baseball]] player [[Alex Rodriguez]]. According to the magazine's annual salary report of athletes, Pacquiao earned $32 million (approximately PhP 1.38 billion) for his two 2010 boxing matches against Clottey and Margarito.<ref>Pacquiao is highest paid athlete for 2010, says ESPN Mag Yahoo Philippines News Retrieved October 5, 2011</ref>
+
+Pacquiao has also appeared on the cover of ''Time'' magazine Asia for their November 16, 2009, issue. According to their five-page feature story, "(Pacquiao is) a fighter with enough charisma, intelligence and backstory to help rescue a sport lost in the labyrinth of pay-per-view. Global brands like Nike want him in their ads." They also added, "Pacquiao has a myth of origin equal to that of any Greek or Roman hero. He leaves the Philippines to make it even bigger, conquering the world again and again to bring back riches to his family and friends."<ref>Chua, Howard. (November 16, 2009) [http://www.time.com/time/magazine/article/0,9171,1935091,00.html The Meaning and Mythos of Manny Pacquiao –]. Time.com. Retrieved on May 19, 2012.</ref> Pacquiao became the eighth Filipino to grace the cover of the prestigious magazine, after former [[List of Presidents of the Philippines|Philippine presidents]] [[Manuel L. Quezon]], [[Ramon Magsaysay]], [[Ferdinand Marcos]], [[Corazon Aquino]], Gloria Macapagal-Arroyo, Benigno "Noynoy" Aquino III and Filipino actress and environmentalist [[Chin Chin Gutierrez]]. Pacquiao was also featured on the cover of [[Reader's Digest]] Asia, where a seven-page story was written about the Filipino boxing superstar. The issue came out in November 2008, before [[Oscar De La Hoya vs. Manny Pacquiao|Pacquiao's epic match against De La Hoya]].
+
+Pacquiao is also mentioned in some [[Hip hop music|hip hop]] tracks including [[Kool A.D.]]'s song entitled "Manny Pacquiao" on his mixtape, ''[[51 (album)|51]]''. A few notable ones are [[Pitbull (entertainer)|Pitbull]]'s "Get It Started", [[ASAP Rocky|A$AP Rocky]]'s "Phoenix", [[Bad Meets Evil]] and [[Bruno Mars]]' "Lighters", [[Eminem]] and [[Skylar Grey]]'s "Asshole", [[Future (rapper)|Future]]'s "Never Gon' Lose", [[Migos]]' "Chinatown", [[Nicki Minaj]] and [[Ciara]]'s "I'm Legit" and [[Rick Ross (rapper)|Rick Ross]]'s "High Definition", to name a few.<ref>{{cite web|url=http://www.xxlmag.com/news/2015/05/20-hip-hop-songs-manny-pacquiao/|title=20 Hip-Hop Songs That Shout Out Manny Pacquiao|work=XXL}}</ref>
+
+==Controversies==
+
+=== Tax evasion ===
+On November 26, 2013, a few days after Pacquiao's victory over Brandon Ríos, the Philippine [[Bureau of Internal Revenue (Philippines)|Bureau of Internal Revenue]] (BIR) issued a freeze order on all of Pacquiao's Philippine bank accounts due to his alleged failure to pay ₱2.2 billion in taxes for earnings he made in his fights in the United States from 2008 to 2009. A day after the bank account freeze, the BIR also issued an order to freeze all of Pacquiao's Philippine properties, whereupon Pacquiao presented documents to the press showing the income tax for non-resident alien payment by his [[Top Rank|promoter]] to the BIR's US counterpart, the [[Internal Revenue Service]] (IRS), as well as a letter from [[Bob Arum]].<ref>{{cite news|url=http://www.gmanetwork.com/news/story/337272/economy/moneyandbanking/pacquiao-shows-us-tax-document-but-bir-says-it-has-no-proof-of-payment|title=Pacquiao shows US tax document but BIR says it has no proof of payment|work=GMA News}}</ref> In April 2017, Pacquiao, now a senator, approached Philippine authorities in an attempt to settle the case. The BIR had maintained that taxes were due even if all taxes had been paid to the IRS in the first place.<ref>{{Cite news|url=https://news.abs-cbn.com/business/04/18/17/pacquiao-says-he-wants-to-end-p22-b-tax-case|title=Pacquiao says he wants to end P2.2-B tax case|work=ABS-CBN News}}</ref>
+
+=== Homosexuality comments ===
+Pacquiao is against [[same-sex marriage]] and has been quoted as saying "God only expects man and women to be together and to be legally married."<ref>{{cite news|url=https://www.huffingtonpost.com/2012/05/16/manny-pacquiao-gay-marriage-leviticus-examiner_n_1521747.html|title=Manny Pacquiao Against Same-Sex Marriage But Never Said Gay People 'Must Be Put To Death'|work=The Huffington Post | date=May 16, 2012}}</ref>
+
+{{cquote|If we approve male on male, female on female (marriage), then man is worse than animal.
+| author = Part of Manny Pacquiao's stand on same-sex marriage in a video statement by TV5 posted on February 15, 2016.<ref>{{cite news|url=http://www.interaksyon.com/interaktv/manny-pacquiaos-stand-on-same-sex-marriage-mas-masahol-pa-sa-hayop-ang-tao|title=Manny Pacquiao's stand on same-sex marriage: 'Mas masahol pa sa hayop ang tao'|newspaper=[[InterAksyon]]|date=February 15, 2016|accessdate=February 17, 2016|url-status=dead|archiveurl=https://web.archive.org/web/20160216224554/http://www.interaksyon.com/interaktv/manny-pacquiaos-stand-on-same-sex-marriage-mas-masahol-pa-sa-hayop-ang-tao|archivedate=February 16, 2016|df=mdy-all}}</ref>
+}}
+
+In February 2016, Pacquiao, in a video statement posted by [[TV5 (Philippines)|TV5]], made a comment on the issue of same-sex marriage. Pacquiao, in vernacular, described people in same-sex marriages as behaving worse than animals because, he said, animals generally do not have same-sex mating.<ref>{{cite news|url=http://sports.abs-cbn.com/boxing/news/2016/02/16/pacquiao-draws-flak-masahol-pa-sa-hayop-comment-8860|title=Pacquiao draws flak for "masahol pa sa hayop" comment|publisher=[[ABS-CBN Sports]]|date=February 16, 2016|accessdate=February 16, 2016}}</ref> LGBT celebrities including comedian [[Vice Ganda]], singer [[Aiza Seguerra]], TV host [[Boy Abunda]] and the party-list [[Ladlad]] criticized the statements of the senatorial candidate. Pacquiao later apologized and stated that while, as a Christian, he is still against same-sex marriage, which he said is against Biblical teachings, he did not condemn gay people themselves.<ref>{{cite news|url=https://www.bbc.com/news/world-asia-35585016|title=Philippine boxer Manny Pacquiao apologises for gay slur|work=[[BBC]]|date=February 16, 2016|accessdate=February 16, 2016}}</ref> [[Nike, Inc.|Nike]] ended their longtime partnership with Pacquiao, stating his comments against gay people were abhorrent.<ref>{{cite news|last1=Fernandez|first1=Erick|title=Nike Drops Manny Pacquiao Following Anti-Gay Comments|url=https://www.huffingtonpost.com/entry/nike-manny-pacquiao-anti-gay-comments_us_56c49e12e4b0b40245c8918c|work=Huffington Post|accessdate=February 18, 2016}}</ref> [[The Grove at Farmers Market]] in [[Los Angeles]] also [[Persona non grata|banned]] Pacquiao from the shopping mall.<ref>{{cite news|url=http://www.rappler.com/sports/by-sport/boxing-mma/pacquiao/126323-pacquiao-banned-grove|title=Manny Pacquiao once again banned from The Grove over gay remarks|work=Rappler|date=March 18, 2016|accessdate=March 19, 2016}}</ref>
+
+Towards the end of the video, Pacquiao clarified that he is not condemning gay people.
+
+{{cquote|...but I am not condemning them, just the marriage which is a sin against God.
+| author = Continuation of Manny Pacquiao's stand on same-sex marriage in a video statement by TV5 posted later on February 19, 2016.<ref>{{cite news|url=http://www.thesummitexpress.com/2016/02/Manny-Pacquiao-uncut-version-interview-video.html|title=VIDEO: Uncut version of Manny Pacquiao's controversial interview emerges online|publisher=The Summit Express|date=February 19, 2016|accessdate=February 19, 2016}}</ref>
+}}
+
+=== Disclosure of injury ===
+It was revealed following [[Floyd Mayweather Jr. vs. Manny Pacquiao|Mayweather vs. Pacquiao]] that Pacquiao had sustained an undisclosed injury to his right shoulder while training and that while it had healed in time for the fight, he re-injured it during the 4th round. {{as of|2015}}, Pacquiao is currently facing a lawsuit of 5 million dollars filed against him by two fans for failing to disclose the shoulder injury in the lead up to his bout with [[Floyd Mayweather Jr.|Floyd Mayweather]].<ref>{{cite web|url=http://www.designntrend.com/articles/49947/20150505/manny-pacquiao-hit-with-5-million-class-action-lawsuit-after-two-fans-say-he-lied-about-his-injury-in-the-mayweather-fight.htm|archive-url=https://web.archive.org/web/20150507021746/http://www.designntrend.com/articles/49947/20150505/manny-pacquiao-hit-with-5-million-class-action-lawsuit-after-two-fans-say-he-lied-about-his-injury-in-the-mayweather-fight.htm|url-status=dead|archive-date=May 7, 2015|title=Manny Pacquiao Hit With $5 Million Class-Action Lawsuit After Two Fans Say He Lied About His Injury In The Mayweather Fight|work=Design & Trend}}</ref> Pacquiao failed to disclose the injury to the Nevada State Athletic Commission in the pre-fight injury evaluation.<ref>{{cite web|url=https://www.nbcnews.com/watch/cnbc/manny-pacquiao-failed-to-disclose-shoulder-injury-440750659566 |title=Manny Pacquiao faces class action lawsuit |work=NBC News |url-status=dead |archiveurl=https://web.archive.org/web/20150518093717/http://www.nbcnews.com/watch/cnbc/manny-pacquiao-failed-to-disclose-shoulder-injury-440750659566 |archivedate=May 18, 2015 }}</ref><ref>{{cite news| url=http://www.nydailynews.com/sports/more-sports/pacquiao-failure-disclose-injury-perjury-article-1.2210373 | location=New York | work=Daily News | title=Pacquiao's failure to reveal injury may bring perjury charge | date=May 5, 2015}}</ref> The commission did a standard injury report with Pacquiao filling out the form saying that he had no injuries heading into the bout. Pacquiao said he had sustained the injury weeks out from the fight against Mayweather. However, after the lawsuit from the two fans was filed against him, Pacquiao has since said that he sustained the injury during the fight in which it flared up in the 3rd round.<ref>{{cite web|url=http://www.thetimes.co.uk/tto/sport/boxing/article4431663.ece|title=Nevada State stance rubs salt into Pacquiao's wound|work=The Times}}</ref> The Nevada State Athletic Commission stated at the post fight press conference that they had only just found out about Pacquiao's injury that evening at the post fight press conference. Speculation arose that the injury was an excuse for the loss to Mayweather because Pacquiao did not mention an injury in the post fight interview with [[Max Kellerman]]. Pacquiao's promoter Bob Arum stated that Pacquiao suffered the injury back in 2008, causing even more confusion as Pacquiao, now facing a lawsuit, had just previously stated that he suffered the injury during the fight.<ref>{{cite web|url=http://www.boxingnews24.com/2015/05/arum-says-pacquiao-has-had-shoulder-injury-since-2008/|title=Arum says Pacquiao has had shoulder injury since 2008|work=Boxing News 24}}</ref>
+
+=== COVID-19 concerns ===
+On March 4, 2020, Pacquiao hosted a party at his residence, the attendees of which included fellow Senator [[Koko Pimentel]]. Pimentel was later diagnosed with COVID-19, prompting the Dasmarinas Village barangay council to order Pacquiao to self-isolate at his residence, declaring him a 'person under monitoring'.<ref>{{Cite web|date=2020-03-27|title=Manny Pacquiao, family asked to stay home|url=https://www.espn.com/boxing/story/_/id/28962449/manny-pacquiao-family-asked-stay-home|access-date=2020-08-25|website=ESPN.com|language=en}}</ref>
+
+== Personal life ==
+Pacquiao married [[Jinkee Pacquiao|Jinkee Jamora]] on May 10, 2000. Together, they have five children, Emmanuel Jr. (Jimuel), Michael Stephen, Mary Divine Grace (Princess), Queen Elizabeth (Queenie) and Israel. His son, Jimuel, is an amateur boxer.<ref>{{Cite news|title=WATCH: Manny Pacquiao’s son Jimuel wins his first amateur fight via KO|url=https://www.gmanetwork.com/news/sports/boxing/691167/manny-pacquiao-s-son-jimuel-wins-his-first-amateur-fight-via-ko/story/|work=GMA News}}</ref> His daughter, Queenie, was born in the [[United States]]. He resides in his hometown of [[General Santos City]], [[South Cotabato]], Philippines.<ref>{{cite web|date=|title=canadastarboxing.com, Profile and Bio|url=http://www.canadastarboxing.com/Fighters/manny-pacquiao-profile.htm|url-status=dead|archiveurl=https://web.archive.org/web/20100329104105/http://www.canadastarboxing.com/Fighters/manny-pacquiao-profile.htm|archivedate=March 29, 2010|accessdate=May 9, 2011|publisher=Canadastarboxing.com}}</ref> However, as a congressman of the lone [[Legislative district of Sarangani|district of Sarangani]], he is officially residing in [[Kiamba, Sarangani]], the hometown of his wife.
+
+On December 11, 2019, Pacquiao graduated from [[University of Makati]] with a bachelor's degree in political science; majoring in local government administration through the Expanded Tertiary Education Equivalency and Accreditation Program (ETEEAP) of the Philippine Councilors League-Legislative Academy (PCCLA) which allows qualified Filipinos to complete a collegiate-level education via informal education system.<ref>{{Cite web|url=https://news.abs-cbn.com/news/12/11/19/pacquiao-graduates-from-university-of-makati|title=Pacquiao graduates from University of Makati|first=ABS-CBN|last=News|website=ABS-CBN News}}</ref><ref>{{Cite web|url=https://www.interaksyon.com/politics-issues/2019/12/13/158828/manny-pacquiao-bachelors-degree-political-science-graduate-diploma/|title=Ang dami niyang time? How Manny Pacquiao obtained his bachelor's degree|first=Jeline|last=Malasig|date=December 13, 2019}}</ref>
+
+Raised in the [[Catholic Church|Catholic]] faith,<ref>{{cite news|last=Davies|first=Gareth A|date=April 30, 2009|title=Boxer Manny Pacquiao looks beyond the ring to politics after Ricky Hatton fight|work=The Daily Telegraph|location=London|url=https://www.telegraph.co.uk/sport/othersports/boxingandmma/5243745/Boxer-Manny-Pacquiao-looks-beyond-the-ring-to-politics-after-Ricky-Hatton-fight.html|accessdate=May 12, 2010}}</ref> Pacquiao is currently a practicing [[Evangelicalism|Evangelical Protestant]].<ref>{{cite web|last=Kalaf|first=Samer|date=December 10, 2012|title=Manny Pacquiao's Mom Thinks He Lost Because He's No Longer A Catholic|url=http://deadspin.com/5967285/manny-pacquiaos-mom-thinks-he-lost-because-hes-no-longer-a-catholic|accessdate=April 14, 2014|website=[[Deadspin]]|publisher=[[Gawker Media]]}}</ref><ref>{{cite news|last=Samano|first=Simon|date=December 11, 2012|title=Manny Pacquiao's mom blames loss on switching religion|work=[[USA Today]]|publisher=[[Gannett Company]]|url=https://www.usatoday.com/story/gameon/2012/12/10/manny-pacquiao-mother-blames-religion-for-loss/1759863/|accessdate=April 14, 2014}}</ref><ref>{{cite news|last=De Leon|first=Job|date=October 9, 2013|title=Jeremy Lin Supports Boxer Manny Pacquiao's God Talk, Says He's Being Real|url=http://www.gmanetwork.com/news/story/329938/sports/basketball/nba-lin-supports-pacquiao-s-newfound-faith-hopes-for-howard-s-integration-in-houston|accessdate=April 14, 2014|work=GMA News|publisher=The Christian Post Company}}</ref> Pacquiao said he once had a dream where he saw a pair of [[angel]]s and heard the voice of [[God in Christianity|God]]{{em dash}}this dream convinced him to become a devout believer.<ref>{{cite news|last=Ellis|first=Mark|date=April 30, 2015|title=When Boxing Champion Manny Pacquiao Saw Angels and Heard God's Voice|work=[[Charisma News]]|url=http://www.charismanews.com/culture/49419-when-boxing-champion-manny-pacquiao-saw-angels-and-heard-god-s-voice|accessdate=July 10, 2016}}</ref>
+
+==Awards and recognitions==
+On February 18, 2009, Pacquiao was conferred the Honorary Degree of Doctor of Humanities (Honoris Causa) by [[Southwestern University (Philippines)|Southwestern University]] (SWU) at the [[Waterfront Cebu City Hotel & Casino]] in Lahug, [[Cebu City]] in recognition of his boxing achievements and humanitarian work.<ref>{{cite web|author=|date=|title=Pacman: new GS alumnus|url=http://swugradschool.com/publication/102|accessdate=March 14, 2010|work=SWU Publications|publisher=[[Southwestern University (Philippines)|Southwestern University]]}}</ref>
+
+'''''International:'''''
+*2000–2009 '''[[Boxing Writers Association of America]] Fighter of the Decade'''<ref name="sports.espn.go.com">[http://sports.espn.go.com/sports/boxing/news/story?id=4875455 Manny Pacquiao wins BWAA fighter of the year and fighter of the decade]. Sports.espn.go.com (January 31, 2010). Retrieved on May 19, 2012.</ref>
+*2000–2009 [[HBO]] Fighter of the Decade<ref>Thomas Hauser [https://web.archive.org/web/20091217144534/http://www.hbo.com/boxing/features/fighter_deacade/fighter_decade.html HBO: Boxing: Fighter of the Decade]. hbo.com (December 11, 2009)</ref>
+*2001–2010 '''[[World Boxing Council]] Boxer of the Decade'''<ref>[http://www.mb.com.ph/articles/296606/pacquiao-fighter-decade TSS Pacquiao named WBC's Fighter of the Decade – ManilaBulletin.com]. Mb.com.ph (January 4, 2011). Retrieved on May 19, 2012. {{webarchive |url=https://web.archive.org/web/20130723173935/http://www.mb.com.ph/articles/296606/pacquiao-fighter-decade |date=July 23, 2013 }}</ref>
+*2001–2010 '''[[World Boxing Organization]] Best Pound-for-Pound Fighter of the Decade'''<ref>[http://www.wboboxing.com/wbo-best-fighter-of-the-decade/ WBO Best Fighter Of The Decade] {{Webarchive|url=https://web.archive.org/web/20170730122746/http://www.wboboxing.com/wbo-best-fighter-of-the-decade/ |date=2017-07-30 }}. WBOBoxing.com (June 7, 2012). Retrieved on June 8, 2012.</ref>
+*2006, 2008 and 2009 '''[[Edward J. Neil Trophy|Boxing Writers Association of America's Fighter of the Year]]'''<ref>[http://blogs.nypost.com/sports/willis/archives/2009/03/no_surprise_pac.html No Surprise: Pacquiao Fighter of the Year – NYPost.com] {{webarchive|url=https://web.archive.org/web/20090327115404/http://blogs.nypost.com/sports/willis/archives/2009/03/no_surprise_pac.html |date=March 27, 2009 }}. Blogs.nypost.com (March 24, 2009). Retrieved on May 19, 2012.</ref>
+*2006, 2008 and 2009 [[ESPN]] Fighter of the Year<ref>[http://sports.espn.go.com/sports/boxing/columns/story?columnist=rafael_dan&id=4774025 Pacquiao is Fighter of the Year – ESPN.com]. Sports.espn.go.com (December 29, 2009). Retrieved on May 19, 2012.</ref>
+*2006, 2008 and 2009 '''[[Ring Magazine|''The Ring'']] [[Ring Magazine fighters of the year|Fighter of the Year]]'''
+*2008 [[Sports Illustrated]] Boxer of the Year<ref>[http://sportsillustrated.cnn.com/2008/writers/chris_mannix/12/18/2008-boxing-awards/index.html SportIllustrated.com, SI.com's 2008 Boxing Awards]. Sportsillustrated.cnn.com (December 18, 2008). Retrieved on May 19, 2012. {{webarchive |url=https://web.archive.org/web/20140529230228/http://sportsillustrated.cnn.com/2008/writers/chris_mannix/12/18/2008-boxing-awards/index.html |date=May 29, 2014 }}</ref>
+*2008 [[Yahoo! Sports]] Fighter of the Year<ref>Iole, Kevin. (December 25, 2008) [https://sports.yahoo.com/box/news?slug=ki-topfighters122608&prov=yhoo&type=lgns Meet the Fighter of the Year]. Sports.yahoo.com. Retrieved on May 19, 2012.</ref>
+*2008 and 2009 [[ESPN Star Sports|ESPN Star]]'s Champion of Champions<ref>[http://hoops.blink.ph/2009/01/01/pacquiao-named-espn-star-sports-champion-of-champions/ hoops.blink.ph, Pacquiao named ESPN STAR Sports' Champion of Champions]. Hoops.blink.ph (January 1, 2009). Retrieved on May 19, 2012. {{webarchive |url=https://web.archive.org/web/20120319004722/http://hoops.blink.ph/2009/01/01/pacquiao-named-espn-star-sports-champion-of-champions/ |date=March 19, 2012 }}</ref>
+*2008 and 2009 '''[[World Boxing Council]] Boxer of the Year'''<ref>[http://philboxing.com/news/story-21202.html philboxing.com, WBC names Pacquiao 'World Boxer of the Year']. Philboxing.com (December 17, 2008). Retrieved on May 19, 2012.</ref><ref>[http://www.boxingscene.com/?m=show&id=24985 BoxingScene.com, Manny Pacquiao named Fighter of the Year by WBC]. Boxingscene.com (January 29, 2010). Retrieved on May 19, 2012.</ref>
+*2008, 2009, 2010 and 2011 ''[[Ring Magazine pound for pound|The Ring]]'' No.1 Pound-for-Pound (year-end)
+*2009 [[ESPN]] Knockout of the Year (''in Round 2 against Ricky Hatton'')<ref>[http://sports.espn.go.com/sports/boxing/columns/story?columnist=rafael_dan&id=4781887 Pacquiao wins 2009 Knockout of the Year – ESPN.com]. Sports.espn.go.com (December 30, 2009). Retrieved on May 19, 2012.</ref>
+*2009 and 2011 '''[[ESPY Awards]] [[Best Fighter ESPY Award|Best Fighter]]'''<ref>[http://espn.go.com/espn/story/_/id/6767665/2011-espy-awards-winners-revealed-los-angeles Mavericks, Dirk Nowitzki win at ESPYs]. Sports.espn.go.com (July 14, 2011). Retrieved on May 20, 2012.</ref>
+*2009 and 2015 ''[[Forbes]]'' magazine World's Highest-Paid Athletes (ranked 6th and 2nd)<ref>[https://www.forbes.com/2009/06/17/top-earning-athletes-business-sports-top-earning-athletes_slide_9.html The World's Highest-Paid Athletes]. Forbes.com (June 17, 2009). Retrieved on May 19, 2012.</ref><ref>{{cite web|url=http://my.xfinity.com/slideshow/sports-highestpaidathletes/9/|archive-url=https://web.archive.org/web/20151014220407/http://my.xfinity.com/slideshow/sports-highestpaidathletes/9/|url-status=dead|archive-date=October 14, 2015|title=No. 2 Manny Pacquiao – Forbes.com: World's Highest-Paid Athletes – XFINITY|accessdate=May 2, 2016}}</ref>
+*2009 ''[[Sports Illustrated]]'' Fighter of the Year<ref>[http://sportsillustrated.cnn.com/2009/writers/chris_mannix/12/23/boxing.awards.pacquiao/index.html Manny Pacquiao is SI.com's Fighter of the Year for 2009]. Sportsillustrated.cnn.com (December 23, 2009). Retrieved on May 19, 2012. {{webarchive |url=https://web.archive.org/web/20130723170233/http://sportsillustrated.cnn.com/2009/writers/chris_mannix/12/23/boxing.awards.pacquiao/index.html |date=July 23, 2013 }}</ref>
+*2009 [[The Ring Magazine|''The Ring'']] [[Ring Magazine knockouts of the year|Knockout of the Year]] (''in Round 2 against Ricky Hatton'')
+*2009 ''[[Time (magazine)|TIME]]'' [[Time 100|100 Most Influential People]] (Heroes and Icons Category)<ref>Lewis, Lennox. (April 30, 2009) [http://www.time.com/time/specials/packages/article/0,28804,1894410_1894289_1894356,00.html Manny Pacquiao in 2009 TIME 100 –]. Time.com. Retrieved on May 19, 2012.</ref>
+*2009, 2010, 2012 and 2015 ''[[Forbes]]'' magazine [[Celebrity 100|Celebrity 100 (The World's Most Powerful Celebrity)]] (ranked 57th, 55th, 33rd and 2nd)<ref>[https://www.forbes.com/celebrities/list/ The World's Most Powerful Celebrity]. Forbes.com. Retrieved on May 20, 2012.</ref>
+*2010 '''[[World Boxing Organization]] Fighter of the Year'''<ref>[http://www.inquirer.net/sports/articles/Pacquiao-is-WBO-years-best-boxer.html Pacquiao is WBO year's best boxer]. Inquirer.net. Retrieved on May 19, 2012. {{webarchive |url=https://web.archive.org/web/20130723053244/http://www.inquirer.net/sports/articles/Pacquiao-is-WBO-years-best-boxer.html |date=July 23, 2013 }}</ref>
+*2010 [[Yahoo! Sports]] Boxing's Most Influential (ranked 25th)<ref>Iole, Kevin. (September 5, 2010) [https://sports.yahoo.com/box/news?slug=ki-topfifty090510 Boxing's Most Boxing's most influential: Nos. 1–50]. Sports.yahoo.com. Retrieved on May 19, 2012.</ref>
+*2011 [[Las Vegas Walk of Stars]] Awardee<ref>{{cite web|url=http://www.pinasglobal.com/2011/04/pacquiao-kauna-unahang-pinoy-na-nabigyan-ng-%E2%80%9Cstar%E2%80%9D-sa-las-vegas-walk-of-fame/ |title=Pacquiao, kauna-unahang Pinoy na nabigyan ng "star" sa Las Vegas Walk of Fame |work=PINAS |accessdate=May 2, 2016 |url-status=dead |archiveurl=https://web.archive.org/web/20160307102558/http://www.pinasglobal.com/2011/04/pacquiao-kauna-unahang-pinoy-na-nabigyan-ng-%E2%80%9Cstar%E2%80%9D-sa-las-vegas-walk-of-fame/ |archivedate=March 7, 2016 |df= }}</ref>
+*2011 [[Guinness World Records]] Most boxing world titles in different weight divisions (8 times; since November 13, 2010)<ref>[http://www.guinnessworldrecords.com/world-records/most-boxing-world-titles-in-different-weight-divisions/ Most boxing world titles in different weight divisions]. GuinnessWorldRecords.com. Retrieved on December 20, 2014.</ref>
+*2012 Laredo Asian Association Special Recognition Award<ref>{{Cite web|url=http://philboxing.com/news/story-77274.html|title=PACQUIAO PROUD TO BE ASIAN|website=philboxing.com}}</ref>
+*2013 On The Ropes Boxing Awards Comeback Fighter of the Year<ref>[http://ontheropesboxing.com/manny-pacquiao-wins-comeback-fight-of-the-year-2013-on-the-ropes-boxing-awards/ MANNY PACQUIAO WINS COMEBACK FIGHTER OF THE YEAR! 2013 “ON THE ROPES” BOXING AWARDS], ontheropesboxing.com, December 28, 2013</ref>
+*2013, 2014, 2015 and 2016 [[Reader's Digest]] Asia Pacific Most Trusted Sports Personality<ref>[http://www.gmanetwork.com/news/story/309876/pinoyabroad/pinoyachievers/jessica-soho-vic-sotto-and-manny-pacquiao-among-most-trusted-personalities-reader-s-digest Jessica Soho, Vic Sotto, and Manny Pacquiao among most trusted personalities – Reader's Digest]. GMA News (May 24, 2013). Retrieved on December 12, 2014.</ref><ref>{{cite news|url=http://business.inquirer.net/211743/readers-digest-trusted-brands-2016-recognizing-the-consumers-choice|title=Reader’s Digest Trusted Brands 2016: Recognizing the consumers' choice|work=Philippine Daily Inquirer}}</ref>
+*2014 On The Ropes Boxing Awards Fighter of the Year<ref>[http://ontheropesboxing.com/manny-pacquiao-named-the-2014-fighter-of-the-year-on-the-ropes-boxing-awards-part-2/ MANNY PACQUIAO NAMED THE 2014 FIGHTER OF THE YEAR! “ON THE ROPES” BOXING AWARDS – PART TWO], ontheropesboxing.com, December 31, 2014</ref>
+*2014 PublicAffairsAsia HP Gold Standard Award for Communicator of the Year<ref>[https://finance.yahoo.com/news/boxing-legend-pacquiao-secures-gold-030000918.html Boxing Legend Pacquiao Secures Gold Standard Award for Communications]. PublicAffairsAsia (December 8, 2014). Retrieved on December 10, 2014. {{webarchive |url=https://web.archive.org/web/20141214200820/https://finance.yahoo.com/news/boxing-legend-pacquiao-secures-gold-030000918.html |date=December 14, 2014 }}</ref>
+*2015 Asia Society's Asia Game Changer of the Year<ref>{{cite web|url=http://asiasociety.org/philippines/manny-pacquiao-2015-asia-game-changer-year|title=Manny Pacquiao is 2015 Asia Game Changer of the Year|work=Asia Society|accessdate=May 2, 2016}}</ref>
+*2016 ''[[Forbes]]'' magazine Boxing's MVPs (ranked 4th)<ref>{{cite web|url=https://www.forbes.com/sites/joshkatzowitz/2016/12/27/boxings-2016-mvps-include-manny-pacquiao-gennady-golovkin-andre-ward-and-one-big-surprise/|title=Boxing's 2016 MVPs Include Manny Pacquiao, Gennady Golovkin, Andre Ward, And One Big Surprise|work=Forbes|accessdate=December 30, 2016}}</ref>
+*2019 ''Forbes'' magazine Highest Paid Athletes of the Decade (ranked 8th)<ref>{{Cite web|url=https://www.cnnphilippines.com/sports/2019/12/26/Manny-Pacquiao-highest-paid-athlete-Forbes.html|title=Pacquiao among highest-paid athletes of the decade – Forbes|website=cnn}}</ref>
+*2019 World Boxing News Fighter of the year 
+
+'''''National:'''''
+*2000–2009 '''[[PSA Sportsman of the Year|Philippine Sportswriters Association]] Athlete of the Decade'''<ref>[http://abs-cbnnews.com/sports/01/12/10/psa-names-pacquiao-athlete-decade PSA names Pacquiao athlete of the decade –]. Abs-cbnnews.com (January 12, 2010). Retrieved on May 19, 2012.</ref>
+*2000–2009 [[Gabriel "Flash" Elorde]] Memorial Boxer of the Decade<ref>{{Cite web |url=http://ph.promo.yahoo.com/ringside-with-manny/article?blogid=yblog&postid=66&viewPost=1 |title=Archived copy |access-date=2019-03-21 |archive-url=https://web.archive.org/web/20100331170529/http://ph.promo.yahoo.com/ringside-with-manny/article?blogid=yblog&postid=66&viewPost=1 |archive-date=2010-03-31 |url-status=dead }}</ref>
+*2001, 2002, 2003, 2004, 2005, 2006 and 2007 [[Gabriel "Flash" Elorde]] Memorial Boxer of the Year<ref>{{Cite news|url=https://www.philstar.com/sports/2007/03/04/387726/pacquiao-heads-honorees-elorde-boxing-awards|title=Pacquiao heads honorees in Elorde Boxing Awards|work=The Philippine Star}}</ref><ref>{{Cite web|url=http://philboxing.com/news/story-15210.html|title=Pacquiao, four others Elorde boxers of year|website=philboxing.com}}</ref>
+*2002, 2003, 2004, 2006 and 2008 [[PSA Sportsman of the Year]]
+*2003 Presidential Medal of Merit
+*2003 and 2010 Congressional Medal of Achievement / Distinction / Honor
+*2006 [[Order of Lakandula]] with the rank of "Champion for Life" (''Kampeon Habambuhay'')<ref name="sunstar.com.ph">[http://sports.inquirer.net/breakingnews/breakingnews/view/20091120-237391/Arroyo-confers-Order-of-Sikatuna-to-boxing-champ-Pacquiao Arroyo confers Order of Sikatuna to boxing champ Pacquiao]. Sports.inquirer.net (November 20, 2009). Retrieved on May 19, 2012. {{webarchive |url=https://web.archive.org/web/20130723053324/http://sports.inquirer.net/breakingnews/breakingnews/view/20091120-237391/Arroyo-confers-Order-of-Sikatuna-to-boxing-champ-Pacquiao |date=July 23, 2013 }}</ref>
+*2006 [[Eastwood City Walk of Fame]] Awardee
+*2006 [[Box Office Entertainment Awards|36th GMMSF Box-Office Entertainment Awards]] People's Hero Award<ref>{{Cite news|url=https://www.philstar.com/entertainment/2006/02/23/322859/box-office-entertainment-awards|title=The Box-Office Entertainment Awards|work=The Philippine Star}}</ref>
+*2008 [[Gabriel "Flash" Elorde]] Memorial Hall of Fame Awardee<ref>{{Cite news|url=https://www.philstar.com/sports/2008/02/03/42510/pacquiao-elevated-elorde-hall-fame|title=Pacquiao elevated to Elorde Hall of Fame|work=The Philippine Star}}</ref>
+*2008 [[Philippine Legion of Honor]] with the rank of [[Philippine Legion of Honor#Ranks|"Officer" (''Pinuno'')]]<ref>[https://archive.today/20120914144800/http://www.philstar.com/Article.aspx?articleid=426231 Philstar.com, Sergeant Pacquiao gets Legion of Honor]. Philstar.com (December 23, 2008). Retrieved on May 19, 2012.</ref>
+*2008 [[University Athletic Association of the Philippines]] (UAAP) Honorary Award for Sports Excellence<ref>[https://archive.today/20120723060028/http://techbeta.abs-cbnnews.com/sports/07/06/08/pacquiao-receives-uaap-sports-excellence-award Pacquiao receives UAAP Sports Excellence award]. abs-cbnnews.com (July 6, 2008)</ref>
+*2009 [[Gabriel "Flash" Elorde]] Memorial Best Pound For Pound Boxer Award<ref>{{Cite news|url=https://news.abs-cbn.com/sports/03/02/09/elorde-awards-fete-pacquiao|title=Elorde Awards to fete Pacquiao|work=ABS-CBN News}}</ref>
+*2009 25th Philippine Movie Press Club Star Awards for Movies Newsmaker of the Year<ref>{{cite news|url=http://www.pep.ph/news/21918/sharon-cuneta-and-jericho-rosales-win-top-honors-in-star-awards-for-movies-2009|title=Sharon Cuneta and Jericho Rosales win top honors in Star Awards for Movies 2009|author=Jocelyn Dimaculangan|date=May 29, 2009|work=Philippine Entertainment Portal|accessdate=May 2, 2016}}</ref>
+*2009 [[Order of Sikatuna]] with the rank of ''Datu'' (Grand Cross with Gold Distinction)
+*2010–2019 '''[[PSA Sportsman of the Year|Philippine Sportswriters Association]] Athlete of the Decade'''<ref>{{Cite web|url=https://www.philstar.com/sports/2019/12/30/1980759/game-changers-decade|title=Game-changers of the decade|first=Joaquin|last=Henson|website=philstar.com}}</ref>
+*2011 [[Gabriel "Flash" Elorde]] Memorial "Quintessential Athlete" Award
+*2012 [[Gabriel "Flash" Elorde]] Memorial "Man of Others" Award<ref>{{Cite news|url=http://www.rappler.com/sports/3031-in-photos-boxing-s-best-in-the-12th-elorde-awards|title=IN PHOTOS: Boxing's best in the 12th Elorde Awards|work=Rappler}}</ref>
+*2013, 2016 and 2018 [[Gabriel "Flash" Elorde]] Memorial Award of Distinction<ref>{{Cite news|url=https://www.philstar.com/sports/2014/02/23/1293576/nietes-3-others-honored-14th-elorde-awards|title=Nietes, 3 others honored in 14th Elorde Awards|work=The Philippine Star}}</ref><ref>{{Cite news|url=http://www.rappler.com/sports/by-sport/boxing-mma/164101-pacquiao-nietes-honored-elorde-awards|title=Pacquiao, Nietes to be honored at 17th Elorde Awards Banquet|work=Rappler}}</ref><ref>{{Cite web|url=http://philboxing.com/news/story-143126.html|title=Manny speaks at Elorde Awards Night|website=philboxing.com}}</ref>
+*2015 MEGA Man Magazine Man of the Year<ref>{{Cite web|url=https://www.magzter.com/share/mag/9664/127529|title=MEGA Man Magazine October 2015 issue – Get your digital copy|website=Magzter}}</ref>
+*2017 Bawas Bisyo Youth for Sin Tax Movement Anti-smoking champion<ref>{{cite news|url=http://www.philstar.com/headlines/2017/10/10/1747439/pacquiao-seeks-double-tobacco-tax|title=Pacquiao seeks to double tobacco tax rate – Philstar.com|work=The Philippine Star|accessdate=July 17, 2018}}</ref>
+*2018 League of Municipalities of the Philippines – Cebu "Cebuano Heritage Award for Manny Pacquiao"<ref>{{Cite web|url=http://philboxing.com/news/story-139828.html|title=CEBU MAYORS CONFER PACQUIAO A C.H.A.M.P.|website=philboxing.com}}</ref>
+*2019 [[Box Office Entertainment Awards|50th GMMSF Box-Office Entertainment Awards]] Global Achievement by a Filipino Award<ref>{{Cite web|url=http://www.manilastandard.net/showbitz/tv-movies/291092/gma-network-wins-big-at-the-50th-box-office-entertainment-awards.html|title=GMA Network wins big at the 50th Box Office Entertainment Awards}}</ref>
+
+== Election Stats ==
+{{Election box begin no change | title=2007 Philippine House of Representatives election at South Cotabato's 1st district}}
+{{Election box winning candidate with party link no change|
+  |party      = Nationalist People's Coalition
+  |candidate  = [[Darlene Antonino-Custodio]]
+  |votes      = 139,061
+  |percentage = 64.49
+  |change     = }}
+{{Election box candidate with party link no change|
+  |party      = Liberal Party (Philippines)
+  |candidate  = Manny Pacquiao
+  |votes      = 75,908
+  |percentage = 35.51
+  |change     = }}
+{{Election box valid no change
+  |votes      = 214,969
+  |percentage = 100.00
+  |change     =
+}}
+{{Election box hold with party link without swing
+  |winner     = Nationalist People's Coalition
+}}
+{{Election box end}}
+{{Election box begin no change | title=2010 Philippine House of Representatives election at Sarangani}}
+{{Election box winning candidate with party link no change|
+  |party      = People's Champ Movement
+  |candidate  = Manny Pacquiao
+  |votes      = 120,052
+  |percentage = 66.35
+  |change     = }}
+{{Election box candidate with party link no change|
+  |party      = Sarangani Reconciliation and Reformation Organization
+  |candidate  = Roy Chiongbian
+  |votes      = 60,899
+  |percentage = 33.65
+  |change     = }}
+{{Election box valid no change
+  |votes      = 180,591
+  |percentage = 97.57
+  |change     =
+}}
+{{Election box invalid no change
+  |votes      = 4,499
+  |percentage = 2.43
+  |change     =
+}}
+{{Election box total no change
+  |votes      = 180,951
+  |percentage = 100.00
+  |change     =
+}}
+{{Election box gain with party link without swing
+  |winner     = People's Champ Movement
+  |loser      = Sarangani Reconciliation and Reformation Organization
+}}
+{{Election box end}}
+
+{{Election box begin | title=2013 Philippine House of Representatives election at Sarangani}}
+  {{Election box winning candidate with party link|
+   |party      = United Nationalist Alliance
+   |candidate  = Manny Pacquiao
+   |votes      = 144,926
+   |percentage =
+   |change     =
+ }}
+ {{Election box margin of victory
+   |votes      =
+   |percentage =
+   |change     =
+ }}
+ {{Election box rejected|
+   |votes      = 47,085
+   |percentage =
+   |change     =
+ }}
+ {{Election box turnout|votes=192,011|percentage=100|change=}}
+ {{Election box hold with party link
+   |winner     = United Nationalist Alliance
+   |swing      =
+ }}
+{{Election box end}}
+
+== Filmography ==
+
+=== Film ===
+{| class="wikitable sortable"
+|-
+! Year
+! Title
+! class="unsortable" |Role
+! class="unsortable" |Notes
+|-
+| style="text-align:center;" |TBA
+|''Freedom Fighters''
+|[[Macario Peralta Jr.|Col. Macario Peralta, Jr.]]
+| 
+|-
+| style="text-align:center;" |2020
+|''[[Malvar (film)|Malvar]]''
+|[[Miguel Malvar|Gen. Miguel Malvar]]
+| 
+|-
+| style="text-align:center;" |2015
+|''[[Manny (film)|Manny]]''
+| Himself
+| Documentary film
+|-
+| style="text-align:center;" |2009
+|''[[Wapakman]]''
+| Magno Meneses/Wapakman
+|[[35th Metro Manila Film Festival]] entry
+|-
+| rowspan="3" style="text-align:center;" |2008
+|''Pangarap Kong Jackpot''
+| Abel
+| Segment "Sa Ngalan ng Busabos"
+|-
+|''Brown Soup Thing''
+| Cousin Manny
+| 
+|-
+|''[[Anak ng Kumander]]''
+| Kumander Idel
+| Story
+|-
+| style="text-align:center;" |2005
+|''Lisensyadong Kamao''
+| Ambrocio "Bruce" Lerio
+| 
+|-
+| rowspan="2" style="text-align:center;" |2001
+|''Basagan ng Mukha''
+| Dodong
+| 
+|-
+|''Mahal Kita... Kahit Sino Ka Pa!''
+| Dong
+| 
+|-
+| style="text-align:center;" |2000
+|''Di Ko Kayang Tanggapin''
+| Dong
+| 
+|}
+
+=== Television ===
+{| class="wikitable sortable"
+|-
+! Year
+! Title
+! class="unsortable" |Role
+! class="unsortable" |Network
+|-
+| style="text-align:center;" |2017–2019
+|''[[Stories for the Soul]]''
+| Host
+| rowspan="7" |[[GMA Network]]
+|-
+| style="text-align:center;" |2014–2015
+|''[[Sport Science (TV series)|MP Featuring Sport Science]]''
+| Host
+|-
+| style="text-align:center;" |2013
+|''[[Para sa 'Yo ang Laban na Ito]]''
+| Host
+|-
+| style="text-align:center;" |2011–2012
+|''[[Manny Many Prizes]]''
+| Host
+|-
+| style="text-align:center;" |2009–2011
+|''[[Show Me Da Manny]]''
+| Manuel "Manny" Santos
+|-
+| style="text-align:center;" |2009
+|''[[Totoy Bato]]''
+| Emmanuel
+|-
+| style="text-align:center;" |2007–2010
+|''[[Pinoy Records]]''
+| Host
+|-
+| style="text-align:center;" |2005
+|''Kamao: Matira Ang Matibay''
+| Host
+|[[ABS-CBN (TV network)|ABS-CBN]]
+|}
+
+=== TV documentary film ===
+{| class="wikitable sortable"
+|-
+! Year
+! Title
+! class="unsortable" |Role
+! class="unsortable" |Notes
+|-
+| style="text-align:center;" |2019
+|''PBC Fight Camp: Pacquiao vs. Thurman''
+| Himself
+| TV documentary – Fox
+|-
+| style="text-align:center;" |2019
+|''All Access: Pacquiao vs. Broner''
+| Himself
+| TV documentary – Showtime
+|-
+| style="text-align:center;" |2015
+|''Pacman: Laban Kung Laban''
+| Himself
+| TV documentary – ABS-CBN
+|-
+| style="text-align:center;" |2015
+|''At Last: Mayweather vs. Pacquiao''
+| Himself
+| TV documentary – HBO
+|-
+| style="text-align:center;" |2015
+|''Inside Mayweather vs. Pacquiao''
+| Himself
+| TV documentary – Showtime
+|-
+| style="text-align:center;" |2014
+|''24/7: Pacquiao/Algieri''
+| Himself
+| TV documentary – HBO
+|-
+| style="text-align:center;" |2014
+|''24/7: Pacquiao/Bradley 2''
+| Himself
+| TV documentary – HBO
+|-
+| style="text-align:center;" |2013
+|''24/7: Pacquiao/Rios''
+| Himself
+| TV documentary – HBO
+|-
+| style="text-align:center;" |2012
+|''24/7: Pacquiao/Marquez 4''
+| Himself
+| TV documentary – HBO
+|-
+| style="text-align:center;" |2012
+|''24/7: Pacquiao/Bradley''
+| Himself
+| TV documentary – HBO
+|-
+| style="text-align:center;" |2012
+|''The Fighters''
+| Himself
+| TV documentary – CNN
+|-
+| style="text-align:center;" |2012
+|''I Am Bruce Lee''
+| Himself
+| TV documentary – History
+|-
+| style="text-align:center;" |2011
+|''24/7: Pacquiao/Marquez''
+| Himself
+| TV documentary – HBO
+|-
+| style="text-align:center;" |2011
+|''Fight Camp 360°: Pacquiao vs. Mosley''
+| Himself
+| TV documentary – Showtime
+|-
+| style="text-align:center;" |2010
+|''24/7: Pacquiao/Margarito''
+| Himself
+| TV documentary – HBO
+|-
+| style="text-align:center;" |2010
+|''Road to Dallas: Pacquiao vs. Clottey''
+| Himself
+| TV documentary – HBO
+|-
+| style="text-align:center;" |2010
+|''Manny Pacquiao''
+| Himself
+| TV documentary – BIO Channel
+|-
+| style="text-align:center;" |2009
+|''24/7: Pacquiao/Cotto''
+| Himself
+| TV documentary – HBO
+|-
+| style="text-align:center;" |2009
+|''3 Kings: Viloria, Pacquiao, Donaire''
+| Himself
+| TV documentary – C/S 9
+|-
+| style="text-align:center;" |2009
+|''Team Pacquiao''
+| Himself
+| TV documentary – GMA Network
+|-
+| style="text-align:center;" |2009
+|''24/7: Pacquiao/Hatton''
+| Himself
+| TV documentary – HBO
+|-
+| style="text-align:center;" |2008
+|''24/7: De La Hoya/Pacquiao''
+| Himself
+| TV documentary – HBO
+|-
+| style="text-align:center;" |2008
+|''Countdown to Pacquiao-Marquez 2''
+| Himself
+| TV documentary – HBO
+|-
+| style="text-align:center;" |2007
+|''Countdown to Pacquiao-Barrera 2''
+| Himself
+| TV documentary – HBO
+|-
+| style="text-align:center;" |2006
+|''Countdown to Pacquiao-Morales 3''
+| Himself
+| TV documentary – HBO
+|-
+| style="text-align:center;" |2004
+|''The People's Champion''
+| Himself
+| Video documentary – VIVA Films
+|-
+| style="text-align:center;" |2004
+|''No Fear: The Manny Pacquiao Story''
+| Himself
+| Video documentary – VIVA Films
+|}
+
+=== Video game appearances ===
+{| class="wikitable"
+|- style="background:#b0c4de; text-align:center;"
+! Year !! Video Game !! Role !! Other Notes
+|-
+| 2005
+|''[[Fight Night Round 2]]''
+| rowspan="7" |Himself
+| rowspan="4" |<sub>Playable fighter</sub>
+|-
+| 2006
+|''[[Fight Night Round 3]]''
+|-
+| 2009
+|''[[Fight Night Round 4]]''
+|-
+| rowspan="2" |2011
+|''[[Fight Night Champion]]''
+|-
+|''Pound for Pound''
+|<sub>Main character – Mobile game</sub>
+|-
+| 2015
+|''PBA Philippine Slam!''
+|<sub>Playable player – Mobile game</sub>
+|-
+| 2017
+|''Real Boxing: Manny Pacquiao''
+|<sub>Main character – Mobile game</sub>
+|}
+
+==Discography==
+[[File:Manny Pacman Pacquiao 1.jpg|thumb|Pacquiao in 2009]]
+Pacquiao has also turned to singing as part of his entertainment career. Most of the [[Tagalog language|Tagalog]] songs of Pacquiao were composed by [[Lito Camo]]. The following are the songs from Manny Pacquiao's albums:
+
+*'''''Laban Nating Lahat Ito''''' (2006) – under [[Star Records]]
+**"Bilog" ("''Circle''")
+**"Para Sa'Yo ang Laban Na 'To" ("''This Fight Is for You''")
+**"Pagsubok Lamang Yan" ("''It's Just a Challenge''")
+**"Byaheng Pag-asa" ("''Voyage of Hope''")
+**"Ipakita Mo" ("''Show Them''")
+**"Ikaw at Ako" ("''You and Me''")
+**"Hindi Ko Kaya" ("''I Can't Do It''")
+**"Kanta Tayo" ("''Let's Sing''")
+**"Champion Sa Kantahan" ("''Champion in Singing''")
+**"Laban Nating Lahat Ito" ("''This Is Our Fight''") – feat. [[Francis Magalona]]
+*'''''Pac-Man Punch''''' (2007) – under [[MCA Records]]
+**"Pac-Man Punch" – Willie Wilcox feat. Nemesis Yankee and Manny Pacquiao
+**"Pac-Man Punch (R U Ready?)" – Willie Wilcox feat. Nemesis Yankee
+**"Pac-Man Punch (Knockout Remix)" – Willie Wilcox feat. Nemesis Yankee and Manny Pacquiao
+**"Pac-Man Punch (Minus One)"
+*2011 single
+**"[[Sometimes When We Touch]]" – with [[Dan Hill]]<ref>[https://www.reuters.com/article/2011/04/21/us-mannypacquiao-idUSTRE73K8N920110421 Manny Pacquiao to release "Sometimes When We Touch"]. Reuters (April 21, 2011)</ref>
+*2013 charity single
+**"Bangon Kaibigan" ("''Rise My Friend''") – with various [[GMA Network|Kapuso Artists]] ([[Sunday All Stars|Kapuso All-Stars]])<ref>[http://www.gmanetwork.com/news/story/341493/showbiz/ang-simpleng-panawagan-ni-rep-manny-pacquiao Ang simpleng panawagan ni Rep. Manny Pacquiao]. gmanetwork.com. gmanetwork.com</ref>
+*'''''Lalaban Ako Para Sa Pilipino''''' (EP, 2015) – under [[GMA Records]]
+**"[[Lalaban Ako Para Sa Pilipino]]" ("''I Will Fight for the Filipinos''")
+**"Team Pacquiao" feat. Gloc 9
+**"Lahing Pinoy" ("''The Filipino Race''")
+**"Para Sa'yo ang Laban Na 'To" ("''This Fight Is for You''")
+
+== Basketball stats ==
+{{PBA player statistics legend}}
+
+=== PBA season-by-season averages ===
+''Correct as of February 18, 2018''<ref>{{Cite web|title=Manny Pacquiao - Career Stats - HumbleBola|url=http://stats.humblebola.com/pba/players/580-Pacquiao-Manny|website=stats.humblebola.com}}</ref><ref>[http://www.pba-online.net/profile/Manny-Pacquiao/583/ Player Profile] at PBA-Online!</ref>
+{{PBA player statistics start}}
+|-
+| align=left | {{pbay|2014}}
+| align=left | [[Kia Picanto (PBA team)|Kia Picanto]]
+| 4 || 6.1 || .000 || .000 || '''.500''' || .5 || '''.3''' || .0 || .0 || .3
+|-
+| align=left | {{pbay|2015}}
+| align=left | [[Kia Picanto (PBA team)|Kia Picanto]]
+| '''5''' || 5.3 || .200 || '''.250''' || '''.500''' || .4 || .2 || .0 || .0 || 1.2
+|-
+| align=left | {{pbay|2016}}
+| align=left | [[Kia Picanto (PBA team)|Kia Picanto]]
+| 1 || '''8.6''' || '''.750''' || .000 || .000 || '''1.0''' || .0 || .0 || .0 || '''6.0'''
+|-
+|- class="sortbottom"
+| align=center colspan=2 | Career
+| 10 || 5.9 || .125 || .125 || .400 || .5 || .2 || .0 || .0 || 1.3
+{{End}}
+
+=== UNTV Cup season-by-season averages ===
+''Correct as of February 2, 2019''<ref>{{Cite web|url=https://www.untvcup.com/|title=UNTV Cup - The League of Public Servants}}</ref>
+{{PBA player statistics start}}
+|-
+| align=left | [[UNTV Cup Season 7|2018-19]]
+| align=left | [[Senate of the Philippines|Senate Defenders]]
+| '''1''' || 0 || .000 || .000 || .000 || .0 || .0 || .0 || .0 || '''12.0'''
+|-
+|- class="sortbottom"
+| align=center colspan=2 | Career
+| 1 || 0 || .000 || .000 || .000 || .0 || .0 || .0 || .0 || 12.0
+{{End}}
+
+==See also==
+{{Div col}}
+*[[List of The Ring world champions|List of ''The Ring'' world champions]]
+*[[List of WBC world champions]]
+*[[List of IBF world champions]]
+*[[List of WBO world champions]]
+*[[List of IBO world champions]]
+*[[List of flyweight boxing champions]]
+*[[List of super bantamweight boxing champions]]
+*[[List of super featherweight boxing champions]]
+*[[List of lightweight boxing champions]]
+*[[List of welterweight boxing champions]]
+*[[List of light middleweight boxing champions]]
+*[[List of boxing triple champions]]
+*[[List of boxing quadruple champions]]
+*[[List of boxing quintuple champions]]
+*[[List of boxing sextuple champions]]
+*[[List of boxing septuple champions]]
+*[[List of Filipino boxing world champions]]
+*[[List of left-handed boxers]]
+*[[The Ring magazine Pound for Pound|''The Ring'' pound for pound]]
+{{Div col end}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{Wikiquote-inline}}
+*{{Commonscatinline}}
+*[http://www.pinoygreats.com/ Official fan site (formerly Pacland)]
+*{{Boxrec|id=006129}}
+*{{IMDb name|1301525}}
+*[https://web.archive.org/web/20150506202501/http://www.congress.gov.ph/members/search.php?id=pacquiao-e Rep. Emmanuel D. Pacquiao official profile] at the [[Congress of the Philippines]]
+*[http://www.hbo.com/boxing/people/manny-pacquiao/index.html Manny Pacquiao profile] at [[HBO]]
+*[http://boxing.about.com/od/records/a/pacquiao.htm Manny Pacquiao profile] at [[About.com]]
+*[https://www.gq.com/story/manny-pacquiao-boxer?printable=true The Biggest Little Man in the World] by ''[[GQ Magazine]]''
+*[https://web.archive.org/web/20130723184522/http://nike.com.ph/pacquiao/ Nike – Inside Pacquiao]
+*[http://garyandrewpoole.com/manny-pacquiao/ PacMan: Behind the Scenes with Manny Pacquiao: A Biography of Pacquiao] by [[Gary Andrew Poole]]
+*[https://web.archive.org/web/20170730105430/http://www.menshealth.co.uk/fitness/sports-training/manny-pacquiao-power-workout The Manny Pacquiao workout] at ''[[Men's Health]]'' UK
+
+{{s-start}}
+{{s-sports|oly}}
+{{s-before|before=[[Christopher Camat]]}}
+{{s-ttl|title=[[List of flag bearers for the Philippines at the Olympics|Flagbearer]] for {{PHI}}
+|years=[[2008 Summer Olympics|Beijing 2008]] (non-participant)}}
+{{s-after|after=[[Hidilyn Diaz]]}}
+{{s-par|ph-lwr}}
+{{s-bef|before=Erwin L. Chiongbian}}
+{{s-ttl|title=[[House of Representatives of the Philippines|Representative]], [[Legislative district of Sarangani|Lone District of Sarangani]]
+|years=2010–2016}}
+{{s-aft|after=Rogelio D. Pacquiao}}
+{{s-ppo}}
+{{s-break}}
+{{s-non|reason=New political party}}
+{{s-ttl|title=[[People's Champ Movement|Chairman of People's Champ Movement]]
+|years=2009–present}}
+{{s-inc}}
+{{s-end}}
+
+{{Manny Pacquiao}}
+{{Navboxes
+|state = collapsed
+|list1 = {{17th Congress of the Philippines senators}}
+{{18th Congress of the Philippines senators}}
+{{ESPY Best Fighter}}
+{{Ring magazine Fighter of the Year}}
+{{Sugar Ray Robinson Award}}
+{{Kia Picanto}}
+{{2014 PBA draft}}
+{{OLSCCL Recipients}}
+{{PLH Recipients}}
+}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Pacquiao, Manny}}
+[[Category:Manny Pacquiao| ]]
+[[Category:1978 births]]
+[[Category:Angelic visionaries]]
+[[Category:Anti-same-sex-marriage activists]]
+[[Category:Boxers from South Cotabato]]
+[[Category:Columbian Dyip players]]
+[[Category:Converts to evangelical Christianity from Roman Catholicism]]
+[[Category:Filipino actor-politicians]]
+[[Category:Filipino businesspeople]]
+[[Category:Filipino evangelicals]]
+[[Category:Filipino male actors]]
+[[Category:Filipino male boxers]]
+[[Category:Filipino male singers]]
+[[Category:Filipino men's basketball coaches]]
+[[Category:Filipino men's basketball players]]
+[[Category:Filipino sportsperson-politicians]]
+[[Category:Grand Crosses of the Order of Sikatuna]]
+[[Category:International Boxing Federation champions]]
+[[Category:Kabalikat ng Malayang Pilipino politicians]]
+[[Category:Liberal Party (Philippines) politicians]]
+[[Category:Living people]]
+[[Category:Members of the House of Representatives of the Philippines from Sarangani]]
+[[Category:Nacionalista Party politicians]]
+[[Category:Notre Dame Educational Association Alumni]]
+[[Category:Pacquiao family|Manny]]
+[[Category:People from Bukidnon]]
+[[Category:People from Sarangani]]
+[[Category:People's Champ Movement politicians]]
+[[Category:Philippine Basketball Association coaches]]
+[[Category:Player-coaches]]
+[[Category:Point guards]]
+[[Category:Recipients of the Order of Lakandula]]
+[[Category:The Ring champions]]
+[[Category:Senators of the 17th Congress of the Philippines]]
+[[Category:Senators of the 18th Congress of the Philippines]]
+[[Category:Southpaw boxers]]
+[[Category:Sportspeople from General Santos]]
+[[Category:United Nationalist Alliance politicians]]
+[[Category:Visayan people]]
+[[Category:World Boxing Association champions]]
+[[Category:World Boxing Council champions]]
+[[Category:World Boxing Organization champions]]
+[[Category:World featherweight boxing champions]]
+[[Category:World flyweight boxing champions]]
+[[Category:World light-middleweight boxing champions]]
+[[Category:World light-welterweight boxing champions]]
+[[Category:World lightweight boxing champions]]
+[[Category:World super-bantamweight boxing champions]]
+[[Category:World super-featherweight boxing champions]]
+[[Category:World welterweight boxing champions]]

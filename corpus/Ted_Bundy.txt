@@ -1,0 +1,1517 @@
+{{About||the 2002 biographical film|Ted Bundy (film)}}
+{{pp-semi-indef|small=yes}}
+{{pp-move-indef}}
+{{short description|American serial killer (1946–1989)}}
+{{Use mdy dates|date=February 2020}}
+{{good article}}
+{{Infobox murderer
+|name        = Ted Bundy
+|image       = Ted Bundy headshot.jpg
+|caption     = Bundy in July 1978
+|alt         = A monochrome photograph of a man with a slight smile.
+|alias       = {{ubl|Chris Hagen|Kenneth Misner|Officer Roseland|Richard Burton|Rolf Miller<ref name="BundyAppealBrief" />}}
+|birth_name  = Theodore Robert Cowell
+|birth_date  = {{Birth date|1946|11|24}}
+|birth_place = [[Burlington, Vermont]], U.S.
+|death_date  = {{Death date and age|1989|1|24|1946|11|24}}
+|death_place = [[Florida State Prison]], [[Bradford County, Florida]], United States
+|alma_mater  = {{ublist|[[University of Puget Sound]]|[[University of Washington]]|[[Temple University]]|[[University of Utah]]}}
+|party       = [[Republican Party (U.S.)|Republican]]
+|cause       = [[Electric chair|Execution by electrocution]]{{sfn|Nelson|1994|pp=323, 327}}
+|penalty     = [[Capital punishment|Death by electrocution]]
+|victims     = 30 confessed; total unconfirmed
+|country     = United States
+|states      = {{hlist|California|Colorado|Florida|Idaho|Oregon|Utah|Washington}}
+|beginyear   = February 1, 1974{{spaces}}
+|endyear     = {{spaces}}February 9, 1978
+|escaped     = {{ubl|June 7, 1977 – June 13, 1977|December 30, 1977 – February 15, 1978}}
+|apprehended = August 16, 1975
+|conviction  = {{ubl|[[Kidnapping|Aggravated kidnapping]]|[[Attempted murder]]|[[Burglary]]|[[Murder]]}}
+|spouse      = {{marriage|Carole Ann Boone|1980|1986}}
+|children    = 1
+|resting_place=Body cremated in [[Gainesville, Florida]]; ashes scattered at an undisclosed location at [[Cascade Range]], Washington.|parents={{plainlist|
+*Jack Worthington (alleged father)
+*Eleanor Louise Cowell (mother)
+*Johnny Culpepper Bundy (adopted father)
+}}}}
+
+'''Theodore Robert Bundy''' ([[né]] '''Cowell'''; November 24, 1946&nbsp;– January 24, 1989) was an American [[serial killer]] who kidnapped, raped, and murdered numerous young women and girls during the 1970s and possibly earlier. After more than a decade of denials, before his execution in 1989 he confessed to 30 homicides that he committed in seven states between 1974 and 1978. The true number of victims is unknown and possibly higher.
+
+Bundy was regarded as handsome and charismatic, traits that he exploited to win the trust of victims and society. He would typically approach his victims in public places, feigning injury or disability, or impersonating an authority figure, before knocking them unconscious and taking them to secluded locations to rape and strangle them. He sometimes revisited his secondary crime scenes, grooming and [[Necrophilia|performing sexual acts]] with the decomposing corpses until [[putrefaction]] and destruction by wild animals made any further interactions impossible. He [[Decapitation|decapitated]] at least 12 victims and kept some of the severed heads as mementos in his apartment. On a few occasions, he broke into dwellings at night and bludgeoned his victims as they slept.
+
+In 1975, Bundy was jailed for the first time when he was incarcerated in Utah for aggravated kidnapping and attempted criminal assault. He then became a suspect in a progressively longer list of unsolved homicides in several states. Facing murder charges in Colorado, he engineered two dramatic escapes and committed further assaults in Florida, including three murders, before his ultimate recapture in 1978. For the Florida homicides, he received three death sentences in two trials. Bundy was executed in the [[electric chair]] at [[Florida State Prison]] in [[Raiford, Florida]] on January 24, 1989.
+
+Biographer [[Ann Rule]], who had previously worked with Bundy, described him as "a sadistic [[sociopath]] who took pleasure from another human's pain and the control he had over his victims, to the point of death, and even after."{{sfn|Rule|2009|p=xiv}} He once called himself "the most cold-hearted son of a bitch you'll ever meet."{{sfn|Michaud|Aynesworth|1999|p=263}}<ref name="Hare1999" /> Attorney [[Polly Nelson]], a member of his last defense team, wrote Bundy was "the very definition of heartless evil."{{sfn|Nelson|1994|p=319}}
+
+{{toc limit|3}}
+
+== Early life ==
+
+=== Childhood ===
+Ted Bundy was born Theodore Robert Cowell on November 24, 1946, to Eleanor Louise Cowell (1924–2012; known as Louise) at the Elizabeth Lund Home for Unwed Mothers<ref>
+[http://www.lundvt.org/ Lund Family Center] {{Webarchive|url=https://web.archive.org/web/20170307150638/https://lundvt.org/ |date=March 7, 2017 }} {{webarchive|url=https://web.archive.org/web/20170307150638/https://lundvt.org/ |date=March 7, 2017 }}, retrieved September 30, 2015.
+</ref> in [[Burlington, Vermont]]. His father's identity has never been confirmed. His birth certificate is said to assign paternity to a salesman and [[United States Air Force|Air Force]] veteran named Lloyd Marshall,{{sfn|Rule|2000|p=8}} though other accounts state his father is listed as "Unknown".{{sfn|Michaud|Aynesworth|1999|p=62}} Louise claimed she had been seduced by an [[old money]] war veteran named Jack Worthington,{{sfn|Michaud|Aynesworth|1999|pp=56, 330}} and the [[King County Sheriff's Office]] has him listed as the father in their files.{{sfn|Sullivan|2019|p=176}} Some family members have expressed suspicions that Bundy might have been fathered by Louise's own violent, abusive father, Samuel Cowell,{{sfn|Michaud|Aynesworth|1999|p=56}} but no material evidence has ever been cited to support this.{{sfn|Rule|2009|p=xxxiv}}
+
+For the first three years of his life, Bundy lived in the [[Philadelphia]] home of his maternal grandparents, Samuel (1898–1983) and Eleanor Cowell (1895–1971), who raised him as their son to avoid the social stigma that accompanied birth outside of wedlock. Family, friends, and even young Ted were told that his grandparents were his parents and that his mother was his older sister. He eventually discovered the truth, although he had varied recollections of the circumstances. He told a girlfriend that a cousin showed him a copy of his birth certificate after calling him a "bastard,"{{sfn|Kendall|1981|pp=40–41}} but he told biographers Stephen Michaud and [[Hugh Aynesworth]] that he found the certificate himself.{{sfn|Michaud|Aynesworth|1999|p=62}} Biographer and [[true crime]] writer [[Ann Rule]], who knew Bundy personally, believed that he did not find out until 1969, when he located his original birth record in Vermont.{{sfn|Rule|2000|pp=16–17}} Bundy expressed a lifelong resentment toward his mother for never talking to him about his real father, and for leaving him to discover his true parentage for himself.{{sfn|Rule|2009|pp=51–52}}
+
+In some interviews, Bundy spoke warmly of his grandparents{{sfn|Michaud|Aynesworth|1989|pp=17–18}} and told Rule that he "identified with," "respected," and "clung to" his grandfather.{{sfn|Rule|2009|p=9}} In 1987, however, he and other family members told attorneys that Samuel Cowell was a tyrannical bully and a bigot who hated blacks, Italians, Catholics, and Jews, beat his wife and the family dog, and swung neighborhood cats by their tails. He once threw Louise's younger sister Julia down a flight of stairs for oversleeping.{{sfn|Michaud|Aynesworth|1999|p=330}} He sometimes spoke aloud to unseen presences,{{sfn|Nelson|1994|p=154}} and at least once flew into a violent rage when the question of Bundy's paternity was raised.{{sfn|Michaud|Aynesworth|1999|p=330}}
+
+Bundy described his grandmother as a timid and obedient woman who periodically underwent [[electroconvulsive therapy]] for depression{{sfn|Nelson|1994|p=154}} and feared to leave their house toward the end of her life.{{sfn|Rule|2000|pp=501–08}} Bundy occasionally exhibited disturbing behavior at an early age. Julia recalled awakening from a nap to find herself surrounded by knives from the kitchen and Bundy standing by the bed smiling.{{sfn|Rule|2000|p=505}}
+[[File:Ted Bundy HS Yearbook.jpeg|thumb|right|180px|Bundy as a senior in high school, 1965]]
+In 1950, Louise changed her surname from Cowell to Nelson,{{sfn|Rule|2000|p=8}} and at the urging of multiple family members, she left Philadelphia with her son to live with cousins Alan and Jane Scott in [[Tacoma, Washington]].{{sfn|Nelson|1994|p=155}} In 1951 Louise met Johnny Culpepper Bundy (1921–2007), a hospital cook, at an adult singles night at Tacoma's First Methodist Church.{{sfn|Michaud|Aynesworth|1999|p=57}} They married later that year and Johnny Bundy formally adopted Ted.{{sfn|Michaud|Aynesworth|1999|p=57}} Johnny and Louise conceived four children of their own, and although Johnny tried to include his adoptive son in camping trips and other family activities, Ted remained distant. He later complained to his girlfriend that Johnny wasn't his real father, "wasn't very bright," and "didn't make much money."{{sfn|Rule|2009|p=51}}
+
+Bundy had different recollections of Tacoma when he spoke to his biographers. When he talked to Michaud and Aynesworth, he described how he roamed his neighborhood, picking through trash barrels in search of pictures of naked women.{{sfn|Michaud|Aynesworth|1989|p=22}} When he spoke to Polly Nelson, he explained how he perused detective magazines, crime novels, and true crime documentaries for stories that involved sexual violence, particularly when the stories were illustrated with pictures of dead or maimed bodies.{{sfn|Nelson|1994|pp=277–78}} In a letter to Rule, he asserted that he "never, ever read fact-detective magazines, and shuddered at the thought" that anyone would.{{sfn|Rule|2009|p=612}} In his conversation with Michaud, he described how he would consume large quantities of alcohol and "canvass the community" late at night in search of undraped windows where he could observe women undressing, or "whatever [else] could be seen."{{sfn|Michaud|Aynesworth|1989|pp=74–77}}
+
+Bundy also varied the accounts of his social life. He told Michaud and Aynesworth that he "chose to be alone" as an adolescent because he was unable to understand interpersonal relationships.{{sfn|Michaud|Aynesworth|1999|p=64}} He claimed that he had no natural sense of how to develop friendships. "I didn't know what made people want to be friends," he said. "I didn't know what underlay social interactions."{{sfn|Michaud|Aynesworth|1999|p=66}} Classmates from [[Woodrow Wilson High School (Tacoma, Washington)|Woodrow Wilson High School]] told Rule, however, that Bundy was "well known and well liked" there, "a medium-sized fish in a large pond."{{sfn|Rule|2009|p=13}}
+
+Downhill skiing was Bundy's only significant athletic avocation; he enthusiastically pursued the activity by using stolen equipment and forged lift tickets.{{sfn|Michaud|Aynesworth|1999|p=62}}
+
+During high school, he was arrested at least twice on suspicion of burglary and auto theft. When he reached age 18, the details of the incidents were expunged from his record, which is customary in Washington.{{sfn|Rule|2009|pp=13–14}}
+
+=== University years ===
+After graduating from high school in 1965, Bundy attended the [[University of Puget Sound]] (UPS) for one year before transferring to the [[University of Washington]] (UW) to study Chinese.{{sfn|Rule|2009|p=14}} In 1967, he became romantically involved with a UW classmate who is identified by several pseudonyms in Bundy biographies, most commonly "Stephanie Brooks."<ref name="akaLeslieHolland" /> In early 1968 he dropped out of college and worked at a series of minimum-wage jobs. He also volunteered at the Seattle office of [[Nelson Rockefeller]]'s presidential campaign<ref name="timeline" /> and became [[Arthur Fletcher]]'s driver and bodyguard during Fletcher's campaign for Lieutenant Governor of Washington State.<ref name="bundyfletcher">Rule, Ann. ''The Stranger Beside Me'' pg. 15. 1980. Penguin Putnam. New York, NY.</ref>
+
+In August Bundy attended the [[1968 Republican National Convention]] in Miami as a Rockefeller delegate.{{sfn|Larsen|1980|pp=5, 7}} Shortly thereafter Brooks ended their relationship and returned to her family home in California, frustrated by what she described as Bundy's immaturity and lack of ambition. Psychiatrist [[Dorothy Otnow Lewis|Dorothy Lewis]] would later pinpoint this crisis as "probably the pivotal time in his development".{{sfn|Nelson|1994|p=279}} Devastated by Brooks' rejection, Bundy traveled to Colorado and then farther east, visiting relatives in Arkansas and Philadelphia and enrolling for one semester at [[Temple University]].{{sfn|Rule|2009|p=19}} It was at this time in early 1969, Rule believes, that Bundy visited the office of birth records in Burlington and confirmed his true parentage.{{sfn|Rule|2009|p=19}}{{sfn|Michaud|Aynesworth|1999|p=53}}
+
+Bundy was back in Washington by the fall of 1969 when he met Elizabeth Kloepfer (identified in Bundy literature as Meg Anders, Beth Archer, or Liz Kendall), a divorcée from [[Ogden, Utah]] who worked as a secretary at the University of Washington School of Medicine.{{sfn|Michaud|Aynesworth|1999|p=74}} Their stormy relationship would continue well past his initial incarceration in Utah in 1976.
+
+In mid-1970, Bundy, now focused and goal-oriented, re-enrolled at UW, this time as a psychology major. He became an honor student and was well regarded by his professors.{{sfn|Rule|2000|pp=18–20}} In 1971, he took a job at Seattle's Suicide Hotline Crisis Center, where he met and worked alongside Ann Rule, a former Seattle police officer. An aspiring crime writer, she would later write one of the definitive Bundy biographies, ''[[The Stranger Beside Me]]''. Rule saw nothing disturbing in Bundy's personality at the time, and described him as "kind, solicitous, and empathetic".{{sfn|Rule|2000|pp=22–33}}
+
+After graduating from UW in 1972,{{sfn|Michaud|Aynesworth|1999|p=76}} Bundy joined Governor [[Daniel J. Evans]]' re-election campaign.{{sfn|Rule|2009|p=39}} Posing as a college student, he shadowed Evans' opponent, former governor [[Albert Rosellini]], and recorded his stump speeches for analysis by Evans' team.{{sfn|Larsen|1980|pp=7–10}}<ref name="Ellensburg1973-08-30" /> Evans appointed Bundy to the Seattle Crime Prevention Advisory Committee.<ref>[https://books.google.com/books?id=wImbDAAAQBAJ&pg=PT176&lpg=PT176&dq=ted+bundy+ironic+crime+prevention+daniel+evans&source=bl&ots=Dr8l5xii6L&sig=ACfU3U01oj4D8DCYArdkujjsvtfHukLdlA&hl=en&sa=X&ved=2ahUKEwjbjouppPrkAhUDiqwKHUCvAuwQ6AEwCnoECAkQAQ#v=onepage&q=ted%20bundy%20ironic%20crime%20prevention%20daniel%20evans&f=false]</ref> After Evans was re-elected, Bundy was hired as an assistant to Ross Davis, Chairman of the [[Washington State Republican Party]]. Davis thought well of Bundy and described him as "smart, aggressive&nbsp;... and a believer in the system".{{sfn|Rule|2009|p=46}} In early 1973, despite mediocre [[Law School Admission Test|LSAT]] scores, Bundy was accepted into the law schools of UPS and the [[S.J. Quinney College of Law|University of Utah]] on the strength of letters of recommendation from Evans, Davis, and several UW psychology professors.{{sfn|Rule|2009|pp=22, 43–44}}{{sfn|Michaud|Aynesworth|1999|p=79}}
+
+During a trip to California on Republican Party business in the summer of 1973, Bundy rekindled his relationship with Brooks. She marveled at his transformation into a serious, dedicated professional who was seemingly on the cusp of a legal and political career. He continued to date Kloepfer as well; neither woman was aware of the other's existence. In the fall of 1973, Bundy [[Matriculation|matriculated]] at [[University of Puget Sound School of Law|UPS Law School]],{{sfn|Rule|2009|pp=45–46}} and continued courting Brooks, who flew to Seattle several times to stay with him. They discussed marriage; at one point he introduced her to Davis as his fiancée.{{sfn|Rule|2009|p=51}}
+
+In January 1974, however, he abruptly broke off all contact. Her phone calls and letters went unreturned. Finally reaching him by phone a month later, Brooks demanded to know why Bundy had unilaterally ended their relationship without explanation. In a flat, calm voice, he replied, "Stephanie, I have no idea what you mean" and hung up. She never heard from him again.{{sfn|Rule|2009|p=52}} He later explained, "I just wanted to prove to myself that I could have married her".{{sfn|Foreman|1992|p=16}} Brooks concluded in retrospect that he had deliberately planned the entire courtship and rejection in advance as vengeance for the breakup she initiated in 1968.{{sfn|Rule|2009|p=52}}
+
+By then, Bundy had begun skipping classes at law school. By April, he had stopped attending entirely,{{sfn|Rule|2000|pp=44–47}} as young women began to disappear in the [[Pacific Northwest]].{{sfn|Michaud|Aynesworth|1999|pp=81–84}}
+
+== First two series of murders ==
+=== Washington, Oregon ===
+There is no consensus on when or where Bundy began killing women. He told different stories to different people and refused to divulge the specifics of his earliest crimes, even as he confessed in graphic detail to dozens of later murders in the days preceding his execution.{{sfn|Keppel|2005|p=400}} He told Nelson that he attempted his first kidnapping in 1969 in [[Ocean City, New Jersey]], but did not kill anyone until sometime in 1971 in Seattle.{{sfn|Nelson|1994|pp=282–84}} He told [[psychologist]] Art Norman that he killed two women in [[Atlantic City, New Jersey|Atlantic City]] in 1969 while visiting family in Philadelphia.<ref name="DailyNews" />{{sfn|Sullivan|2009|p=57}}
+
+He hinted but refused to elaborate to homicide detective [[Robert D. Keppel]] that he committed a murder in Seattle in 1972,{{sfn|Keppel|2005|p=387}} and another murder in 1973 that involved a hitchhiker near [[Tumwater, Washington|Tumwater]].{{sfn|Keppel|2005|p=396}} Rule and Keppel both believed that he might have started killing as a teenager.{{sfn|Rule|2000|p=526}}{{sfn|Keppel|2005|pp=399–400}} Circumstantial evidence suggested that he may have abducted and killed eight-year-old [[Disappearance of Ann Marie Burr|Ann Marie Burr]] of Tacoma when he was 14 years old in 1961, an allegation that he repeatedly denied.{{sfn|Keppel|2005|p=387}} His earliest documented homicides were committed in 1974 when he was 27 years old. By then, by his own admission, he had mastered the necessary skills—in the era before [[DNA profiling]]—to leave minimal incriminating forensic evidence at crime scenes.{{sfn|Michaud|Aynesworth|1989|p=87}}
+
+Shortly after midnight on January 4, 1974 (around the time that he terminated his relationship with Brooks), Bundy entered the [[basement apartment]] of 18-year-old Karen Sparks{{sfn|Keppel|2005|p=389}} (identified as Joni Lenz,{{sfn|Rule|2009|p=57}}{{sfn|Michaud|Aynesworth|1999|p=27}} Mary Adams,{{sfn|Michaud|Aynesworth|1983|p=27}} and Terri Caldwell{{sfn|Sullivan|2009|p=14}} by various sources), a dancer and student at UW. After bludgeoning Sparks senseless with a metal rod from her bed frame, he [[sexual assault|sexually assaulted]] her with either the same rod,{{sfn|Foreman|1992|p=16}}{{sfn|Rule|2009|pp=56–57}} or a metal [[speculum (medical)|speculum]],{{sfn|Michaud|Aynesworth|1999|p=27}} causing extensive internal injuries. She remained unconscious for 10 days,{{sfn|Sullivan|2009|p=14}} but survived with permanent physical and mental disabilities.{{sfn|Michaud|Aynesworth|1999|p=28}} In the early morning hours of February 1, Bundy broke into the basement room of Lynda Ann Healy, a UW undergraduate who broadcast morning radio weather reports for skiers. He beat her unconscious, dressed her in blue jeans, a white blouse, and boots, and carried her away.{{sfn|Rule|2009|pp=60–62}}
+
+During the first half of 1974, female college students disappeared at the rate of about one per month. On March 12, Donna Gail Manson, a 19-year-old student at [[The Evergreen State College]] in [[Olympia, Washington|Olympia]], {{convert|60|mi|round=5}} southwest of Seattle, left her dormitory to attend a jazz concert on campus, but never arrived. On April 17, Susan Elaine Rancourt disappeared while on her way to her dorm room after an evening advisors' meeting at [[Central Washington University|Central Washington State College]] in [[Ellensburg, Washington|Ellensburg]], {{convert|110|mi|round=5}} east-southeast of Seattle.{{sfn|Rule|2009|p=71}}<ref name="Spokesman-Review" /> Two female Central Washington students later came forward to report encounters—one on the night of Rancourt's disappearance, the other three nights earlier—with a man wearing an arm sling, asking for help carrying a load of books to his brown or tan [[Volkswagen Beetle]].{{sfn|Keppel|2005|pp=42–46}}{{sfn|Michaud|Aynesworth|1999|pp=31–33}} On May 6, Roberta Kathleen Parks left her dormitory at [[Oregon State University]] in [[Corvallis, Oregon|Corvallis]], {{convert|85|mi|round=5}} south of [[Portland, Oregon|Portland]], to have coffee with friends at the [[Memorial Union (Oregon State University)|Memorial Union]], but never arrived.{{sfn|Rule|2009|pp=75–76}}
+
+Detectives from the King County<!-- was "King Co. Police" then--> and [[Seattle Police Department|Seattle]] police departments grew increasingly concerned. There was no significant physical evidence, and the missing women had little in common, apart from being young, attractive, white college students with long hair parted in the middle.{{sfn|Rule|2009|pp=73–74}} On June 1, Brenda Carol Ball, 22, disappeared after leaving the Flame Tavern in [[Burien, Washington|Burien]], near [[Seattle–Tacoma International Airport]]. She was last seen in the parking lot, talking to a brown-haired man with his arm in a sling.{{sfn|Rule|2009|p=77}}
+[[File:GeorgannHawkinsTedBundyVictimJune12_1974a.a.jpg|thumb|upright|right|Georgann Hawkins|alt=]]
+In the early hours of June 11, UW student [[Murder of Georgeann Hawkins|Georgann Hawkins]]<!-- spelling of first name is correct, please do not change --> vanished while walking down a brightly lit alley between her boyfriend's dormitory residence and her sorority house.{{sfn|Michaud|Aynesworth|1999|p=37}} The next morning, three Seattle homicide detectives and a [[criminalist]] combed the entire alleyway on their hands and knees, finding nothing.{{sfn|Rule|2009|p=82}} After Hawkins' disappearance was publicized, witnesses came forward to report seeing a man that night who was in an alley behind a nearby dormitory. He was on crutches with a leg cast and was struggling to carry a briefcase.{{sfn|Michaud|Aynesworth|1999|p=38}} One woman recalled that the man asked her to help him carry the case to his car, a light brown Volkswagen Beetle.{{sfn|Rule|2000|p=75}} Bundy later told Keppel that he lured Hawkins to his car before rendering her unconscious with a crowbar he had earlier placed beside the vehicle. He then handcuffed Hawkins and drove her to [[Issaquah, Washington|Issaquah]], where he had strangled her,{{sfn|Keppel|2005|pp=367–78}} before spending the entire night with her body. Prior to her murder, Hawkins had regained consciousness inside his car, and had begun talking with Bundy, who recollected she had informed him she had a Spanish test the following day and she "thought that I had taken her to help tutor her for the Spanish test", adding "it's not funny, but it's odd the kinds of things people will say under those circumstances".<ref>{{cite news|url=https://www.deseret.com/1989/4/2/18801112/bundy-did-not-always-carry-out-his-murder-plans-prober-told|title=Bundy Did Not Always Carry Out His Murder Plans, Prober Told|accessdate=June 15, 2020|newspaper=Deseret News|date=April 2, 1989}}</ref> He admitted to revisiting Hawkins' corpse on three occasions.{{sfn|Michaud|Aynesworth|1999|p=336}} He stated that he returned to the UW alley the morning after Hawkins' abduction and murder. There, in the very midst of a major crime scene investigation, he located and gathered Hawkins' earrings and one of her shoes, where he had left them in the adjoining parking lot, and departed, unobserved.{{sfn|Keppel|2005|p=22}}
+
+During this period, Bundy was working in Olympia as the Assistant Director of the Seattle Crime Prevention Advisory Commission (where he wrote a pamphlet for women on rape prevention).<ref name="nyt 1989">{{cite news|first=Jon|last=Nordheimer|url=https://www.nytimes.com/1989/01/25/us/bundy-is-put-to-death-in-florida-after-admitting-trail-of-killings.html|title=Bundy Is Put to Death in Florida After Admitting Trail of Killings|newspaper=[[The New York Times]]|publisher=New York Times Company|location=New York City|date=January 25, 1989|accessdate=September 7, 2018|url-status=live|archive-url=https://web.archive.org/web/20171022194108/http://www.nytimes.com/1989/01/25/us/bundy-is-put-to-death-in-florida-after-admitting-trail-of-killings.html |archive-date=October 22, 2017 }}</ref> Later, he worked at the Department of Emergency Services (DES), a state government agency involved in the search for the missing women. At DES he met and dated Carole Ann Boone, a twice-divorced mother of two who, six years later, would play an important role in the final phase of his life.<ref name="Michaud-trutv" />
+
+[[File:Ted Bundy volkswagen.JPG|thumb|upright|alt=A light tan rusty Volkswagen is positioned for display behind a chain made of handcuffs|Ted Bundy's 1968 Volkswagen Beetle, in which he committed many of his crimes. Vehicle on display at the now-defunct [[National Museum of Crime & Punishment]]<ref name="Kennicott-wapo"/><ref name="CrimeMuseum-car" />]]
+Reports of the six missing women and Sparks' brutal beating appeared prominently in newspapers and on television throughout Washington and Oregon.{{sfn|Rule|2000|p=81}} Fear spread among the population; hitchhiking by young women dropped sharply.{{sfn|Rule|2000|p=76}} Pressure mounted on law enforcement agencies,{{sfn|Rule|2000|p=77}} but the paucity of physical evidence severely hampered them. Police could not provide reporters with the little information that was available for fear of compromising the investigation.{{sfn|Michaud|Aynesworth|1989|p=vi}} Further similarities between the victims were noted: The disappearances all took place at night, usually near ongoing construction work, within a week of midterm or final exams; all of the victims were wearing slacks or blue jeans; and at most crime scenes, there were sightings of a man wearing a cast or a sling, and driving a brown or tan Volkswagen Beetle.{{sfn|Rule|2009|pp=90–91}}
+
+The Pacific Northwest murders culminated on July 14, with the broad daylight abductions of two women from a crowded beach at [[Lake Sammamish State Park]] in Issaquah, a suburb {{convert|20|mi|round=5}} east of Seattle.<ref name=bbapdent74>{{cite news |url=https://news.google.com/newspapers?id=6DlYAAAAIBAJ&sjid=VPcDAAAAIBAJ&pg=1580%2C3631677 |work=The Bulletin |location=(Bend, Oregon)|agency=Associated Press |title=Dental Records Establish Identities of Two Women|date=September 11, 1974 |page=11}}</ref> Five female witnesses described an attractive young man wearing a white tennis outfit with his left arm in a sling, speaking with a light accent, perhaps Canadian or British. Introducing himself as "Ted," he asked their help in unloading a sailboat from his tan or bronze-colored Volkswagen Beetle. Four refused; one accompanied him as far as his car, saw that there was no sailboat, and fled. Three additional witnesses saw him approach Janice Anne Ott, 23, a probation case worker at the King County Juvenile Court, with the sailboat story, and watched her leave the beach in his company.{{sfn|Keppel|2005|pp=3–6}} About four hours later, Denise Marie Naslund, a 19-year-old woman who was studying to become a computer programmer, left a picnic to go to the restroom and never returned.{{sfn|Rule|2009|pp=99–101}} Bundy told both Stephen Michaud and William Hagmaier that Ott was still alive when he returned with Naslund—and that he forced one to watch as he murdered the other{{sfn|Foreman|1992|p=45}}{{sfn|Michaud|Aynesworth|1989|pp=139–42}}{{sfn|Geberth|2006|p=800}}—but he later denied it in an interview with Lewis on the eve of his execution.{{sfn|Nelson|1994|pp=294–295}}
+
+King County police, finally armed with a detailed description of their suspect and his car, posted fliers throughout the Seattle area. A composite sketch was printed in regional newspapers and broadcast on local television stations. Elizabeth Kloepfer, Ann Rule, a DES employee, and a UW psychology professor all recognized the profile, the sketch, and the car, and reported Bundy as a possible suspect;{{sfn|Keppel|2005|pp=61–62}} but detectives—who were receiving up to 200 tips per day{{sfn|Keppel|2005|p=40}}—thought it unlikely that a clean-cut law student with no adult criminal record could be the perpetrator.{{sfn|Rule|2000|pp=103–05}}
+
+On September 6, two grouse hunters stumbled across the skeletal remains of Ott and Naslund near a service road in Issaquah, {{convert|2|mi|0}} east of Lake Sammamish State Park.<ref name=bbapdent74/>{{sfn|Keppel|2005|pp=8–15}} An extra [[femur]] and several [[human vertebra|vertebrae]] found at the site were later identified by Bundy as Georgann Hawkins'.{{sfn|Keppel|2005|p=18}} Six months later, forestry students from [[Green River Community College]] discovered the skulls and [[human mandible|mandibles]] of Healy, Rancourt, Parks, and Ball on Taylor Mountain, where Bundy frequently hiked, just east of Issaquah.{{sfn|Keppel|2005|pp=25–30}} Manson's remains were never recovered.
+
+=== Idaho, Utah, Colorado ===
+[[File:Ted Bundy Utah house fire escape.JPG|thumb|alt=565 First Avenue, Salt Lake City, UT|Rooming house in Salt Lake City where Bundy lived from Sept. 1974 to Oct. 1975, showing the fire escape used to sneak into his room and windows to the utility room where he concealed photo souvenirs of his murders{{sfn|Keppel|Michaud|2011|p=99}}]]
+In August 1974, Bundy received a second acceptance from the [[University of Utah]] [[S.J. Quinney College of Law|Law School]] and moved to [[Salt Lake City]], leaving Kloepfer in Seattle. While he called Kloepfer often, he dated "at least a dozen" other women.{{sfn|Rule|2009|pp=130–31}} When he studied the first-year law curriculum a second time, "he was devastated to find out that the other students had something, some intellectual capacity, that he did not. He found the classes completely incomprehensible. 'It was a great disappointment to me,' he said."{{sfn|Nelson|1994|p=55}}
+
+A new string of homicides began the following month, including two that would remain undiscovered until Bundy confessed to them shortly before his execution. On September 2, he raped and strangled a still-unidentified hitchhiker in Idaho, then either disposed of the remains immediately in a nearby river,{{sfn|Sullivan|2009|p=86}} or returned the next day to photograph and dismember {{nowrap|the corpse.{{sfn|Nelson|1994|pp=257–59}}{{sfn|Rule|2000|p=527}}}} On October 2, he seized 16-year-old Nancy Wilcox in [[Holladay, Utah|Holladay]], a suburb of Salt Lake City.{{sfn|Michaud|Aynesworth|1999|p=91}} {{sfn|Michaud|Aynesworth|1989|pp=143–46}} Her remains were buried near [[Capitol Reef National Park]], some {{convert|200|mi|round=5}} south of Holladay, but were never found.<ref name="Psychics" />
+
+On October 18, Melissa Anne Smith—the 17-year-old daughter of the police chief of [[Midvale, Utah|Midvale]] (another Salt Lake City suburb)—disappeared after leaving a pizza parlor. Her nude body was found in a nearby mountainous area nine days later. Postmortem examination indicated that she may have remained alive for up to seven days following her disappearance.{{sfn|Sullivan|2009|p=96}}{{sfn|Michaud|Aynesworth|1999|pp=92–93}} On October 31, Laura Ann Aime, also 17, disappeared {{convert|25|mi}} south in [[Lehi, Utah|Lehi]] after leaving a café just after midnight.{{sfn|Rule|1989|p=112}} Her naked body was found by hikers {{convert|9|mi}} to the northeast in [[American Fork Canyon]] on [[Thanksgiving (United States)|Thanksgiving Day]].<ref name="Deseret1977" /> Both women had been beaten, raped, [[sodomy|sodomized]], and strangled with nylon stockings.<ref name="Bell-KillingSpree" />{{sfn|Rule|1989|pp=112–13}} Years later, Bundy described his postmortem rituals with the corpses of Smith and Aime, including hair shampooing and application of makeup.{{sfn|Rule|1989|p=486}}{{sfn|Michaud|Aynesworth|1999|pp=334–35}}
+
+In the late afternoon of November 8, Bundy approached 18-year-old telephone operator Carol DaRonch at [[Fashion Place]] Mall in [[Murray, Utah|Murray]],<ref>{{cite book |url= https://books.google.com/?id=JXm3zfQuNEUC&pg=PA61&lpg=PA61&dq=fashion+place+mall+bundy#v=onepage&q=fashion%20place%20mall%20bundy&f=false |title= Ted Bundy: The FBI File  |quote= Bundy was convicted of kidnaping Carol DaRonch, 19, from Fashion Place Mall earlier that day. |accessdate= March 21, 2015|isbn= 9781599862552 |last1= Investigation |first1= Federal Bureau of |date= December 2007 }}</ref> less than a mile from the Midvale restaurant where Melissa Smith was last seen. He identified himself as "Officer Roseland" of the Murray Police Department and told DaRonch that someone had attempted to break into her car. He asked her to accompany him to the station to file a complaint. When DaRonch pointed out to Bundy that he was driving on a road that did not lead to the police station, he immediately pulled to the shoulder and attempted to handcuff her. During their struggle, he inadvertently fastened both handcuffs to the same wrist, and DaRonch was able to open the car door and escape.{{sfn|Michaud|Aynesworth|1999|pp=93–95}} Later that evening, Debra Jean Kent, a 17-year-old student at [[Viewmont High School]] in [[Bountiful, Utah|Bountiful]], {{convert|20|mi|round=5}} north of Murray, disappeared after leaving a theater production at the school to pick up her brother.<ref name="map-Murray2Bountiful" /> The school's drama teacher and a student told police that "a stranger" had asked each of them to come out to the parking lot to identify a car. Another student later saw the same man pacing in the rear of the auditorium, and the drama teacher spotted him again shortly before the end of the play.{{sfn|Michaud|Aynesworth|1999|pp=95–97}} Outside the auditorium, investigators found a key that unlocked the handcuffs removed from Carol DaRonch's wrist.{{sfn|Michaud|Aynesworth|1999|p=101}}
+
+In November, Elizabeth Kloepfer called King County police a second time after reading that young women were disappearing in towns surrounding Salt Lake City. Detective Randy Hergesheimer of the Major Crimes division interviewed her in detail. By then, Bundy had risen considerably on the King County hierarchy of suspicion, but the Lake Sammamish witness considered most reliable by detectives failed to identify him from a photo lineup.{{sfn|Kendall|1981|pp=78–79}} In December, Kloepfer called the Salt Lake County Sheriff's Office and repeated her suspicions. Bundy's name was added to their list of suspects, but at that time no credible forensic evidence linked him to the Utah crimes.{{sfn|Rule|2009|pp=148–49}} In January 1975, Bundy returned to Seattle after his final exams and spent a week with Kloepfer, who did not tell him that she had reported him to police on three occasions. She made plans to visit him in Salt Lake City in August.{{sfn|Rule|2009|pp=149–50}}
+
+[[File:Caryn Campbell Ted Bundy victim.jpg|thumb|upright|left|alt=A smiling young woman with short hair parted on the side|Caryn Campbell: Bundy's 14th documented murder victim and the subject of his first homicide indictment]]
+
+In 1975, Bundy shifted much of his criminal activity eastward, from his base in Utah to Colorado. On January 12, a 23-year-old registered nurse named Caryn Eileen Campbell disappeared while walking down a well-lit hallway between the elevator and her room at the Wildwood Inn (now the Wildwood Lodge) in [[Snowmass Village, Colorado|Snowmass Village]], {{convert|400|mi|-1}} southeast of Salt Lake City.{{sfn|Rule|1989|p=126}} Her nude body was found a month later next to a dirt road just outside the resort. She had been killed by blows to her head from a blunt instrument that left distinctive linear grooved depressions on her skull; her body also bore deep cuts from a sharp weapon.{{sfn|Rule|2000|pp=132–36}} On March 15, {{convert|100|mi}} northeast of Snowmass, [[Vail, Colorado|Vail]] ski instructor Julie Cunningham, 26, disappeared while walking from her apartment to a dinner date with a friend. Bundy later told Colorado investigators that he approached Cunningham on crutches and asked her to help carry his ski boots to his car, where he clubbed and handcuffed her, then assaulted and strangled her at a secondary site near [[Rifle, Colorado|Rifle]], {{convert|90|mi}} west of Vail.{{sfn|Keppel|2005|pp=402–07}}{{sfn|Sullivan|2009|pp=130–31}} Weeks later, he made the six-hour drive from Salt Lake City to revisit her remains.{{sfn|Keppel|2010|loc=Kindle location 7431–98}}{{sfn|Sullivan|2009|pp=130–31}}
+
+Denise Lynn Oliverson, 25, disappeared near the Utah–Colorado border in [[Grand Junction, Colorado|Grand Junction]] on April 6 while riding her bicycle to her parents' house; her bike and sandals were found under a viaduct near a railroad bridge.{{sfn|Michaud|Aynesworth|1999|p=110}} On May 6, Bundy lured 12-year-old Lynette Dawn Culver from Alameda Junior High School in [[Pocatello, Idaho|Pocatello]], Idaho, {{convert|160|mi|round=5}} north of Salt Lake City. He drowned and then sexually assaulted her in his hotel room,{{sfn|Sullivan|2009|pp=137–38}} before disposing of her body in a river north of Pocatello (possibly the [[Snake River|Snake]]).<ref name="Culver"/><ref name="Moscow"/>
+
+[[File:Caryn campbell ted bundy.jpg|thumb|alt=An outdoor hallway. Hotel rooms are on the left and a balcony is on the right. |Caryn Campbell disappeared while walking down this brightly lit hallway to her hotel room.]]
+
+In mid-May, three of Bundy's Washington State DES coworkers, including Carole Ann Boone, visited him in Salt Lake City and stayed for a week in his apartment. Bundy subsequently spent a week in Seattle with Kloepfer in early June and they discussed getting married the following Christmas. Again, Kloepfer made no mention of her multiple discussions with the King County Police and Salt Lake County Sheriff's Office. Bundy disclosed neither his ongoing relationship with Boone nor a concurrent romance with a Utah law student known in various accounts as Kim Andrews{{sfn|Kendall|1981|pp=140–41}} or Sharon Auer.{{sfn|Rule|2009|pp=164–65}}
+
+On June 28, Susan Curtis vanished from the campus of [[Brigham Young University]] in [[Provo, Utah|Provo]], {{convert|45|mi|round=5}} south of Salt Lake City. Curtis' murder became Bundy's last confession, tape-recorded moments before he entered the execution chamber.{{sfn|Michaud|Aynesworth|1999|p=343}} The bodies of Wilcox, Kent, Cunningham, Oliverson, Culver, and Curtis were never recovered.
+
+In August or September 1975, Bundy was baptized into [[The Church of Jesus Christ of Latter-day Saints]], although he was not an active participant in services and ignored most church restrictions.<ref name="Smith1979" /><ref name="Bennett-Connaughton1978" /><ref>{{Harvnb|Michaud|Aynesworth|1999|p=158}}: "Bundy joined the Mormon Church that September."</ref> He would later be excommunicated by the LDS Church following his 1976 kidnapping conviction.<ref name="Smith1979" /> When asked his religious preference after his arrest, Bundy answered "Methodist", the religion of his childhood.{{sfn|Von Drehle|1995|p=389}}
+
+In Washington state, investigators were still struggling to analyze the Pacific Northwest murder spree that had ended as abruptly as it had begun. In an effort to make sense of an overwhelming mass of data, they resorted to the then-innovative strategy of compiling a database. They used the King County payroll computer, a "huge, primitive machine" by contemporary standards, but the only one available for their use. After inputting the many lists they had compiled—classmates and acquaintances of each victim, Volkswagen owners named "Ted", known sex offenders, and so on—they queried the computer for coincidences. Out of thousands of names, 26 turned up on four lists; one was Ted Bundy. Detectives also manually compiled a list of their 100 "best" suspects, and Bundy was on that list as well. He was "literally at the top of the pile" of suspects when word came from Utah of his arrest.{{sfn|Keppel|2005|pp=62–66}}
+
+== Arrest and first trial ==
+[[File:Ted Bundy murder kit.JPG|right|thumb|upright=1|alt=The murder kit includes a sports bag, garbage bags, ski mask, nylon stocking with holes, flashlight, crowbar, an ice pick, and some gloves.|Items found in Bundy's Volkswagen, Utah, 1975]]
+
+On August 16, 1975, Bundy was arrested by Utah Highway Patrol officer Bob Hayward in [[West Valley City, Utah|Granger]] (another Salt Lake City suburb).<ref>{{Cite web |url=https://www.abc4.com/news/local-news/trooper-who-arrested-ted-bundy-dies-at-90/785699510 |title=Archived copy |access-date=January 26, 2019 |archive-url=https://web.archive.org/web/20190126164504/https://www.abc4.com/news/local-news/trooper-who-arrested-ted-bundy-dies-at-90/785699510 |archive-date=January 26, 2019 |url-status=live  }}</ref> Hayward had observed Bundy cruising a residential area in the pre-dawn hours; Bundy fled the area at high speed after seeing the patrol car.<ref name="Gehrke2000" /> The officer searched the car after he noticed that the Volkswagen's front passenger seat had been removed and placed on the rear seats. He found a ski mask, a second mask fashioned from pantyhose, a crowbar, handcuffs, trash bags, a coil of rope, an ice pick, and other items initially assumed to be burglary tools. Bundy explained that the ski mask was for skiing, he had found the handcuffs in a [[dumpster]], and the rest were common household items.{{sfn|Michaud|Aynesworth|1999|pp=98–99, 113–15}} However, Detective Jerry Thompson remembered a similar suspect and car description from the November 1974 DaRonch kidnapping, which matched Bundy's name from Kloepfer's December 1974 phone call. In a search of Bundy's apartment, police found a guide to Colorado ski resorts with a checkmark by the Wildwood Inn{{sfn|Keppel|2005|p=71}} and a brochure that advertised the Viewmont High School play in Bountiful, where Debra Kent had disappeared.{{sfn|Sullivan|2009|p=151}} The police did not have sufficient evidence to detain Bundy, and he was released on his own [[recognizance]]. Bundy later said that searchers missed a hidden collection of [[Instant camera|Polaroid]] photographs of his victims, which he destroyed after he was released.{{sfn|Nelson|1994|p=258}}
+
+Salt Lake City police placed Bundy on 24-hour surveillance, and Thompson flew to Seattle with two other detectives to interview Kloepfer. She told them that in the year prior to Bundy's move to Utah, she had discovered objects that she "couldn't understand" in her house and in Bundy's apartment. These items included crutches, a bag of plaster of Paris that he admitted stealing from a medical supply house, and a meat cleaver that was never used for cooking. Additional objects included surgical gloves, an Oriental knife in a wooden case that he kept in his glove compartment, and a sack full of women's clothing.{{sfn|Rule|2000|p=167}} Bundy was perpetually in debt, and Kloepfer suspected that he had stolen almost everything of significant value that he possessed. When she confronted him over a new TV and stereo, he warned her, "If you tell anyone, I'll break your fucking neck."{{sfn|Kendall|1981|p=74}} She said Bundy became "very upset" whenever she considered cutting her hair, which was long and parted in the middle. She would sometimes awaken in the middle of the night to find him under the bed covers with a flashlight, examining her body. He kept a [[lug wrench]], taped halfway up the handle, in the trunk of her car—another Volkswagen Beetle, which he often borrowed—"for protection". The detectives confirmed that Bundy had not been with Kloepfer on any of the nights during which the Pacific Northwest victims had vanished, nor on the day Ott and Naslund were abducted.{{sfn|Rule|2009|pp=187–94}} Shortly thereafter, Kloepfer was interviewed by Seattle homicide detective Kathy McChesney, and learned of the existence of Stephanie Brooks and her brief engagement to Bundy around Christmas 1973.{{sfn|Kendall|1981|pp=96–100}}
+
+[[File:Ted-bundy.jpg|left|thumb|alt=Bundy is facing right in the first photo and facing front in the second. He has medium long hair and is wearing a turtleneck sweater.|Bundy's 1975 Utah [[mug shots]]]]
+
+In September, Bundy sold his Volkswagen Beetle to a Midvale teenager.{{sfn|Rule|2009|pp=226–27}} Utah police impounded it, and FBI technicians dismantled and searched it. They found hairs matching samples obtained from Caryn Campbell's body.{{sfn|Michaud|Aynesworth|1999|p=188}} Later, they also identified hair strands "microscopically indistinguishable" from those of Melissa Smith and Carol DaRonch.{{sfn|Rule|2000|p=250}} FBI lab specialist Robert Neill concluded that the presence of hair strands in one car matching three different victims who had never met one another would be "a coincidence of mind-boggling rarity".{{sfn|Michaud|Aynesworth|1999|pp=189–91}}
+
+On October 2, detectives put Bundy into a lineup. DaRonch immediately identified him as "Officer Roseland", and witnesses from Bountiful recognized him as the stranger at the high school auditorium.{{sfn|Rule|2009|pp=178–79}} There was insufficient evidence to link him to Debra Kent (whose body was never found, though a skeletal fragment found near the school was later identified as Kent's by DNA analysis<ref name=":0">{{Cite news|url=https://www.wired.com/story/dna-crime-solving-is-still-new-yet-it-may-have-gone-too-far/|title=DNA Crime-Solving Is Still New, Yet It May Have Gone Too Far|last=Molteni|first=Megan|date=March 14, 2019|work=Wired|access-date=March 15, 2019|issn=1059-1028}}</ref>). There was more than enough evidence to charge him with aggravated kidnapping and attempted criminal assault in the DaRonch case. He was freed on $15,000 bail, paid by his parents,{{sfn|Foreman|1992|p=24}} and spent most of the time between indictment and trial in Seattle, living in Kloepfer's house. Seattle police had insufficient evidence to charge him in the Pacific Northwest murders, but kept him under close surveillance. "When Ted and I stepped out on the porch to go somewhere," Kloepfer wrote, "so many unmarked police cars started up that it sounded like the beginning of the Indy 500."{{sfn|Kendall|1981|pp=119–20}}
+
+In November, the three principal Bundy investigators—Jerry Thompson from Utah, Robert Keppel from Washington, and Michael Fisher from Colorado—met in [[Aspen, Colorado]] and exchanged information with 30 detectives and prosecutors from five states.{{sfn|Rule|2009|pp=213–15}} While officials left the meeting (later known as the Aspen Summit) convinced that Bundy was the murderer they sought, they agreed that more hard evidence would be needed before he could be charged with any of the murders.{{sfn|Michaud|Aynesworth|1999|pp=163–65}}
+
+In February 1976, Bundy stood trial for the DaRonch kidnapping. On the advice of his attorney, John O'Connell, Bundy waived his right to a jury due to the negative publicity surrounding the case. After a four-day [[bench trial]] and a weekend of deliberation, Judge Stewart Hanson Jr. found him guilty of kidnapping and assault.<ref name=jsbigokdn>{{cite news|url=https://news.google.com/newspapers?id=uqQqAAAAIBAJ&sjid=vVsEAAAAIBAJ&pg=5192%2C9704 |work=Deseret News |location=(Salt Lake City, Utah) |title=Judge says Bundy is guilty of kidnaping  |date=March 1, 1976 |page=A1}}</ref>{{sfn|Kendall|1981|pp=140–141}}{{sfn|Rule|2009|p=205}} In June he was sentenced to one-to-15 years in the Utah State Prison.{{sfn|Foreman|1992|p=24}} In October, he was found hiding in bushes in the prison yard carrying an "escape kit"—road maps, airline schedules, and a social security card—and spent several weeks in solitary confinement.{{sfn|Rule|2009|pp=265–267}} Later that month, Colorado authorities charged him with Caryn Campbell's murder. After a period of resistance, he waived [[extradition]] proceedings and was transferred to Aspen in January 1977.{{sfn|Rule|1989|p=219}}{{sfn|Foreman|1992|p=25}}
+
+== Escapes ==
+[[File:Pitkin County Courthouse.jpg|thumb|upright=1.2|right|alt=A two-story brick building with a tall tower is partially obscured by trees.| Pitkin County Courthouse, where Bundy jumped from the second window from the left, second story to escape.{{sfn|Winn|Merrill|1980}}]]
+On June 7, 1977, Bundy was transported {{convert|40|mi}} from the Garfield County jail in [[Glenwood Springs, Colorado|Glenwood Springs]] to [[Pitkin County Courthouse]] in Aspen for a preliminary hearing. He had elected to [[Pro se legal representation in the United States|serve as his own attorney]], and as such, was excused by the judge from wearing handcuffs or leg shackles.{{sfn|Rule|2009|p=285}} During a recess, he asked to visit the courthouse's law library to research his case. While shielded from his guards' view behind a bookcase, he opened a window and jumped to the ground from the second story, injuring his right ankle as he landed. After shedding an outer layer of clothing, he walked through Aspen as roadblocks were being set up on its outskirts, then hiked southward onto [[Aspen Mountain (Colorado)|Aspen Mountain]]. Near its summit he broke into a hunting cabin and stole food, clothing, and a rifle.{{sfn|Michaud|Aynesworth|1999|p=197}} The following day he left the cabin and continued south toward the town of [[Crested Butte, Colorado|Crested Butte]], but became lost in the forest. For two days he wandered aimlessly on the mountain, missing two trails that led downward to his intended destination. On June 10, he broke into a camping trailer on Maroon Lake, {{convert|10|mi}} south of Aspen, taking food and a ski parka; but instead of continuing southward, he walked back north toward Aspen, eluding roadblocks and search parties along the way.{{sfn|Rule|2009|pp=286–291}} Three days later, he stole a car at the edge of Aspen Golf Course. Cold, sleep-deprived, and in constant pain from his sprained ankle, he drove back into Aspen, where two police officers noticed his car weaving in and out of its lane and pulled him over. He had been a fugitive for six days.{{sfn|Michaud|Aynesworth|1999|pp=203–05}} In the car were maps of the mountain area around Aspen that prosecutors were using to demonstrate the location of Caryn Campbell's body (as his own attorney, Bundy had rights of [[Discovery (law)|discovery]]), indicating that his escape was not a spontaneous act, but had been planned.{{sfn|Rule|2009|pp=290–293}}
+
+[[File:FBI-360-Ted Bundy FBI 10 most wanted photo.jpg|thumb|left|upright|alt=Black-and-white photo of a man with curly hair|1977 photograph—taken shortly after first escape and recapture{{sfn|Larsen|1980|p=2}}—from Bundy's [[FBI Ten Most Wanted Fugitives, 1970s|FBI Ten Most Wanted Fugitives]] poster]]
+Back in jail in Glenwood Springs, Bundy ignored the advice of friends and legal advisors to stay put. The case against him, already weak at best, was deteriorating steadily as pretrial motions consistently resolved in his favor and significant bits of evidence were ruled inadmissible.{{sfn|Winn|Merrill|1980|pp=204–208}} "A more rational defendant might have realized that he stood a good chance of acquittal, and that beating the murder charge in Colorado would probably have dissuaded other prosecutors... with as little as a year and a half to serve on the DaRonch conviction, had Ted persevered, he could have been a free man."{{sfn|Michaud|Aynesworth|1999|p=206}} Instead, Bundy assembled a new escape plan. He acquired a detailed floor plan of the jail and a hacksaw blade from other inmates, and accumulated $500 in cash, smuggled in over a six-month period, he later said, by visitors—Carole Ann Boone in particular.{{sfn|Rule|2009|p=306}} During the evenings, while other prisoners were showering, he sawed a hole about one square foot (0.093 m²) between the steel reinforcing bars in his cell's ceiling and, having lost {{convert|35|lb}}, was able to wriggle through it into the crawl space above.<ref name="ChiOmegaKiller" /> In the weeks that followed, he made a series of practice runs, exploring the space. Multiple reports from an informant of movement within the ceiling during the night were not investigated.{{sfn|Michaud|Aynesworth|1999|p=209}}
+
+By late 1977, Bundy's impending trial had become a [[cause célèbre]] in the small town of Aspen, and Bundy filed a motion for a [[change of venue]] to [[Denver]].{{sfn|Rule|2009|pp=302–03}} On December 23, the Aspen trial judge granted the request—but to [[Colorado Springs, Colorado|Colorado Springs]], where juries had historically been hostile to murder suspects.{{sfn|Rule|2009|pp=304–05}} On the night of December 30, with most of the jail staff on Christmas break and nonviolent prisoners on [[furlough]] with their families,{{sfn|Rule|2009|p=305}} Bundy piled books and files in his bed, covered them with a blanket to simulate his sleeping body, and climbed into the crawl space. He broke through the ceiling into the apartment of the chief jailer—who was out for the evening with his wife{{sfn|Rule|2009|p=308}}—changed into street clothes from the jailer's closet, and walked out the front door to freedom.{{sfn|Michaud|Aynesworth|1999|pp=209–11}}
+
+After stealing a car, Bundy drove eastward out of Glenwood Springs, but the car soon broke down in the mountains on [[Interstate 70]]. A passing motorist gave him a ride into Vail, {{convert|60|mi}} to the east. From there he caught a bus to Denver, where he boarded a morning flight to Chicago. In Glenwood Springs, the jail's skeleton crew did not discover the escape until noon on December 31, more than 17 hours later. By then, Bundy was already in Chicago.{{sfn|Michaud|Aynesworth|1999|pp=212–13}}
+
+== Florida ==
+[[File:TedBundyprisonFlorida.jpg|thumb|upright|alt=Bundy casually leans on the wall while dressed in prison garb.|Bundy in Tallahassee during his triple murder indictment, July 1978]]
+
+From Chicago, Bundy traveled by train to [[Ann Arbor, Michigan]], where he was present in a local tavern on January 2.{{sfn|Michaud|Aynesworth|1999|pp=215–16}} Five days later, he stole a car and drove to [[Atlanta]], where he boarded a bus and arrived in [[Tallahassee, Florida]], on the morning of January 8. He rented a room under the alias Chris Hagen at the Holiday Inn near the [[Florida State University]] (FSU) campus.<ref>{{Cite book|title=Clues! A History of Forensic Detection|last=Wilson|first=Colin|publisher=Warner Books, Inc., A Warner Communications Company|year=1989|isbn=|location=United States|pages=479}}</ref> Bundy later said that he initially resolved to find legitimate employment and refrain from further criminal activity, knowing he could probably remain free and undetected in Florida indefinitely as long as he did not attract the attention of police;{{sfn|Rule|2009|p=7}} but his lone job application, at a construction site, had to be abandoned when he was asked to produce identification.{{sfn|Foreman|1992|p=31}} He reverted to his old habits of shoplifting and stealing credit cards from women's wallets left in shopping carts.{{sfn|Rule|2009|p=318}}
+
+In the early hours of January 15, 1978—one week after his arrival in Tallahassee—Bundy entered FSU's [[Chi Omega]] sorority house through a rear door with a faulty locking mechanism.{{sfn|Rule|2009|p=332}} Beginning at about 2:45&nbsp;a.m. he bludgeoned Margaret Bowman, 21, with a piece of oak firewood as she slept, then garroted her with a nylon stocking.{{sfn|Foreman|1992|p=34}} He then entered the bedroom of 20-year-old Lisa Levy and beat her unconscious, strangled her, tore one of her nipples, bit deeply into her left buttock, and sexually assaulted her with a hair mist bottle.{{sfn|Rule|1989|pp=278–79}} In an adjoining bedroom he attacked Kathy Kleiner, breaking her jaw and deeply lacerating her shoulder; and Karen Chandler, who suffered a concussion, broken jaw, loss of teeth, and a crushed finger.<ref name="EveningIndependent" /> Chandler and Kleiner survived the attack; Kleiner later attributed their survival to automobile headlights illuminating the interior of their room and frightening away the attacker.<ref>{{cite news |first1=Tori |last1=Telfer |title=Ted Bundy's Living Victim Tells Her Story|url=https://www.rollingstone.com/culture/culture-features/ted-bundy-kathy-kleiner-living-victim-serial-killer-784780/|accessdate=January 29, 2019|magazine=[[Rolling Stone]]|publisher=[[Jann Wenner]]|location=New York City|date=January 29, 2019|archive-url=https://web.archive.org/web/20190129041941/https://www.rollingstone.com/culture/culture-features/ted-bundy-kathy-kleiner-living-victim-serial-killer-784780/|archive-date=January 29, 2019|url-status=live}}</ref> Tallahassee detectives later determined that the four attacks took place in a total of less than 15 minutes, within earshot of more than 30 witnesses who heard nothing.{{sfn|Rule|2009|p=332}} After leaving the sorority house, Bundy broke into a basement apartment eight blocks away and attacked FSU student Cheryl Thomas, dislocating her shoulder and fracturing her jaw and skull in five places. She was left with permanent deafness, and equilibrium damage that ended her dance career.{{sfn|Rule|2009|p=340}} On Thomas' bed, police found a semen stain and a pantyhose "mask" containing two hairs "similar to Bundy's in class and characteristic".{{sfn|Rule|1989|p=277}}{{sfn|Rule|2009|p=339}}
+
+[[File:LevyBowmanBundyvictims.jpg|thumb|left|alt=Black-and-white photo of two smiling young women. Levy, on the left, has light hair parted in the middle and Bowman, on the right, has longer dark hair parted to the side.|Lisa Levy and Margaret Bowman, two of Bundy's victims]]
+On February 8, Bundy drove {{convert|150|mi}} east to [[Jacksonville, Florida|Jacksonville]], in a stolen FSU van. In a parking lot he approached 14-year-old Leslie Parmenter, the daughter of Jacksonville Police Department's Chief of Detectives, identifying himself as "Richard Burton, Fire Department", but retreated when Parmenter's older brother arrived and challenged him.{{sfn|Michaud|Aynesworth|1999|pp=243–44}} That afternoon, he backtracked {{convert|60|mi}} westward to [[Lake City, Florida|Lake City]]. At Lake City Junior High School the following morning, 12-year-old Kimberly Dianne Leach was summoned to her [[homeroom]] by a teacher to retrieve a forgotten purse; she never returned to class. Seven weeks later, after an intensive search, her partially mummified remains were found in a pig farrowing shed near [[Suwannee River State Park]], {{convert|35|mi}} northwest of Lake City.<ref name="FL-HighwayPatrol" />{{sfn|Rule|1989|pp=324–25}} She appeared to have been raped, with her underwear found near the body containing semen, and killed by violence to the neck with a knife.{{sfn|Michaud|Aynesworth|1999|pp=262, 304–05}}{{sfn|Dekle|2011|p=297–98}}
+
+On February 12, with insufficient cash to pay his overdue rent and a growing suspicion that police were closing in on him,{{sfn|Winn|Merrill|1980|pp=245–246}} Bundy stole a car and fled Tallahassee, driving westward across the [[Florida Panhandle]]. Three days later, at around 1:00&nbsp;am, he was stopped by [[Pensacola, Florida|Pensacola]] police officer David Lee near the Alabama state line after a "wants and warrants" check showed his Volkswagen Beetle was stolen.<ref name="pensacolapolice" /> When told he was under arrest, Bundy kicked Lee's legs out from under him and took off running. Lee fired a warning shot followed by a second round, gave chase and tackled him. The two struggled over Lee's gun before the officer finally subdued and arrested Bundy.{{sfn|Rule|2009|p=366}} In the stolen vehicle were three sets of IDs belonging to female FSU students, 21 stolen credit cards and a stolen television set.{{sfn|Rule|2009|p=367}} Also found were a pair of dark-rimmed non-prescription glasses and a pair of plaid slacks, later identified as the disguise worn by "Richard Burton, Fire Department" in Jacksonville.{{sfn|Rule|2009|p=398}} As Lee transported his suspect to jail, unaware that he had just arrested one of the [[FBI Ten Most Wanted Fugitives|FBI's Ten Most Wanted Fugitives]], he heard Bundy say, "I wish you had killed me."{{sfn|Rule|2000|pp=321–23}}
+
+== Florida trials, marriage ==
+[[File:TedBundyincustody.JPG|thumb|upright|alt=A smiling Bundy holds a sheaf of papers and enters a vehicle. He is escorted by two police officers.|Departing a preliminary hearing, Miami, 1979]]
+
+Following a change of venue to Miami, Bundy stood trial for the Chi Omega homicides and assaults in June 1979.{{sfn|Michaud|Aynesworth|1999|p=274}} The trial was covered by 250 reporters from five continents and was the first to be televised nationally in the United States.{{sfn|Michaud|Aynesworth|1999|p=10}} Despite the presence of five court-appointed attorneys, Bundy again handled much of his own defense. From the beginning, he "sabotaged the entire defense effort out of spite, distrust, and grandiose delusion", Nelson later wrote. "Ted [was] facing murder charges, with a possible death sentence, and all that mattered to him apparently was that he be in charge."{{sfn|Nelson|1994|pp=87, 91}}
+
+According to Mike Minerva, a Tallahassee public defender and member of the defense team, a pre-trial [[plea bargain]] was negotiated in which Bundy would plead guilty to killing Levy, Bowman and Leach in exchange for a firm 75-year prison sentence. Prosecutors were amenable to a deal, by one account, because "prospects of losing at trial were very good."{{sfn|Dekle|2011|p=124}} Bundy, on the other hand, saw the plea deal not only as a means of avoiding the death penalty, but also as a "tactical move": he could enter his plea, then wait a few years for evidence to disintegrate or become lost and for witnesses to die, move on, or retract their testimony. Once the case against him had deteriorated beyond repair, he could file a post-conviction motion to set aside the plea and secure an acquittal.{{sfn|Michaud|Aynesworth|1999|pp=271–72; attorney Millard Farmer devised this strategy as a means of "selling" Bundy on the plea deal, according to this account}}{{sfn|Dekle|2011|p=125}} At the last minute, however, Bundy refused the deal. "It made him realize he was going to have to stand up in front of the whole world and say he was guilty", Minerva said. "He just couldn't do it."<ref name="Word1999-01-24" />
+[[File:Dental evidence ted bundy.jpeg|thumb|left|alt=Souviron is seen in the courtroom. Several enlargements of dental x-rays have been pinned up, and he is holding one in his hand.|Odontologist Richard Souviron explaining bite mark evidence at the Chi Omega trial]]
+At trial, crucial testimony came from Chi Omega sorority members Connie Hastings, who placed Bundy in the vicinity of the Chi Omega House that evening,{{sfn|Dekle|2011|pp=154–155}} and Nita Neary, who saw him leaving the sorority house clutching the oak murder weapon.{{sfn|Michaud|Aynesworth|1999|pp=227, 283}}<ref name="St.Petersburg1" /> Incriminating physical evidence included impressions of the bite wounds Bundy had inflicted on Lisa Levy's left buttock, which forensic [[odontologist]]s Richard Souviron and Lowell Levine matched to castings of Bundy's teeth.{{sfn|Michaud|Aynesworth|1999|pp=230, 283–85}}{{sfn|Dekle|2011|p=156}} The jury deliberated for less than seven hours before convicting him on July 24, 1979, of the Bowman and Levy murders, three counts of attempted first degree murder (for the assaults on Kleiner, Chandler and Thomas) and two counts of burglary. Trial judge [[Edward Cowart]] imposed death sentences for the murder convictions.<ref>
+[http://www.law.fsu.edu/library/flsupct/59128/op-59128.pdf Bundy v. State, 455 So.2d 330 (Fla.1984)] {{Webarchive|url=https://web.archive.org/web/20120916105323/http://www.law.fsu.edu/library/flsupct/59128/op-59128.pdf |date=September 16, 2012 }} {{webarchive|url=https://web.archive.org/web/20120916105323/http://www.law.fsu.edu/library/flsupct/59128/op-59128.pdf |date=September 16, 2012 }}. Retrieved July 21, 2011.
+</ref><ref>
+[http://ftp.resource.org/courts.gov/c/F2/808/808.F2d.1410.86-5509.html Bundy v. Wainwright, 808 F.2d 1410 (Fla. 1987)] {{Webarchive|url=https://web.archive.org/web/20120407031445/http://ftp.resource.org/courts.gov/c/F2/808/808.F2d.1410.86-5509.html |date=April 7, 2012 }} {{webarchive|url=https://web.archive.org/web/20120407031445/http://ftp.resource.org/courts.gov/c/F2/808/808.F2d.1410.86-5509.html |date=April 7, 2012 }}. Retrieved July 21, 2011.
+</ref>
+
+Six months later, a second trial took place in [[Orlando, Florida|Orlando]], for the abduction and murder of Kimberly Leach.<ref name="Bell-KimberlyLeach" /> Bundy was found guilty once again, after less than eight hours' deliberation, due principally to the testimony of an eyewitness who saw him leading Leach from the schoolyard to his stolen van.{{sfn|Michaud|Aynesworth|1999|p=303}} Important material evidence included clothing fibers with an unusual manufacturing error, found in the van and on Leach's body, which matched fibers from the jacket Bundy was wearing when he was arrested.{{sfn|Michaud|Aynesworth|1999|pp=306–07}}
+
+During the penalty phase of the trial, Bundy took advantage of an obscure Florida law providing that a marriage declaration in court, in the presence of a judge, constituted a legal marriage. As he was questioning former Washington State DES coworker Carole Ann Boone—who had moved to Florida to be near Bundy, had testified on his behalf during both trials, and was again testifying on his behalf as a character witness—he asked her to marry him. She accepted, and Bundy declared to the court that they were legally married.{{sfn|Michaud|Aynesworth|1999|pp=308–10}}<ref name="AP1981-09-30wife-pregnant" />
+
+On February 10, 1980, Bundy was sentenced for a third time to death by electrocution.<ref>
+Hagood, Dick (February 10, 1980). "Bundy Jury: Death" [http://search.jacksonville.com/ ''Florida Times Union'' archive] {{Webarchive|url=https://web.archive.org/web/20100628211058/http://search.jacksonville.com/ |date=June 28, 2010 }} {{webarchive|url=https://web.archive.org/web/20100628211058/http://search.jacksonville.com/ |date=June 28, 2010 }}. Retrieved August 30, 2011.
+</ref> As the sentence was announced, he reportedly stood and shouted, "Tell the jury they were wrong!"{{sfn|Foreman|1992|p=42}} This third death sentence would be the one ultimately carried out nearly nine years later.{{sfn|Nelson|1994|p=7}}
+
+In October 1981, Boone gave birth to a daughter and named Bundy as the father.<ref>{{cite web|url=http://articles.orlandosentinel.com/1989-01-24/news/8901240571_1_bundy-boone-marry|title=Courtroom Wife Fades Out of Sight, Not A Recent Visitor
+|first=Bob |last=Levenson|work=Orlando Sentinel|date=January 24, 1989}}</ref>{{sfn|Rule|2009|p=xxxiv}}{{sfn|Nelson|1994|p=56}} While [[conjugal visit]]s were not allowed at [[Florida State Prison|Raiford Prison]], inmates were known to pool their money in order to bribe guards to allow them intimate time alone with their female visitors.{{sfn|Rule|2009|p=xxxiv}}{{sfn|Michaud|Aynesworth|1999|p=272; Bundy, Boone, and a prison guard all told this source that the couple "took advantage on at least one visit together to consummate their relationship"}}
+
+== Death row, confessions and death ==
+Shortly after the conclusion of the Leach trial and the beginning of the long appeals process that followed, Bundy initiated a series of interviews with Stephen Michaud and Hugh Aynesworth. Speaking mostly in third person to avoid "the stigma of confession", he began for the first time to divulge details of his crimes and thought processes.{{sfn|Michaud|Aynesworth|1989|pp=15–17}}
+
+He recounted his career as a thief, confirming Kloepfer's long-time suspicion that he had shoplifted virtually everything of substance that he owned.{{sfn|Michaud|Aynesworth|1989|pp=37–39}} "The big payoff for me," he said, "was actually ''possessing'' whatever it was I had stolen. I really enjoyed having something ... that I had wanted and gone out and taken." Possession proved to be an important motive for rape and murder as well.{{sfn|Michaud|Aynesworth|1989|p=41}} Sexual assault, he said, fulfilled his need to "totally possess" his victims.{{sfn|Michaud|Aynesworth|1989|pp=102–14}} At first, he killed his victims "as a matter of expediency ... to eliminate the possibility of [being] caught"; but later, murder became part of the "adventure". "The ''ultimate'' possession was, in fact, the taking of the life", he said. "And then ... the physical possession of the remains."{{sfn|Michaud|Aynesworth|1989|pp=124–26}}
+
+Bundy also confided in Special Agent William Hagmaier of the FBI [[Behavioral Analysis Unit]]. Hagmaier was struck by the "deep, almost mystical satisfaction" that Bundy took in murder. "He said that after a while, murder is not just a crime of lust or violence", Hagmaier related. "It becomes possession. They are part of you ... [the victim] becomes a part of you, and you [two] are forever one ... and the grounds where you kill them or leave them become sacred to you, and you will always be drawn back to them." Bundy told Hagmaier that he considered himself to be an "amateur", an "impulsive" killer in his early years, before moving into what he termed his "prime" or "predator" phase at about the time of Lynda Healy's murder in 1974. This implied that he began killing well before 1974—although he never explicitly admitted to having done so.{{sfn|Rule|2009|pp=380–96}}
+
+[[File:Ted Bundy mug shot.jpg|thumb|alt=An unsmiling Bundy faces the camera.|upright=0.8 |Mug shot taken the day after sentencing for the murder of Kimberly Leach]]
+In July 1984, Raiford guards found two hacksaw blades that Bundy had hidden in his cell. A steel bar in one of the cell's windows had been sawed completely through at the top and bottom and glued back into place with a homemade soap-based adhesive.{{sfn|Rule|2009|p=528}}<ref name="DN-trials" /> Several months later, guards found an unauthorized mirror hidden in the cell, and Bundy was again moved to a different cell.{{sfn|Rule|2009|p=532}}
+
+Shortly thereafter, he was charged with a disciplinary infraction for unauthorized correspondence with another high-profile criminal, [[John Hinckley Jr.]]{{sfn|Nelson|1994|pp=155–156}} In October 1984, Bundy contacted [[Robert D. Keppel|Robert Keppel]] and offered to share his self-proclaimed expertise in serial killer psychology{{sfn|Rule|2009|p = 532}} in the ongoing hunt in Washington for the "Green River Killer", later identified as [[Gary Ridgway]].{{sfn|Keppel|2005|p = 176}} Keppel and Green River Task Force detective [[Dave Reichert]] interviewed Bundy, but Ridgway remained at large for a further 17 years.{{sfn|Nelson|1994|pp = 33, 101, 135}} Keppel published a detailed documentation of the Green River interviews,{{sfn|Keppel|2005|p = }} and later collaborated with Michaud on another examination of the interview material.{{sfn|Keppel|Michaud|2011|loc = Kindle location 1690}} Bundy coined the nickname "The Riverman" for Gary Ridgway, which was later used for the title of Keppel's book, ''The Riverman: Ted Bundy and I Hunt for the Green River Killer''.<ref>{{Cite news |first=Peyton |last=Whitely |url=http://www.spokesman.com/stories/1995/aug/07/ted-bundy-helped-green-river-investigation/|title=Ted Bundy Helped Green River Investigation Detective Says Bundy Met With King County Officials Probing Killings|newspaper=[[The Spokesman-Review]]|publisher=[[Cowles Company]]|location=Spokane, Washington|date=August 7, 1995|access-date=May 8, 2018|language=en|archive-url=https://web.archive.org/web/20180508185246/http://www.spokesman.com/stories/1995/aug/07/ted-bundy-helped-green-river-investigation/ |archive-date=May 8, 2018|url-status=live}}</ref>
+
+In early 1986, an execution date (March 4) was set on the Chi Omega convictions; the [[Supreme Court of the United States|Supreme Court]] issued a brief stay, but the execution was quickly rescheduled.{{sfn|Mello|1997|pp=103–104}} In April, shortly after the new date (July 2) was announced, Bundy finally confessed to Hagmaier and Nelson what they believed was the full range of his depredations, including details of what he did to some of his victims after their deaths. He told them that he revisited Taylor Mountain, Issaquah, and other secondary crime scenes, often several times, to lie with his victims and perform sexual acts with their decomposing bodies until [[putrefaction]] forced him to stop. In some cases, he drove for several hours each way and remained the entire night.{{sfn|Keppel|2010|loc=Kindle location 7431–98}} In Utah, he applied makeup to Melissa Smith's lifeless face, and he repeatedly washed Laura Aime's hair. "If you've got time," he told Hagmaier, "they can be anything you want them to be."{{sfn|Michaud|Aynesworth|1999|pp=334–35}} He decapitated approximately 12 of his victims with a hacksaw,<ref name="timeline"/>{{sfn|Michaud|Aynesworth|1999|p=339}} and kept at least one group of severed heads—probably the four later found on Taylor Mountain (Rancourt, Parks, Ball and Healy)—in his apartment for a period of time before disposing of them.{{sfn|Keppel|2005|pp=378, 393}}
+
+Less than 15 hours before the scheduled July 2 execution, the [[Eleventh Circuit Court of Appeals]] [[stay of execution|stayed]] it indefinitely and remanded the Chi Omega case for review on multiple technicalities—including Bundy's mental competency to stand trial, and an erroneous instruction by the trial judge during the penalty phase requiring the jury to break a 6–6 tie between life imprisonment and the death penalty{{sfn|Nelson|1994|p=111}}—which, ultimately, were never resolved.<ref name="findlaw">{{cite court|litigants=Bundy v. Wainwright|vol=794 F.2d|court=US Court of Appeals for the 11th Circuit|date=July 2, 1986|url=https://law.justia.com/cases/federal/appellate-courts/F2/808/1410/173788/|access-date=October 11, 2018|quote=The judgment of the district court is REVERSED and the case REMANDED to that court for proper consideration.}}</ref> A new date (November 18, 1986) was then set to carry out the Leach sentence; the Eleventh Circuit Court issued a stay on November 17.<ref name="findlaw"/> In mid-1988, the Eleventh Circuit ruled against Bundy, and in December the Supreme Court denied a motion to review the ruling. Within hours of that final denial, a firm execution date of January 24, 1989, was announced.{{sfn|Mello|1997|pp=103–106}} Bundy's journey through the appeals courts had been unusually rapid for a capital murder case: "Contrary to popular belief, the courts moved Bundy as fast as they could ... Even the prosecutors acknowledged that Bundy's lawyers never employed delaying tactics. Though people everywhere seethed at the apparent delay in executing the archdemon, Ted Bundy was actually on the fast track."{{sfn|Von Drehle|1995|p=297}}
+
+With all appeal avenues exhausted and no further motivation to deny his crimes, Bundy agreed to speak frankly with investigators. He confessed to Keppel that he had committed all eight of the Washington and Oregon homicides for which he was the prime suspect. He described three additional previously unknown victims in Washington and two in Oregon whom he declined to identify (if indeed he ever knew their identities).{{sfn|Michaud|Aynesworth|1999|p=337}} He said he left a fifth corpse—Donna Manson's—on Taylor Mountain,{{sfn|Rule|2000|p=516}} but incinerated her head in Kloepfer's fireplace. ("Of all the things I did to [Kloepfer]," he told Keppel, "this is probably the one she is least likely to forgive me for. Poor Liz."){{sfn|Keppel|2005|p=395}} "He described the Issaquah crime scene [where the bones of Ott, Naslund, and Hawkins were found], and it was almost like he was just there", Keppel said. "Like he was seeing everything. He was infatuated with the idea because he spent so much time there. He is just totally consumed with murder all the time."{{sfn|Rule|2000|p=519}} Nelson's impressions were similar: "It was the absolute [[misogyny]] of his crimes that stunned me," she wrote, "his manifest rage against women. He had no compassion at all ... he was totally engrossed in the details. His murders were his life's accomplishments."{{sfn|Nelson|1994|p=258}}
+
+Bundy confessed to detectives from Idaho, Utah, and Colorado that he had committed numerous additional homicides, including several that were unknown to the police. He explained that when he was in Utah he could bring his victims back to his apartment, "where he could reenact scenarios depicted on the covers of detective magazines."<ref name="timeline"/> A new ulterior strategy quickly became apparent: he withheld many details, hoping to parlay the incomplete information into yet another stay of execution. "There are other buried remains in Colorado", he admitted, but refused to elaborate.{{sfn|Keppel|2010|loc=Kindle location 7600–05}} The new strategy—immediately dubbed "Ted's bones-for-time scheme"—served only to deepen the resolve of authorities to see Bundy executed on schedule, and yielded little new detailed information.{{sfn|Von Drehle|1995|pp=352–358}} In cases where he did give details, nothing was found.{{sfn|Keppel|2005|p=363}} Colorado detective Matt Lindvall interpreted this as a conflict between his desire to postpone his execution by divulging information and his need to remain in "total possession—the only person who knew his victims' true resting places."{{sfn|Keppel|2010|loc=Kindle location 7550–58}}
+
+When it became clear that no further stays would be forthcoming from the courts, Bundy supporters began lobbying for the only remaining option, executive clemency. Diana Weiner, a young Florida attorney and Bundy's last purported love interest,{{sfn|Nelson|1994|pp=136–137, 255, 302–304}} asked the families of several Colorado and Utah victims to petition Florida Governor [[Bob Martinez]] for a postponement to give Bundy time to reveal more information.{{sfn|Nelson|1994|p=264}} All refused.{{sfn|Rule|2000|p=518}} "The families already believed that the victims were dead and that Ted had killed them", wrote Nelson. "They didn't need his confession."{{sfn|Nelson|1994|p=256}} Martinez made it clear that he would not agree to further delays in any case. "We are not going to have the system manipulated", he told reporters. "For him to be negotiating for his life over the bodies of victims is despicable."{{sfn|Michaud|Aynesworth|1999|pp=335–36}}
+
+Boone had championed Bundy's innocence throughout all of his trials and felt "deeply betrayed" by his admission that he was, in fact, guilty. She moved back to Washington with her daughter and refused to accept his phone call on the morning of his execution. "She was hurt by his relationship with Diana [Weiner]," Nelson wrote, "and devastated by his sudden wholesale confessions in his last days."{{sfn|Nelson|1994|pp=271, 303}}
+
+Hagmaier was present during Bundy's final interviews with investigators. On the eve of his execution, he talked of suicide. "He did not want to give the state the satisfaction of watching him die", Hagmaier said.<ref name="Word1999-01-24" />
+
+Bundy died in the Raiford electric chair at 7:16&nbsp;a.m. [[Eastern Standard Time (North America)|EST]] on January 24, 1989. Hundreds of revelers sang, danced and set off fireworks in a pasture across from the prison as the execution was carried out,<ref name="Sentinel"/><ref name="2,000 Cheer"/> then cheered  as the white hearse containing Bundy's corpse departed the prison.{{sfn|Nelson|1994|pp=311–321}} He was cremated in [[Gainesville, Florida|Gainesville]],{{sfn|Nelson|1994|p=323}} and his ashes scattered at an undisclosed location in the [[Cascade Range]] of Washington State, in accordance with his [[will (law)|will]].<ref name="Bundy'sWill"/>{{sfn|Rule|2009|pp=xxxvi–xxxvii}}
+
+== ''Modus operandi'' and victim profiles ==
+Bundy was an unusually organized and calculating criminal who used his extensive knowledge of law enforcement methodologies to elude identification and capture for years.{{sfn|Von Drehle|1995|pp=283–285}} His crime scenes were distributed over large geographic areas; his victim count had risen to at least 20 before it became clear that numerous investigators in widely disparate jurisdictions were hunting the same man.{{sfn|Von Drehle|1995|p=285}} His assault methods of choice were blunt trauma and strangulation, two relatively silent techniques that could be accomplished with common household items.{{sfn|Keppel|2005|p=30}} He deliberately avoided firearms due to the noise they made and the [[ballistics|ballistic]] evidence they left behind.{{sfn|Michaud|Aynesworth|1989|p=111}} He was a "meticulous researcher" who explored his surroundings in minute detail, looking for safe sites to seize and dispose of victims.{{sfn|Nelson|1994|p=257}} He was unusually skilled at minimizing physical evidence.{{sfn|Michaud|Aynesworth|1989|p=87}} His fingerprints were never found at a crime scene, nor any other incontrovertible evidence of his guilt, a fact he repeated often during the years in which he attempted to maintain his innocence.{{sfn|Michaud|Aynesworth|1999|p=16}}
+[[File:Ted Bundy in court.jpg|thumb|left|alt=Bundy is seen from the side. He is wearing a tweed jacket and has his hand positioned near his chin.|Bundy in a Miami courtroom in 1979]]
+Other significant obstacles for law enforcement were Bundy's generic, essentially anonymous physical features,{{sfn|Keppel|2005|p=80}} and a curious [[chameleon]]-like ability to change his appearance almost at will.{{sfn|Michaud|Aynesworth|1999|p=159}} Early on, police complained of the futility of showing his photograph to witnesses; he looked different in virtually every photo ever taken of him.{{sfn|Michaud|Aynesworth|1989|p=vii}} In person, "his expression would so change his whole appearance that there were moments that you weren't even sure you were looking at the same person", said Stewart Hanson, Jr., the judge in the DaRonch trial. "He [was] really a changeling."{{sfn|Michaud|Aynesworth|1999|p=176}} Bundy was well aware of this unusual quality and he exploited it, using subtle modifications of facial hair or hairstyle to significantly alter his appearance as necessary.{{sfn|Michaud|Aynesworth|1999|p=73}} He concealed his one distinctive identifying mark, a dark mole on his neck, with turtleneck shirts and sweaters.{{sfn|Rule|2009|p=241}} Even his Volkswagen Beetle proved difficult to pin down; its color was variously described by witnesses as metallic or non-metallic, tan or bronze, light brown or dark brown.{{sfn|Michaud|Aynesworth|1999|p=172}}
+
+Bundy's ''[[modus operandi]]'' evolved in organization and sophistication over time, as is typical of serial killers, according to FBI experts.<ref name="timeline"/> Early on, it consisted of forcible late-night entry followed by a violent attack with a blunt weapon on a sleeping victim. He left Sparks for dead while Healy was kidnapped.{{sfn|Rule|2009|pp=14–16}} As his methodology evolved Bundy became progressively more organized in his choice of victims and crime scenes. He would employ various ruses designed to lure his victim to the vicinity of his vehicle where he had pre-positioned a weapon, usually a crowbar. In many cases he wore a plaster cast on one leg or a sling on one arm, and sometimes hobbled on crutches, then requested assistance in carrying something to his vehicle. Bundy was regarded as handsome and charismatic, traits he exploited to win the confidence of his victims and the people around him in his daily life.{{sfn|Keppel|2005|pp=3–6}}{{sfn|Michaud|Aynesworth|1999|p=12}}<ref name="Time25crimes" /> "Ted lured females", Michaud wrote, "the way a lifeless silk flower can dupe a honey bee."{{sfn|Michaud|Aynesworth|1999|p=14}} In situations where his looks and charm were not useful, he invoked authority by identifying himself as a police officer or firefighter. Once Bundy had them near or inside his vehicle, he would overpower and bludgeon them, and then restrain them with handcuffs. He would then transport them to a pre-selected secondary site, often a considerable distance away, and strangle them by [[Strangling#Ligature strangulation|ligature]] during the act of rape.{{sfn|Michaud|Aynesworth|1999|pp=12–13}}<ref name="timeline"/>
+
+At secondary sites he would remove and later burn the victim's clothing,{{sfn|Michaud|Aynesworth|1989|p=196}} or in at least one case (Cunningham's) deposit them in a [[Goodwill Industries]] collection bin.{{sfn|Keppel|2010|loc=Kindle location 7481}} Bundy explained that the clothing removal was ritualistic, but also a practical matter, as it minimized the chance of leaving trace evidence at the crime scene that could implicate him.{{sfn|Michaud|Aynesworth|1989|p=196}} (A manufacturing error in fibers from his own clothing, ironically, provided a crucial incriminating link to Kimberly Leach.){{sfn|Rule|2009|p=279}} He often revisited his secondary crime scenes to engage in acts of necrophilia,{{sfn|Michaud|Aynesworth|1999|p=334}} and to groom or dress up the cadavers.{{sfn|Keppel|2010|loc=Kindle location 7583–91, 7655}} Some victims were found wearing articles of clothing they had never worn, or nail polish that family members had never seen.<ref name="Mystique" /> He took Polaroid photos of many of his victims. "When you work hard to do something right," he told Hagmaier, "you don't want to forget it."{{sfn|Michaud|Aynesworth|1999|pp=334–35}} Consumption of large quantities of alcohol was an "essential component", he told both Keppel and Michaud; he needed to be "extremely drunk" while on the prowl{{sfn|Keppel|2005|p=379}}{{sfn|Keppel|2010|loc=Kindle location 7046}} in order to "significantly diminish" his inhibitions and to "sedate" the "dominant personality" that he feared might prevent his inner "entity" from acting on his impulses.{{sfn|Michaud|Aynesworth|1989|pp=76–77}} Toward the end of his spree, in Florida, perhaps under the stress of being a fugitive, he regressed to indiscriminate attacks on sleeping victims.{{sfn|Michaud|Aynesworth|1999|pp=12–13}}
+
+All of Bundy's known victims were white females, most of middle-class backgrounds. Almost all were between the ages of 15 and 25 and most were college students. He apparently never approached anyone he might have met before.{{sfn|Von Drehle|1995|pp=283–285}} (In their last conversation before his execution, Bundy told Kloepfer he had purposely stayed away from her "when he felt the power of his sickness building in him."){{sfn|Kendall|1981|p=182}} Rule noted that most of the identified victims had long straight hair, parted in the middle—like Stephanie Brooks, the woman who rejected him, and to whom he later became engaged and then rejected in return. Rule speculated that Bundy's animosity toward his first girlfriend triggered his protracted rampage and caused him to target victims who resembled her.{{sfn|Rule|2000|pp=431–32}} Bundy dismissed this hypothesis: "[T]hey ... just fit the general criteria of being young and attractive", he told Hugh Aynesworth. "Too many people have bought this crap that all the girls were similar ... [but] almost everything was dissimilar ... physically, they were almost all different."{{sfn|Michaud|Aynesworth|1989|p=156}} He did concede that youth and beauty were "absolutely indispensable criteria" in his choice of victims.{{sfn|Michaud|Aynesworth|1989|p=85}}
+
+After Bundy's execution, Ann Rule was surprised and troubled to hear from numerous "sensitive, intelligent, kind young women", who wrote or called to say they were deeply depressed because Bundy was dead. Many had corresponded with him, "each believing that she was his only one". Several said they suffered [[nervous breakdown]]s when he died. "Even in death, Ted damaged women," Rule wrote. "To get well, they must realize that they were conned by the master conman. They are grieving for a shadow man that never existed."{{sfn|Rule|2009|pp=612–13}}
+
+== Pathology ==
+[[File:Bundy FLA 8179.jpeg|thumb|right|Bundy mugshot after conviction for Chi Omega murders, August 1979]]
+Bundy underwent multiple psychiatric examinations; the experts' conclusions varied. Dorothy Otnow Lewis, Professor of Psychiatry at the [[New York University School of Medicine]] and an authority on violent behavior, initially made a diagnosis of [[bipolar disorder]],{{sfn|Nelson|1994|p=152}} but later changed her impression more than once.{{sfn|Rule|2009|p=xiv}}{{sfn|Michaud|Aynesworth|1999|p=331}} She also suggested the possibility of a [[dissociative identity disorder|multiple personality disorder]], based on behaviors described in interviews and court testimony: a great-aunt witnessed an episode during which Bundy "seemed to turn into another, unrecognizable person&nbsp;... [she] suddenly, inexplicably found herself afraid of her favorite nephew as they waited together at a dusk-darkened train station. He had turned into a stranger."{{sfn|Nelson|1994|p=154}} Lewis recounted a prison official in Tallahassee describing a similar transformation: "He said, 'He became weird on me.' He did a metamorphosis, a body and facial change, and he felt there was almost an odor emitting from him. He said, 'Almost a complete change of personality&nbsp;... that was the day I was afraid of him.{{' "}}{{sfn|Nelson|1994|pp=231–232}}
+
+While experts found Bundy's precise diagnosis elusive, the majority of evidence pointed away from bipolar disorder or other [[Psychosis|psychoses]],<ref name="Mack1999" /> and toward [[antisocial personality disorder]] (ASPD).{{sfn|Michaud|Aynesworth|1999|p=13}} Bundy displayed many personality traits typically found in ASPD patients (who are often identified as "sociopaths" or "[[psychopathy|psychopaths]]"<ref name="ASPD diagnosis">{{cite book|last=Dobbert|first=Duane|title=Understanding Personality Disorders|url=https://archive.org/details/understandingper0000dobb|url-access=registration|accessdate=July 1, 2013 |year=2007|publisher=Praeger Publishers|location=Westport, Connecticut|isbn=978-0-275-98960-6|page=[https://archive.org/details/understandingper0000dobb/page/55 55]}}</ref>), such as outward charm and charisma with little true personality or genuine insight beneath the facade;<ref name="Long" /> the ability to distinguish right from wrong, but with minimal effect on behavior;<ref name="LilienfeldArkowitz2007-11-28" /><ref>"[Ted knew the difference] between right and wrong, but it didn't matter, because ''he'' was special, and ''he'' deserved to have and do what he wanted. ''He'' was the center of the world; we were all paper-doll figures who didn't matter."{{harvnb|Rule|2009|pp=611–12}}</ref> and an absence of guilt or remorse.<ref name="Long" /> "Guilt doesn't solve anything, really", Bundy said, in 1981. "It hurts you ... I guess I am in the enviable position of not having to deal with guilt."{{sfn|Michaud|Aynesworth|1989|p=281}} There was also evidence of [[narcissism]], poor judgment, and manipulative behavior. "Sociopaths", prosecutor [[George R. Dekle Sr.|George Dekle]] wrote, "are egotistical manipulators who think they can con anybody."{{sfn|Dekle|2011|p=131}} "Sometimes he manipulates even me", admitted one psychiatrist.{{sfn|Von Drehle|1995|p=288}} In the end, Lewis agreed with the majority: "I always tell my graduate students that if they can find me a real, true psychopath, I'll buy them dinner", she told Nelson. "I never thought they existed ... but I think Ted may have been one, a true psychopath, without any remorse or empathy at all."{{sfn|Nelson|1994|p=316}} [[Narcissistic personality disorder]] (NPD) has been proposed as an alternative diagnosis in at least one subsequent retrospective analysis.<ref>{{cite journal|first1=Douglas B.|last1=Samuel|first2=Thomas A.|last2=Widiger|title=Describing Ted Bundy's Personality and Working towards DSM-V|journal=Independent Practitioner|publisher=Department of Psychology at the University of Kentucky|location=Lexington, Kentucky|date=2007|volume=27|issue=1|pages=20–22}}</ref>
+
+On the afternoon before he was executed, Bundy granted an interview to [[James Dobson]], a psychologist and founder of the [[Evangelicalism|Christian evangelical]] organization [[Focus on the Family]].<ref name="BundyDobsonInterview" /> He used the opportunity to make new claims about violence in the media and the [[pornography|pornographic]] "roots" of his crimes. "It happened in stages, gradually", he said. "My experience with ... pornography that deals on a violent level with sexuality, is once you become addicted to it ... I would keep looking for more potent, more explicit, more graphic kinds of material. Until you reach a point where the pornography only goes so far ... where you begin to wonder if maybe actually doing it would give that which is beyond just reading it or looking at it."<ref name="Shapiro2005" /> Violence in the media, he said, "particularly sexualized violence", sent boys "down the road to being Ted Bundys."<ref name="Meyers" /> The FBI, he suggested, should stake out adult movie houses and follow patrons as they leave.{{sfn|Nelson|1994|p=319}} "You are going to kill me," he said, "and that will protect society from me. But out there are many, many more people who are addicted to pornography, and you are doing nothing about that."<ref name="Meyers" />
+
+While Nelson was apparently convinced that Bundy's concern was genuine,{{sfn|Nelson|1994|p=319}} most biographers,{{sfn|Michaud|Aynesworth|1989|p=320}}{{sfn|Rule|2009|p=611}}{{sfn|Keppel|2005|pp=401–02}} researchers,<ref>{{cite web|first=P.|last=Hyatt|title=Ted Bundy's Final Interview|url=http://statement-analysis.blogspot.com/2012/10/statement-analysis-ted-bundys-final.html|website=Statement Analysis|publisher=[[Blogspot.com]]|date=October 3, 2012|accessdate=June 18, 2013|url-status=live|archive-url=https://web.archive.org/web/20130907141045/http://statement-analysis.blogspot.com/2012/10/statement-analysis-ted-bundys-final.html |archive-date=September 7, 2013}}</ref> and other observers<ref name="Goldstein" /> have concluded that his sudden condemnation of pornography was one last manipulative attempt to shift blame by catering to Dobson's agenda as a longtime pornography critic.{{sfn|Nelson|1994|p=318}} He told Dobson that "true crime" detective magazines had "corrupted" him and "fueled [his] fantasies ... to the point of becoming a serial killer"; yet in a 1977 letter to Ann Rule, he wrote, "Who in the world reads these publications? ... I have never purchased such a magazine, and [on only] two or three occasions have I ever picked one up."{{sfn|Rule|2009|pp=611–12}} He told Michaud and Aynsworth in 1980, and Hagmaier the night before he spoke to Dobson, that pornography played a negligible role in his development as a serial killer.{{sfn|Michaud|Aynesworth|1999|p=340}} "The problem wasn't pornography", wrote Dekle. "The problem was Bundy."{{sfn|Dekle|2011|p=219}} "I wish I could believe that his motives were altruistic," wrote Rule. "But all I can see in that Dobson tape is another Ted Bundy manipulation of our minds. The effect of the tape is to place, once again, the onus of his crimes, not on ''himself'', but on ''us''."{{sfn|Rule|2009|p=611}}
+
+[[File:Bundy & Hagmaier.jpg|thumb|right|Hagmaier and Bundy during their final death row interview on the eve of Bundy's execution, January 23, 1989]]
+
+Rule and Aynesworth both noted that for Bundy, the fault always lay with someone or something else. While he eventually confessed to 30 murders, he never accepted responsibility for any of them, even when offered that opportunity prior to the Chi Omega trial, which would have spared him the death penalty.{{sfn|Rule|2009|pp=603–04}} He deflected blame onto a wide variety of scapegoats, including his abusive grandfather, the absence of his biological father, the concealment of his true parentage, alcohol, the media, the police (whom he accused of planting evidence), society in general, violence on television, and, ultimately, true crime periodicals and pornography.{{sfn|Michaud|Aynesworth|1989|pp=216–22, 250}} He blamed television programming, which he watched mostly on sets that he had stolen, for "brainwashing" him into stealing credit cards.{{sfn|Rule|2009|p=404}} On at least one occasion, he even tried to [[Victim blaming|blame his victims]]: "I have known people who ... radiate vulnerability", he wrote in a 1977 letter to Kloepfer. "Their facial expressions say 'I am afraid of you.' These people invite abuse ... By expecting to be hurt, do they subtly encourage it?"{{sfn|Kendall|1981|p=167}}
+
+A significant element of delusion permeated his thinking: <blockquote>Bundy was always surprised when anyone noticed that one of his victims was missing, because he imagined America to be a place where everyone is invisible except to themselves. And he was always astounded when people testified that they had seen him in incriminating places, because Bundy did not believe people noticed each other.{{sfn|Von Drehle|1995|pp=288–289}}</blockquote> "I don't know why everyone is out to get me", he complained to Lewis. "He really and truly did not have any sense of the enormity of what he had done," she said.{{sfn|Michaud|Aynesworth|1999|p=340}} "A long-term serial killer erects powerful barriers to his guilt," Keppel wrote, "walls of denial that can sometimes never be breached."{{sfn|Michaud|Aynesworth|1989|p=xi}} Nelson agreed. "Each time he was forced to make an actual confession," she wrote, "he had to leap a steep barrier he had built inside himself long ago."{{sfn|Nelson|1994|p=280}}
+
+== Victims ==
+The night before his execution, Bundy confessed to 30 homicides, but the true total remains unknown. Published estimates have run as high as 100 or more,<ref>{{cite news|first=C.R.|last=Douglas|title=Ted Bundy's lawyer: Bundy killed more than 100 women – and a man |url=http://articles.orlandosentinel.com/2012-05-23/news/kcpq-bundys-lawyer-he-killed-over-100-women--and-a-man-20120523_1_ted-bundy-serial-killers-murder|newspaper=[[Orlando Sentinel]]|publisher=[[Tronc]]|location=Orlando, Florida|date=May 23, 2012|accessdate=November 11, 2013|page=Q3|url-status=live|archive-url=http://archive.wikiwix.com/cache/20131110140852/http://articles.orlandosentinel.com/2012-05-23/news/kcpq-bundys-lawyer-he-killed-over-100-women--and-a-man-20120523_1_ted-bundy-serial-killers-murder |archivedate=November 10, 2013}}</ref> and Bundy occasionally made cryptic comments to encourage that speculation.{{sfn|Nelson|1994|p=257}} He told Hugh Aynesworth in 1980 that for every murder "publicized", there "could be one that was not."{{sfn|Michaud|Aynesworth|1999|p=199}} When FBI agents proposed a total tally of 36, Bundy responded, "Add one digit to that, and you'll have it."{{sfn|Rule|2000|p=335}} Years later he told attorney Polly Nelson that the common estimate of 35 was accurate,{{sfn|Nelson|1994|p=257}} but Robert Keppel wrote that "[Ted] and I both knew [the total] was much higher."{{sfn|Keppel|2005|pp=399–400}} "I don't think even he knew ... how many he killed, or why he killed them", said Rev. Fred Lawrence, the Methodist clergyman who administered Bundy's [[last rites]]. "That was my impression, my strong impression."{{sfn|Von Drehle|1995|p=363}}
+
+On the evening before his execution, Bundy reviewed his victim tally with Bill Hagmaier on a state-by-state basis for a total of 30 homicides:{{sfn|Michaud|Aynesworth|1999|p=339}}
+* in Washington, 11 (including Parks, abducted in Oregon but killed in Washington; and including 3 unidentified)
+* in Utah, 8 (3 unidentified)
+* in Colorado, 3
+* in Florida, 3
+* in Oregon, 2 (both unidentified)
+* in Idaho, 2 (1 unidentified)
+* in California, 1 (unidentified)
+
+The following is a chronological summary of the 20 identified victims and five identified survivors:
+
+=== 1974 ===
+
+==== Washington, Oregon ====
+* ''January 4'': Karen Sparks (often identified as Joni Lenz in Bundy literature) (age 18): Bludgeoned and sexually assaulted in her bed as she slept;{{sfn|Michaud|Aynesworth|1999|p=28}} survived{{sfn|Sullivan|2009|p=14}}{{sfn|Rule|2009|p=57}}
+* ''February 1'': Lynda Ann Healy (21): Bludgeoned while asleep and abducted;{{sfn|Rule|2009|pp=60–62}} skull and mandible recovered at Taylor Mountain site{{sfn|Keppel|2005|pp=25–30}}
+* ''March 12'': Donna Gail Manson (19): Abducted while walking to a concert at The Evergreen State College; body left (according to Bundy) at Taylor Mountain site, but never found{{sfn|Rule|2000|p=516}}
+* ''April 17'': Susan Elaine Rancourt (18): Disappeared after attending an evening advisors' meeting at Central Washington State College;{{sfn|Keppel|2005|pp=42–46}}{{sfn|Michaud|Aynesworth|1999|pp=31–33}} skull and mandible recovered at Taylor Mountain site in 1975{{sfn|Keppel|2005|pp=25–30}}
+* ''May 6'': Roberta Kathleen Parks (22): Vanished from Oregon State University in Corvallis; skull and mandible recovered at Taylor Mountain site in 1975{{sfn|Keppel|2005|pp=25–30}}
+* ''June 1'': Brenda Carol Ball (22): Disappeared after leaving the Flame Tavern in Burien;{{sfn|Rule|2009|pp=75–76}} skull and mandible recovered at Taylor Mountain site in 1975{{sfn|Keppel|2005|pp=25–30}}
+* ''June 11'': Georgann (often misspelled "Georgeann"{{sfn|Michaud|Aynesworth|1999|p=37}}) Hawkins (18): Abducted from an alley behind her sorority house, UW;{{sfn|Rule|2009|p=82}} skeletal remains identified by Bundy as those of Hawkins recovered at Issaquah site{{sfn|Keppel|2005|p=18}}<ref>{{cite news|last1=Shearer|first1=Dan|title=Georgann Hawkins died at the hands of Ted Bundy, but that's not how her mom wants her remembered|url=http://www.gvnews.com/news/local/georgann-hawkins-died-at-the-hands-of-ted-bundy-but/article_f8cc5a4c-f103-11e3-8e31-0019bb2963f4.html|accessdate=March 1, 2016|work=Green Valley News|date=June 11, 2014|location=Green Valley, Arizona|url-status=live|archiveurl=https://web.archive.org/web/20160504144633/http://www.gvnews.com/news/local/georgann-hawkins-died-at-the-hands-of-ted-bundy-but/article_f8cc5a4c-f103-11e3-8e31-0019bb2963f4.html|archivedate=May 4, 2016}}</ref>
+* ''July 14'': Janice Ann Ott (23): Abducted from Lake Sammamish State Park in broad daylight;{{sfn|Keppel|2005|pp=3–6}} skeletal remains recovered at Issaquah site in 1975{{sfn|Keppel|2005|pp=8–15}}
+* ''July 14'': Denise Marie Naslund (19): Abducted four hours after Ott from the same park;{{sfn|Rule|2009|pp=99–101}} skeletal remains recovered at Issaquah site in 1975{{sfn|Keppel|2005|pp=8–15}}
+
+==== Utah, Colorado, Idaho ====
+* ''October 2'': Nancy Wilcox (16): Ambushed, assaulted, and strangled in Holladay, Utah;{{sfn|Michaud|Aynesworth|1999|p=91}} body buried (according to Bundy) near Capitol Reef National Park, {{convert|200|mi}} south of Salt Lake City, but never found<ref name="Psychics" />
+* ''October 18'': Melissa Anne Smith (17): Vanished from Midvale, Utah; body found nine days later, in nearby mountainous area{{sfn|Sullivan|2009|p=96}}
+* ''October 31'': Laura Ann Aime (17): Disappeared from Lehi, Utah; bludgeoned and raped; body discovered by hikers in American Fork Canyon<ref name="Bell-KillingSpree" />
+* ''November 8'': Carol DaRonch (18): Attempted abduction in Murray, Utah; escaped from Bundy's car and survived{{sfn|Michaud|Aynesworth|1999|pp=93–95}}
+* ''November 8'': Debra Jean Kent (17): Vanished after leaving a school play in Bountiful, Utah; body left (according to Bundy) near [[Fairview, Utah]], {{convert|100|mi}} south of Bountiful; minimal skeletal remains (one [[patella]]) found, were eventually in 2015 positively identified by DNA as Kent's<ref name=":0" /><ref name="Schulte2006" />
+
+=== 1975 ===
+
+==== Utah, Colorado, Idaho ====
+
+* ''January 12'': Caryn Eileen Campbell (23): Disappeared from a hotel hallway in Snowmass, Colorado;{{sfn|Rule|1989|p=126}} body discovered 36 days later, on a dirt road near the hotel{{sfn|Rule|2000|pp=132–36}}
+* ''March 15'': Julie Cunningham (26): Disappeared on the way to a tavern in Vail, Colorado;{{sfn|Keppel|2005|pp=402–07}} body buried (according to Bundy) near Rifle, {{convert|90|mi}} west of Vail, but never found<ref name="Jackson2002" />
+* ''April 6'': Denise Lynn Oliverson (25): Abducted while cycling to her parents' house in Grand Junction, Colorado;{{sfn|Michaud|Aynesworth|1999|p=110}} body thrown (according to Bundy) into the [[Colorado River]] {{convert|5|mi}} west of Grand Junction,{{sfn|Keppel|2010|loc=Kindle location 9046}} but never found<ref name="CBIColdCase1"/>
+* ''May 6'': Lynette Dawn Culver (12): Abducted from Alameda Junior High School in Pocatello, Idaho;{{sfn|Sullivan|2009|pp=137–38}} body thrown (according to Bundy) into what authorities believe to be the Snake River, but never found<ref name="Culver"/>
+* ''June 28'': Susan Curtis (15): Disappeared during a youth conference at Brigham Young University;{{sfn|Michaud|Aynesworth|1999|p=343}} body buried (according to Bundy) near [[Price, Utah]], {{convert|75|mi}} southeast of Provo, but never found{{sfn|Keppel|2010|loc=Kindle location 9040}}
+
+=== 1978 ===
+
+==== Florida ====
+* ''January 15'': Margaret Elizabeth Bowman (21): Bludgeoned and then strangled as she slept, Chi Omega sorority, FSU (no secondary crime scene){{sfn|Rule|2009|pp=334–43}}
+* ''January 15'': Lisa Levy (20): Bludgeoned, strangled and sexually assaulted as she slept, Chi Omega sorority, FSU (no secondary crime scene){{sfn|Rule|2009|pp=334–43}}
+* ''January 15'': Karen Chandler (21): Bludgeoned as she slept, Chi Omega sorority, FSU; survived{{sfn|Rule|2009|pp=334–43}}
+* ''January 15'': Kathy Kleiner (21): Bludgeoned as she slept, Chi Omega sorority, FSU; survived{{sfn|Rule|2009|pp=334–43}}
+* ''January 15'': Cheryl Thomas (21): Bludgeoned as she slept, eight blocks from Chi Omega; survived{{sfn|Rule|2009|pp=334–43}}
+* ''February 9'': Kimberly Dianne Leach (12): Abducted from her junior high school in Lake City, Florida;{{sfn|Nelson|1994|p=319}} mummified remains found near Suwannee River State Park, {{convert|43|mi}} west of Lake City<ref name="FL-HighwayPatrol" />
+
+=== Other possible victims ===
+Bundy remains a suspect in several unsolved homicides, and is likely responsible for others that may never be identified; in 1987 he confided to Keppel that there were "some murders" that he would "never talk about", because they were committed "too close to home", "too close to family", or involved "victims who were very young".{{sfn|Keppel|2010|loc=Kindle location 7375}}
+
+* [[Disappearance of Ann Marie Burr|Ann Marie Burr]], aged 8, vanished from her Tacoma home on August 31, 1961,<ref name="NamUS4593" /> when Bundy was 14. An unknown tennis shoe imprint was found by the overturned bench used to enter the house. Due to the small size of the shoe, police believed the perpetrator must be a teenager or youth.<ref>[https://www.orlandosentinel.com/news/os-xpm-1989-01-24-8901240575-story.html PARENTS ARE LEFT TO WONDER] Bob Levenson,
+The Orlando Sentinel, January 24, 1989</ref> The Burr house was on Bundy's newspaper delivery route. The victim's father was certain that he saw Bundy in a ditch at a construction site on the nearby University of Puget Sound campus the morning his daughter disappeared.<ref>{{cite book|first=Rebecca|last=Morris|title=Ted and Ann – The Mystery of a Missing Child and Her Neighbor Ted Bundy|publisher=True Books|location=New York City|edition=2nd|date=2013|isbn=978-1484925089}}</ref>{{page needed|date=October 2019}}  Other circumstantial evidence implicates him as well, but detectives familiar with the case have never agreed on the likelihood of his involvement.{{sfn|Keppel|2005|p=387}}{{sfn|Morris|2013|pp=238–40}} Bundy repeatedly denied culpability and wrote a letter of denial to the Burr family in 1986;{{sfn|Rule|2009|p=623}} but Keppel has observed that Burr fits all three of Bundy's "no discussion" categories of "too close to home", "too close to family", and "very young".{{sfn|Keppel|2010|loc=Kindle location 7375}} Forensic testing of material evidence from the Burr crime scene in 2011 yielded insufficient intact DNA sequences for comparison with Bundy's.<ref name="BurrDNA" />
+* Flight attendants Lisa E. Wick and Lonnie Ree Trumbull, both 20, were bludgeoned with a piece of lumber as they slept in their basement apartment in Seattle's Queen Anne Hill district on June 23, 1966<ref name="SpokaneDaily" /> near the [[Safeway Inc.|Safeway]] store where Bundy worked at the time, and where the women regularly shopped. Trumbull died. In retrospect, Keppel noted many similarities to the Chi Omega crime scene.{{sfn|Keppel|2010|loc=Kindle location 7135}} Wick, who suffered permanent memory loss as a result of the attack, later contacted Ann Rule: "I know that it was Ted Bundy who did that to us," she wrote, "but I can't tell you how I know."{{sfn|Rule|2009|p=509}} In the absence of incriminating evidence, Bundy's involvement remains speculative.{{sfn|Keppel|2005|p=386}}
+* Vacationing college friends Susan Margarite Davis and Elizabeth Perry, both 19, were stabbed to death on May 30, 1969.<ref name="DailyNews" /> Their car was found that day abandoned beside the [[Garden State Parkway]] outside [[Somers Point, New Jersey]], near Atlantic City, {{convert|60|mi}} southeast of Philadelphia; and their bodies—one nude, one fully clothed—were found in nearby woods three days later.<ref name="Free Lance" /> Bundy attended Temple University from January through May 1969 and apparently did not move west until after Memorial Day weekend. While Bundy's accounts of his earliest crimes varied considerably between interviews, he told forensic psychologist Art Norman that his first murder victims were two women in the Philadelphia area.<ref name="DailyNews" /> Biographer Richard Larsen believed that Bundy committed the murders using his feigned-injury ruse, based on an investigator's interview with Julia, Bundy's aunt: Ted, she said, was wearing a leg cast due to an automobile accident on the weekend of the homicides, and therefore could not have traveled from Philadelphia to the [[New Jersey Shore|Jersey Shore]]; there is no official record of any such accident.<ref name="'69 Killings3" /> Bundy is considered a "strong suspect", but the case remains open.<ref name="'69 Killings3" />
+* Rita Patricia Curran, a 24-year-old elementary school teacher and part-time motel maid, was murdered in her basement apartment on July 19, 1971, in Burlington, Vermont; she had been strangled, bludgeoned and raped.{{sfn|Rule|1989|pp=416–17}} The location of the motel where she worked (adjacent to Bundy's birthplace, the Elizabeth Lund Home for Unwed Mothers) and similarities to known Bundy crime scenes led retired FBI agent John Bassett to propose him as a suspect.{{sfn|Rule|2009|pp=505–08}} No evidence firmly places Bundy in Burlington on that date, but municipal records note that a person named "Bundy" was bitten by a dog that week,{{sfn|Rule|2009|p=508}} and long stretches of Bundy's time—including the summer of 1971—remain unaccounted for.<ref name="timeline"/> Curran's murder officially remains unsolved.<ref name="Curran" /> According to Keppel, Bundy told him he murdered a young woman in July 1971 in Burlington, Vt., who worked next door to a home for unwed mothers where Bundy was born. Bundy was there to obtain information about his birth.<ref>Keller, Larry (January 24, 1989).  [https://www.sun-sentinel.com/news/fl-xpm-1989-01-24-8901040963-story.html "STARKE -- Confessed mass murderer Ted Bundy..."]  ''Sun-Sentinel.com''.  Retrieved July 12, 2020.</ref>
+* Joyce LePage, 21, was last seen on July 22, 1971, on the campus of [[Washington State University]], where she was an undergraduate. Nine months later, her skeletal remains were found wrapped in carpeting and military blankets, bound with rope, in a deep ravine south of [[Pullman, Washington]]. Multiple suspects—including Bundy—have "never been cleared", according to investigators.<ref>
+Johnson, David (February 9, 2009). "Swept under the rug: WSU student's remains found nine months after carpet reported missing from dorm." [http://media.spokesman.com/documents/2009/02/Document2____.pdf MediaSpokesman.com archive] {{Webarchive|url=https://web.archive.org/web/20120606082235/http://media.spokesman.com/documents/2009/02/Document2____.pdf |date=June 6, 2012 }} {{webarchive|url=https://web.archive.org/web/20120606082235/http://media.spokesman.com/documents/2009/02/Document2____.pdf |date=June 6, 2012 }}. Retrieved December 28, 2012.
+</ref> [[Whitman County, Washington|Whitman County]] authorities have said that Bundy remains a suspect.<ref name="list" />
+* Rita Lorraine Jolly, 17, disappeared from [[West Linn, Oregon]], on June 29, 1973;<ref name="NamUS7780" /> Vicki Lynn Hollar, 24, disappeared from [[Eugene, Oregon]], on August 20, 1973.<ref name="NamUS9265" /> Bundy confessed to two homicides in Oregon without identifying the victims. Oregon detectives suspected that they were Jolly and Hollar, but were unable to obtain interview time with Bundy to confirm it. Both women remain classified as missing.{{sfn|Michaud|Aynesworth|1999|p=338}}
+* Katherine Merry Devine, 14, was abducted on November 25, 1973, and her body was found the next month in the [[Capitol State Forest]] near Olympia, Washington.<ref name="AP2002-07-30" /> Brenda Joy Baker, 14, was seen hitchhiking near [[Puyallup, Washington]], on May 27, 1974; her body was found in [[Millersylvania State Park]] a month later.<ref name="list" /><ref name="'73slaying" /> Though Bundy was widely believed responsible for both murders, he told Keppel that he had no knowledge of either case.{{sfn|Keppel|2005|pp=257–62}}{{sfn|Keppel|2010|loc=Kindle location 7118}} DNA analysis led to the arrest and conviction of William E. Cosden for Devine's murder in 2002.<ref name="AP2002-07-30" /> The Baker homicide remains unsolved.
+* Sandra Jean Weaver, 19, a Wisconsin native who had been living in [[Tooele, Utah]], was last seen in Salt Lake City on July 1, 1974; her nude body was discovered the following day near [[Grand Junction, Colorado]].<ref name="Tie-in" /> Sources conflict on whether Bundy mentioned Weaver's name during the death row interviews.<ref name="Unclear" /> Her murder remains unsolved.<ref name="Follow up" />
+* Melanie Suzanne "Suzy" Cooley, 18, disappeared on April 15, 1975, after leaving Nederland High School in [[Nederland, Colorado]], {{convert|50|mi}} northwest of Denver.<ref name="CBIColdCase2"/> Her bludgeoned and strangled corpse was discovered by road maintenance workers two weeks later in Coal Creek Canyon, {{convert|20|mi}} away. Gasoline station receipts place Bundy in nearby [[Golden, Colorado|Golden]] on the day Cooley disappeared.<ref name="HolmesHolmes" />  Cooley is included in some compilations of Bundy victims, but Jefferson County authorities say the evidence is inconclusive and continue to treat her homicide as a [[cold case (criminology)|cold case]].<ref name="JeffersonCo-ColdCases" />
+* Shelley Kay Robertson, 24, failed to show up for work in Golden, Colorado, on July 1, 1975. Her nude, decomposed body was found in August, {{convert|500|ft}} inside a mine on [[Berthoud Pass]] near [[Winter Park Resort]] by two mining students.<ref name="CBIColdCase3"/> Gas station receipts place Bundy in the area at the time, but there is no direct evidence of his involvement; the case remains open.{{sfn|Rule|2009|pp=162–63}}
+* Nancy Perry Baird, 23, disappeared from the service station where she worked in [[Layton, Utah]], {{convert|25|mi}} north of Salt Lake City, on July 4, 1975, and remains classified as a missing person.<ref name="Baird"/><ref name="NamUS11575" /> Bundy specifically denied involvement in this case during the death row interviews.{{sfn|Michaud|Aynesworth|1999|p=340}}
+* Debbie Smith, 17, was last seen in Salt Lake City in early February 1976, shortly before the DaRonch trial began; her body was found near the [[Salt Lake City International Airport]] on April 1, 1976.<ref name="SunSentinel2"/> Though listed as a Bundy victim by some sources, her murder remains officially unsolved.{{sfn|Rule|2009|p=599}}
+
+Minutes before his execution, Hagmaier queried Bundy about unsolved homicides in New Jersey, Illinois, Vermont (the Curran case), Texas, and Miami, Florida. Bundy provided directions—later proven inaccurate—to Susan Curtis' burial site in Utah, but denied involvement in any of the open cases.{{sfn|Michaud|Aynesworth|1999|pp=343–44}}
+
+In 2011, Bundy's complete DNA profile, obtained from a vial of his blood found in an evidence vault, was added to the FBI's DNA database for future reference in these and other unsolved murder cases.<ref>{{cite news|first=Erica|last=Goode|url=https://www.nytimes.com/2011/08/10/us/10bundy.html|title=DNA Profile of Ted Bundy Gives Hope to Old Cases|newspaper=[[The New York Times]]|publisher=New York Times Company|location=New York City|date=August 9, 2011|accessdate=March 4, 2019|url-status=live|archive-url=https://web.archive.org/web/20190303221010/https://www.nytimes.com/2011/08/10/us/10bundy.html |archive-date=March 3, 2019 }}</ref>
+
+==Artifacts==
+* Bundy's 1968 Volkswagen Beetle was displayed in the lobby of the National Museum of Crime and Punishment in Washington, D.C. until its closure in 2015. It is presently on exhibit at the Alcatraz East Crime Museum in [[Pigeon Forge, Tennessee]].<ref>{{cite web|title=VW owned by serial killer, Ted Bundy|url=http://www.crimemuseum.org/crime-library/the-volkswagen-owned-by-serial-killer-ted-bundy/|archiveurl=https://web.archive.org/web/20160721223638/http://www.crimemuseum.org/crime-library/the-volkswagen-owned-by-serial-killer-ted-bundy/ |archivedate=July 21, 2016|accessdate=July 25, 2016}}</ref>
+* A ski mask, rope, flashlight, handcuffs, gloves, and a nylon mask were all found inside Bundy's 1968 Volkswagen Beetle's glove compartment.<ref>{{cite web |last1=Flowers |first1=Beverly |title=15 Little Known Facts About Ted Bundy That Will Chill You To Your Core |url=https://thoughtcatalog.com/beverly-flowers/2018/04/15-little-known-facts-about-ted-bundy-that-will-chill-you-to-your-core/ |publisher=Thought Catalog |date=April 21, 2018 |access-date=July 3, 2018 |archive-url=https://web.archive.org/web/20180627034711/https://thoughtcatalog.com/beverly-flowers/2018/04/15-little-known-facts-about-ted-bundy-that-will-chill-you-to-your-core/ |archive-date=June 27, 2018 |url-status=live  }}</ref>
+* Polaroid photographs of Bundy's victims have been found throughout the years.<ref>{{cite book |last1=Keller |first1=Robert |title=Bundy: Portrait of a Serial Killer: The Shocking True Story of Ted Bundy |publisher=Robert Keller |isbn=9781548730673 |url=https://read.amazon.com/?asin=B073XTHHC2 |accessdate=July 2, 2018}}</ref>
+
+==In media==
+
+===Films===
+*''[[The Deliberate Stranger]]'' (1986), played by [[Mark Harmon]] 
+*''[[Ted Bundy (film)|Ted Bundy]]'' (2002), played by [[Michael Reilly Burke]]
+*''[[The Stranger Beside Me]]'' (2003), played by [[Billy Campbell]]
+*''[[The Riverman]]'' (2004), played by [[Cary Elwes]]
+*''[[Bundy: An American Icon]]'' (2008), played by [[Corin Nemec]]
+*''[[The Capture of the Green River Killer]]'' (2008), played by [[James Marsters]]
+*''[[Extremely Wicked, Shockingly Evil and Vile]]'' (2019), played by [[Zac Efron]]
+
+=== Books ===
+* Rule, Ann (1980). ''The Stranger Beside Me.'' W.W. Norton and Company Inc. {{ISBN|978-1-938402-78-4}}
+* Kendall, Elizabeth (1981). ''The Phantom Prince: My Life with Ted Bundy.'' Abrams & Chronicle Books. {{ISBN|978-1419744853}}
+* Sullivan, Kevin M (2009). ''The Bundy Murders: A Comprehensive History.'' McFarland and Company Inc. {{ISBN|978-0-786444-26-7}}
+* Michaud, Stephen G., and Hugh Aynesworth (2000). ''Ted Bundy: Conversations with a Killer.'' Authorlink Press. {{ISBN|978-1928704-17-1}}
+* Nelson, Polly (2019). ''Defending the Devil: My Story as Ted Bundy's Last Lawyer.'' Echo Point Books & Media. {{ISBN|978-1635617-91-7}} 
+* Carlisle, Al (2017). ''Violent Mind: The 1976 Psychological Assessment of Ted Bundy.'' Genius Book Publishing. {{ISBN|978-0998297-37-8}} 
+*Michaud, Stephen G., and Hugh Aynesworth (2012). ''The Only Living Witness: The True Story of Serial Sex Killer Ted Bundy.'' Authorlink. {{ISBN|978-1928704119}}
+
+=== Television ===
+* ''Ted Bundy: Devil In Disguise''.<ref>{{cite web |title=Ted Bundy: Devil In Disguise |url=http://www.tvguide.com/tvshows/ted-bundy-devil-in-disguise/1018404/ |website=TV Guide |publisher=CBS Interactive Inc |date=2017 |accessdate=July 3, 2018 |archive-url=https://web.archive.org/web/20180703051147/http://www.tvguide.com/tvshows/ted-bundy-devil-in-disguise/1018404/ |archive-date=July 3, 2018 |url-status=live  }}</ref>
+* ''Ted Bundy: An American Monster''.<ref>{{cite web |title=Ted Bundy: An American Monster |url=http://www.tvguide.com/tvshows/ted-bundy-an-american-monster/1105479/ |magazine=[[TV Guide]] |publisher=[[CBS Interactive Inc.]] |location=New York City |date=2017 |accessdate=July 3, 2018 |archive-url=https://web.archive.org/web/20180703050657/http://www.tvguide.com/tvshows/ted-bundy-an-american-monster/1105479/ |archive-date=July 3, 2018 |url-status=live  }}</ref>
+* ''Ted Bundy: What Happened''.<ref>{{cite web |title=Ted Bundy: What Happened |url=http://www.tvguide.com/tvshows/ted-bundy-what-happened/1127077/ |magazine=[[TV Guide]] |publisher=[[CBS Interactive Inc.]] |location=New York City |date=2017 |accessdate=July 3, 2018 |archive-url=https://web.archive.org/web/20180703051234/http://www.tvguide.com/tvshows/ted-bundy-what-happened/1127077/ |archive-date=July 3, 2018 |url-status=live  }}</ref>
+* ''[[Conversations with a Killer: The Ted Bundy Tapes]]'', Netflix documentary series (2019)
+* ''Ted Bundy: Falling for a Killer'', Amazon Prime Video documentary series (2020)
+
+== See also ==
+{{Portal|Biography|Florida<!-- State of execution -->}}
+* [[List of fugitives from justice who are no longer sought]]
+* [[List of serial killers in the United States]]
+{{Clear}}
+
+== References ==
+{{Reflist|20em|refs=
+<ref name="BundyAppealBrief">
+{{cite web
+ |title=1982 Bundy appeal brief
+ |date=December 15, 1982 
+ |page=11 
+ |publisher=Supreme Court of Florida
+ |work=law.fsu.edu
+ |url=http://www.law.fsu.edu/library/flsupct/59128/59128ini.pdf
+ |accessdate=July 14, 2010 
+ |url-status=dead
+ |archiveurl=https://web.archive.org/web/20110607184655/http://www.law.fsu.edu/library/flsupct/59128/59128ini.pdf
+ |archivedate=June 7, 2011 
+ |df= 
+}}
+</ref>
+
+<ref name="timeline">
+{{cite web|title=Ted Bundy Multiagency Investigative Team Report 1992 |date=1992 |publisher=U.S. Department of Justice, Federal Bureau of Investigation |work=web.archive.org |url=http://tedbundy.com/errata/freebies/Ted%20Bundy%20Multiagency%20Investigative%20Team%20Report%201992%20from%20tedbundy.com.pdf |accessdate=June 3, 2016 |url-status=unfit |archiveurl=https://web.archive.org/web/20060621144017/http://tedbundy.com/errata/freebies/Ted%20Bundy%20Multiagency%20Investigative%20Team%20Report%201992%20from%20tedbundy.com.pdf |archivedate=June 21, 2006 }}
+</ref>
+
+<ref name="Time25crimes">
+{{cite magazine
+|first = Howard
+|last = Chua-Eoan
+|title = Top 25 Crimes of the Century
+|url = http://www.time.com/time/2007/crimes/14.html
+|magazine = [[Time (magazine)|Time]]
+|issn = 0040-781X
+|publisher = [[Meredith Corporation]]
+|location= New York City
+|date = 2007
+|accessdate = May 6, 2012
+|url-status=dead
+|archiveurl = https://web.archive.org/web/20110119155725/http://www.time.com/time/2007/crimes/14.html
+|archivedate = January 19, 2011
+}}
+</ref>
+
+<ref name="Hare1999">
+{{cite book
+|first = Robert D.
+|last = Hare
+|authorlink = Robert D. Hare
+|title = Without Conscience: The Disturbing World of the Psychopath Among Us
+|date = 1999
+|publisher = The Guildford Press
+|location = New York
+|page = [https://archive.org/details/withoutconscienc00hare/page/23 23]
+|isbn = 978-1-57230-451-2
+|ref = harv
+|url = https://archive.org/details/withoutconscienc00hare/page/23
+}}
+</ref>
+
+<ref name="akaLeslieHolland">
+Also known as Leslie Holland ({{harvnb|Foreman|1992|p=15}}), Susan Phillips ({{harvnb|Kendall|1981|p=99}}), and Marjorie Russell ({{harvnb|Michaud|Aynesworth|1989|p=161}}).
+</ref>
+
+<ref name="Ellensburg1973-08-30">
+{{cite news
+|title = Evans' man followed Rosy
+|date = August 30, 1973
+|newspaper = [[Ellensburg Daily Record]]
+|publisher = [[Adams Publishing Group]]
+|location = Ellensburg, Washington 
+|agency = [[United Press International]]
+|url = https://news.google.com/newspapers?id=cjcQAAAAIBAJ&sjid=Ao8DAAAAIBAJ&dq=theodore-bundy&pg=6225%2C3131787
+|accessdate = April 24, 2011
+}}
+</ref>
+
+<ref name="Spokesman-Review">
+{{cite news
+|first = George Jr.
+|last= Capezi
+|title = The Bundy Case: There are a lot of strange coincidences concerning the life of Ted Bundy
+|date = August 20, 1979
+|newspaper = [[The Spokesman-Review]]
+|publisher = [[Cowles Company]]
+|location = Spokane, Washington
+|url = https://news.google.com/newspapers?nid=1314&dat=19790820&id=Z_QjAAAAIBAJ&sjid=K-4DAAAAIBAJ&pg=4087,2904709
+|accessdate = April 17, 2012
+}}
+</ref>
+
+<ref name="Michaud-trutv">{{cite web|first=Stephen G. |last=Michaud |title=The Only Living Witness: The True Story Of Ted Bundy |work=True TV Crime Library: Criminal Minds and Methods |publisher=[[Turner Broadcasting System]] |url=http://www.trutv.com/library/crime/criminal_mind/psychology/witness/21.html |accessdate=April 24, 2011 |url-status=dead |archiveurl=https://web.archive.org/web/20110807125418/http://www.trutv.com/library/crime/criminal_mind/psychology/witness/21.html |archivedate=August 7, 2011 }}
+</ref>
+
+<ref name="Kennicott-wapo">
+{{cite news
+ |first       = Philip
+ |last        = Kennicott
+ |title       = Ted Bundy's VW goes on display at D.C. crime museum, but should it?
+ |date        = February 19, 2010
+ |newspaper   = [[The Washington Post]]
+ |publisher   = Nash Holdings LLC
+ |location    = Washington DC
+ |issn        = 0190-8286
+ |url         = https://www.washingtonpost.com/wp-dyn/content/article/2010/02/18/AR2010021803532.html
+ |accessdate  = April 24, 2011
+ |url-status     = live
+ |archiveurl  = https://web.archive.org/web/20121112075951/http://www.washingtonpost.com/wp-dyn/content/article/2010/02/18/AR2010021803532.html
+ |archivedate = November 12, 2012
+ |df          = mdy-all
+}}
+</ref>
+
+<ref name="CrimeMuseum-car">{{cite web|title=Ted Bundy's Car at National Museum of Crime and Punishment |date=2008 |publisher=[[National Museum of Crime & Punishment]] |work=CrimeMuseum.org |url=http://www.crimemuseum.org/Ted_Bundy_Car |accessdate=April 24, 2011 |url-status=dead |archiveurl=https://web.archive.org/web/20110507084628/http://www.crimemuseum.org/Ted_Bundy_Car |archivedate=May 7, 2011 }}
+</ref>
+
+<ref name="Smith1979">
+{{cite news
+|first = Stephen C.
+|last = Smith
+|title = Momma's boy to murder: Saga of Ted Bundy
+|newspaper = [[Lakeland Ledger]]
+|publisher = [[New Media Investment Group]]
+|location = Lakeland, Florida
+|agency = Associated Press
+|date = August 19, 1979
+|page = 4B
+|url = https://news.google.com/newspapers?id=xbMwAAAAIBAJ&sjid=-PoDAAAAIBAJ&dq=ted%20bundy%20mormon&pg=6890%2C1373449
+|accessdate = April 24, 2011
+|quote = Morgan said Bundy was raised as a Lutheran but was baptized into the Church of Jesus Christ of Latter-day Saints in Utah in August 1975.
+}}
+</ref>
+
+<ref name="Bennett-Connaughton1978">
+{{cite news
+|first1 = Roger
+|last1 = Bennett
+|first2 = Ken
+|last2 = Connaughton
+|title = Mass murderer or scapegoat?: Bundy evidence can't back theories
+|newspaper = [[Ellensburg Daily Record]]
+|publisher = [[Adams Publishing Group]]
+|location = Ellensburg, Washington
+|agency = [[United Press International]]
+|page = 18
+|date = April 14, 1978
+|accessdate = April 24, 2011
+|url = https://news.google.com/newspapers?id=ym9UAAAAIBAJ&sjid=N48DAAAAIBAJ&dq=ted%20bundy%20mormon&pg=6639%2C915017
+}}
+</ref>
+
+<ref name="Bell-KillingSpree">{{cite web|first=Rachael |last=Bell |title=Ted Bundy: Killing Spree |website=True TV Crime Library: Criminal Minds and Methods |publisher=Turner Broadcasting System |url=http://www.trutv.com/library/crime/serial_killers/notorious/bundy/5.html |accessdate=May 1, 2011 |url-status=dead |archiveurl=https://web.archive.org/web/20110807114059/http://www.trutv.com/library/crime/serial_killers/notorious/bundy/5.html |archivedate=August 7, 2011 }}
+</ref>
+
+<ref name="Deseret1977">
+{{cite news
+|title = Utah county still looking for two women's killers
+|newspaper = [[The Deseret News]]
+|publisher = [[Deseret News Publishing Company]]
+|location = Salt Lake City, Utah
+|agency = [[Associated Press]]
+|url = https://news.google.com/newspapers?nid=336&dat=19771216&id=Q1AOAAAAIBAJ&sjid=Z4ADAAAAIBAJ&pg=3420,365710
+|date = December 16, 1977
+|accessdate = May 4, 2012
+}}
+</ref>
+
+<ref name="map-Murray2Bountiful">
+{{cite web
+ |title       = Bing Maps; Murray to Bountiful
+ |work        = [[bing.com]]
+ |publisher   = [[Microsoft]]
+ |url         = http://www.bing.com/maps/default.aspx?wip=2&v=2&rtp=~&FORM=MSNH#JnJ0cD1wb3MucXM5OWd3NXA4YzkzX011cnJheSUyYytVVF9fX2VfJTdlcG9zLnF0ZDd3NjVwOTNtbl9Cb3VudGlmdWwlMmMrVVRfX19lXyZydG9wPTAlN2Uw
+ |accessdate  = April 24, 2011
+ |url-status     = live
+ |archiveurl  = https://web.archive.org/web/20110425064145/http://www.bing.com/maps/default.aspx?wip=2&v=2&rtp=~&FORM=MSNH#JnJ0cD1wb3MucXM5OWd3NXA4YzkzX011cnJheSUyYytVVF9fX2VfJTdlcG9zLnF0ZDd3NjVwOTNtbl9Cb3VudGlmdWwlMmMrVVRfX19lXyZydG9wPTAlN2Uw
+ |archivedate = April 25, 2011
+ |df          = mdy-all
+}}
+</ref>
+
+<ref name="Gehrke2000">
+{{cite news
+ |first       = Robert
+ |last        = Gehrke
+ |title       = Officer recalls Bundy's '75 capture
+ |date        = August 20, 2000
+ |newspaper   = [[Deseret News]]
+ |publisher   = [[Deseret News Publishing Company]]
+ |location    = Salt Lake City, Utah
+ |agency      = Associated Press
+ |url         = http://www.deseretnews.com/article/778245/Officer-recalls-Bundys-75-capture.html
+ |accessdate  = April 24, 2011
+ |url-status     = live
+ |archiveurl  = https://web.archive.org/web/20120421230657/http://www.deseretnews.com/article/778245/Officer-recalls-Bundys-75-capture.html
+ |archivedate = April 21, 2012
+ |df          = mdy-all
+}}
+</ref>
+
+<ref name="ChiOmegaKiller">
+{{cite news
+ |title       = Nation: The Case of the Chi Omega Killer
+ |magazine    = [[Time (magazine)|Time]]
+ |publisher   = [[Time, Inc.]]
+ |location    = New York City
+ |date        = July 16, 1979
+ |url         = http://www.time.com/time/magazine/article/0,9171,920498-2,00.html
+ |accessdate  = July 5, 2011
+ |url-status     = live
+ |archiveurl  = https://web.archive.org/web/20110710170741/http://www.time.com/time/magazine/article/0,9171,920498-2,00.html
+ |archivedate = July 10, 2011
+ |df          = mdy-all
+}}
+</ref>
+
+<ref name="EveningIndependent">
+{{cite news
+|first1 = Gene
+|last1 = Miller
+|first2 = James
+|last2 = Buchanan
+|title = A "Cool" Bundy&nbsp;– Friends of Two Murdered Sorority Sisters Testify As Pace of Trial Picks Up
+|date = July 10, 1979
+|newspaper = [[Evening Independent]]
+|publisher = [[Times Publishing Company]]
+|location  = St. Petersburg, Florida
+|url = https://news.google.com/newspapers?nid=950&dat=19790710&id=JAEMAAAAIBAJ&sjid=2VgDAAAAIBAJ&pg=6424,1831474
+|accessdate = July 6, 2011
+}}
+</ref>
+
+<ref name="pensacolapolice">
+{{cite web
+|title = Pensacola Police Make a Mark in History
+|publisher = Pensacola Police Department
+|work = pensacolapolice.com
+|url = http://www.pensacolapolice.com/details.asp?pid=2482#Pensacola%20Police%20Make%20a%20Mark%20in%20History
+|accessdate = April 24, 2011
+|archiveurl=https://web.archive.org/web/20120426065319/http://www.pensacolapolice.com/details.asp?pid=2482
+|archivedate=April 26, 2012
+}}
+</ref>
+
+<ref name="Word1999-01-24">
+{{cite news
+ |first       = Ron
+ |last        = Word
+ |title       = Survivors Are Haunted By Memory of Ted Bundy 10 Years After Execution
+ |date        = January 24, 1999
+ |newspaper   = [[Seattle Times]]
+ |publisher   = [[Seattle Times Company]]
+ |location    = Seattle, Washington
+ |agency      = [[Associated Press]]
+ |url         = http://community.seattletimes.nwsource.com/archive/?date=19990124&slug=2940372
+ |accessdate  = April 25, 2011
+ |url-status     = live
+ |archiveurl  = https://web.archive.org/web/20130428164147/http://community.seattletimes.nwsource.com/archive/?date=19990124&slug=2940372
+ |archivedate = April 28, 2013
+ |df          = mdy-all
+}}
+</ref>
+
+<ref name="St.Petersburg1">
+{{cite news
+|first = Patrick
+|last = McMahon
+|title = Nita Neary tells jury Bundy is man she saw leaving Chi Omega
+|date = July 18, 1979
+|newspaper = [[St. Petersburg Times]]
+|publisher= [[Times Publishing Company]]
+|location = St. Petersburg, Florida 
+|url = https://news.google.com/newspapers?nid=888&dat=19790718&id=pxQOAAAAIBAJ&sjid=TXwDAAAAIBAJ&pg=5384,1036952
+|accessdate = July 6, 2011
+}}
+</ref>
+
+<ref name="Bell-KimberlyLeach">{{cite web|first=Rachael |last=Bell |title=Ted Bundy: The Kimberly Leach Trial |website=True TV Crime Library: Criminal Minds and Methods |publisher=Turner Broadcasting System |url=http://www.trutv.com/library/crime/serial_killers/notorious/bundy/15.html |accessdate=May 1, 2011 |url-status=dead |archiveurl=https://web.archive.org/web/20110807124409/http://www.trutv.com/library/crime/serial_killers/notorious/bundy/15.html |archivedate=August 7, 2011 }}
+</ref>
+
+<ref name="AP1981-09-30wife-pregnant">
+{{cite news
+|title = Bundy's wife is pregnant&nbsp;– but she refuses to kiss, tell
+|date = September 30, 1981
+|newspaper = [[Deseret News]]
+|publisher = [[Deseret News Publishing Company]]
+|location = Salt Lake City, Utah
+|agency = [[Associated Press]]
+|url = https://news.google.com/newspapers?nid=336&dat=19810930&id=uPknAAAAIBAJ&sjid=u4MDAAAAIBAJ&pg=6906,4332847
+|accessdate = April 25, 2011
+}}
+</ref>
+
+<ref name="DN-trials">
+{{cite news
+ |title       = The Trials of Ted Bundy
+ |date        = January 24, 1989
+ |newspaper   = [[Deseret News]]
+ |publisher = [[Deseret News Publishing Company]]
+ |location = Salt Lake City, Utah
+ |url         = http://www.deseretnews.com/article/32025/THE-TRIALS-OF-TED-BUNDY.html?pg=1
+ |accessdate  = April 28, 2011
+ |url-status     = live
+ |archiveurl  = https://web.archive.org/web/20130911051630/http://www.deseretnews.com/article/32025/THE-TRIALS-OF-TED-BUNDY.html?pg=1
+ |archivedate = September 11, 2013
+ |df          = mdy-all
+}}
+</ref>
+
+<ref name="Mystique">{{cite news|first=Gregory |last=Enns |title=Bundy's mystique lives on |date=May 21, 1989 |newspaper=[[Anchorage Daily News]]|publisher=Binkley Co.|location=Anchorage, Alaska |url=https://news.google.com/newspapers?nid=1828&dat=19890521&id=ED8eAAAAIBAJ&sjid=fcAEAAAAIBAJ&pg=2797,2126506 |archive-url=https://archive.is/20130124190951/http://news.google.com/newspapers?nid=1828&dat=19890521&id=ED8eAAAAIBAJ&sjid=fcAEAAAAIBAJ&pg=2797,2126506 |url-status=dead |archive-date=January 24, 2013 |accessdate=May 6, 2012 }}
+</ref>
+
+<ref name="Sentinel">
+{{cite news
+ |first1      = Roger
+ |last1       = Roy
+ |first2      = Craig
+ |last2       = Dezern
+ |title       = Bundy Finally Draws Cheers: Hundreds Celebrate Execution
+ |date        = January 25, 1989
+ |newspaper   = [[Orlando Sentinel]]
+ |publisher   = [[Tronc]]
+ |location    = Orlando, Florida
+ |url         = http://articles.orlandosentinel.com/1989-01-25/news/8901250246_1_ted-bundy-electric-chair-death-row
+ |accessdate  = July 19, 2011
+ |url-status     = live
+ |archiveurl  = http://archive.wikiwix.com/cache/20110720184528/http://articles.orlandosentinel.com/1989-01-25/news/8901250246_1_ted-bundy-electric-chair-death-row
+ |archivedate = July 20, 2011
+ |df          = mdy-all
+}}
+</ref>
+
+<ref name="2,000 Cheer">
+{{cite news
+ |first       = Laura
+ |last        = Parker
+ |title       = 2,000 Cheer Execution of Killer Bundy; 'Thank God, It's Finally Over'
+ |date        = January 25, 1989
+ |newspaper   = [[The Washington Post]]
+ |publisher   = Nash Holdings LLC
+ |location    = Washington DC
+ |url         = http://www.highbeam.com/doc/1P2-1170806.html
+ |accessdate  = January 19, 2013
+ |url-status     = dead
+ |archiveurl  = https://web.archive.org/web/20130428064819/http://www.highbeam.com/doc/1P2-1170806.html
+ |archivedate = April 28, 2013
+ |df          = mdy-all
+}}{{Subscription required|via=[[HighBeam Research]]}}
+</ref>
+
+<ref name="Bundy'sWill">
+{{cite news
+ |title       = Bundy's Will Requests Cremation and Scattering of Ashes in Washington
+ |date        = January 26, 1989
+ |newspaper   = [[Deseret News]]
+ |publisher   = [[Deseret News Publishing Company]]
+ |location    = Salt Lake City, Utah
+ |agency      = Associated Press
+ |url         = http://www.deseretnews.com/article/32184/BUNDYS-WILL-REQUESTS-CREMATION-AND-SCATTERING-OF-ASHES-IN-WASHINGTON.html?pg=all
+ |accessdate  = January 3, 2012
+ |url-status     = live
+ |archiveurl  = https://web.archive.org/web/20130105053539/http://www.deseretnews.com/article/32184/BUNDYS-WILL-REQUESTS-CREMATION-AND-SCATTERING-OF-ASHES-IN-WASHINGTON.html?pg=all
+ |archivedate = January 5, 2013
+ |via         = Highbeam Research
+ |df          = mdy-all
+}}
+</ref>
+
+<ref name="Mack1999">
+{{cite book
+|first = Raneta Lawson
+|last = Mack
+|title = A Layperson's Guide to Criminal Law
+|page = 136
+|date = 1999
+|publisher = [[Greenwood Publishing]]
+|location = Westport, Connecticut
+|isbn = 978-0-313-30556-6
+|url = https://books.google.com/books?id=qYgKO18W-eIC&lpg=PP1&dq=isbn%3A9780313305566&pg=PA136#v=onepage&q&f=false
+}}
+</ref>
+
+<ref name="Long">{{cite web|first=Phillip W.|last=Long |title=Antisocial Personality Disorder: World Health Organization ICD-10 |website=www.mentalhealth.com |publisher=[[World Health Organization]] |url=http://www.mentalhealth.com/icd/p22-pe04.html |accessdate=April 30, 2011 |url-status=dead |archiveurl=https://web.archive.org/web/20130911063127/http://www.mentalhealth.com/icd/p22-pe04.html |archivedate=September 11, 2013 }}
+</ref>
+
+<ref name="LilienfeldArkowitz2007-11-28">
+{{cite journal
+ |first1      = Scott O.
+ |last1       = Lilienfeld
+ |first2      = Hal
+ |last2       = Arkowitz
+ |title       = What "Psychopath" Means: It is not quite what you may think
+ |journal     = [[Scientific American]]
+ |publisher   = Nature Publishing Group
+ |location    = New York City
+ |issn        = 0036-8733
+ |date        = November 28, 2007
+ |url         = http://www.scientificamerican.com/article.cfm?id=what-psychopath-means
+ |accessdate  = April 30, 2011
+ |url-status     = live
+ |archiveurl  = https://web.archive.org/web/20110319173103/https://www.scientificamerican.com/article.cfm?id=what-psychopath-means
+ |archivedate = March 19, 2011
+ |df          = mdy-all
+|doi = 10.1038/scientificamericanmind1207-80
+ }}
+</ref>
+
+<ref name="BundyDobsonInterview">{{cite interview |last=Bundy |first=Ted |interviewer=[[James Dobson]] |title=Fatal Addiction: Ted Bundy's Final Interview |publisher=[[Focus on the Family]] |location=Railford, Florida |date=January 24, 1989 }}</ref>
+
+<ref name="Shapiro2005">
+{{cite book
+|first = Ben
+|last = Shapiro
+|authorlink = Ben Shapiro
+|title = Porn Generation: How Social Liberalism Is Corrupting Our Future
+|date = 2005
+|page = 160
+|publisher = [[Regnery Publishing]]
+|location = Washington, D.C.
+|isbn = 0-89526-016-6
+}}
+</ref>
+
+<ref name="Meyers">
+{{cite web
+|first=Art
+|last=Meyers
+|title=The Ted Bundy Murders
+|url=https://www.wctv.tv/home/headlines/The_Ted_Bundy_Murders_Journey_from_Horror_to_Hope_108154829.html
+|website=[[WCTV]]
+|publisher=Gray Television
+|location=Thomasville, Georgia
+|date=November 17, 2010
+|accessdate=October 11, 2018
+|archive-url=https://web.archive.org/web/20181012094453/https://www.wctv.tv/home/headlines/The_Ted_Bundy_Murders_Journey_from_Horror_to_Hope_108154829.html
+|archive-date=October 12, 2018
+|url-status=live
+
+}}
+</ref>
+
+<ref name="Goldstein">
+{{cite news
+ |first       = Al
+ |last        = Goldstein
+ |authorlink  = Al Goldstein
+ |title       = The Perversion of Truth Continues in Alleging a Porn-Crime Link.
+ |date        = February 8, 1989
+ |newspaper   = [[Los Angeles Times]]
+ |publisher   =[[Tronc]]
+ |location    = Los Angeles, California
+ |url         = http://articles.latimes.com/1989-02-08/local/me-1920_1_ted-bundy
+ |accessdate  = June 18, 2013
+ |url-status     = live
+ |archiveurl  = http://archive.wikiwix.com/cache/20130618223312/http://articles.latimes.com/1989-02-08/local/me-1920_1_ted-bundy
+ |archivedate = June 18, 2013
+ |df          = mdy-all
+}}
+</ref>
+
+<ref name="Psychics">
+{{cite news
+ |title       = Psychics Join Search
+ |date        = April 25, 1989
+ |newspaper   = [[Orlando Sentinel]]
+ |publisher   = [[Tronc]]
+ |location    = Orlando, Florida
+ |url         = http://articles.orlandosentinel.com/1989-04-25/news/8904255222_1_killer-ted-bundy-wayne-county-salt-lake
+ |accessdate  = May 3, 2012
+ |url-status     = live
+ |archiveurl  = http://archive.wikiwix.com/cache/20120503044706/http://articles.orlandosentinel.com/1989-04-25/news/8904255222_1_killer-ted-bundy-wayne-county-salt-lake
+ |archivedate = May 3, 2012
+ |df          = mdy-all
+}}
+</ref>
+
+<ref name="Schulte2006">
+{{cite news
+ |first       = Scott
+ |last        = Schulte
+ |title       = When evil walked our streets
+ |date        = November 20, 2006
+ |newspaper   = [[Davis County Clipper]]
+ |publisher   = Davis County Clipper, Inc.
+ |location    = Woods Cross, Utah
+ |url         = http://davisclipper.com/view/full_story/149302/article-When-evil-walked-our-streets?
+ |accessdate  = May 6, 2012
+ |url-status     = dead
+ |archiveurl  = https://web.archive.org/web/20120415110917/http://davisclipper.com/view/full_story/149302/article-When-evil-walked-our-streets
+ |archivedate = April 15, 2012
+ |df          = mdy-all
+}}
+</ref>
+
+<ref name="Jackson2002">
+{{cite book
+|first = Steve
+|last = Jackson
+|title = No Stone Unturned: The Story of NecroSearch International
+|date = 2002
+|pages = [https://archive.org/details/nostoneunturned00stev_0/page/75 75–90]
+|publisher = [[Kensington Books]]
+|location = New York City
+|isbn = 978-1-57566-456-9
+|url = https://archive.org/details/nostoneunturned00stev_0/page/75
+}}
+</ref>
+
+<ref name="CBIColdCase1">{{cite web
+ |title       = Colorado Bureau of Investigation Cold Case Files: Denise Oliverson
+ |work        = CBI
+ |url         = https://www.colorado.gov/apps/coldcase/casedetail.html?id=3683
+ |accessdate  = December 22, 2011
+ |url-status  = dead
+ |archiveurl  = https://web.archive.org/web/20130917135008/https://www.colorado.gov/apps/coldcase/casedetail.html?id=3683
+ |archivedate = September 17, 2013
+ |df          = mdy-all
+}}</ref>
+
+<ref name="Moscow">
+{{cite news
+|title = Pocatello police believe woman was Bundy victim
+|newspaper = [[Moscow-Pullman Daily News]]
+|publisher = TPC Publishing
+|location = Moscow, Iowa
+|url = https://news.google.com/newspapers?id=z5QrAAAAIBAJ&sjid=3tAFAAAAIBAJ&pg=3400,921355&dq/
+|date = February 9, 1989
+|accessdate = June 10, 2013
+}}
+</ref>
+
+<ref name="Culver">
+{{cite news
+ |first       = Bob
+ |last        = Levenson
+ |title       = Interview Identifies Victim, 12, In Idaho
+ |newspaper   = [[Orlando Sentinel]]
+ |publisher   = [[Tronc]]
+ |location    = Orlando, Florida
+ |url         = http://articles.orlandosentinel.com/1989-01-25/news/8901250256_1_bundy-pocatello-girl
+ |date        = January 25, 1989
+ |accessdate  = May 3, 2012
+ |url-status     = live
+ |archiveurl  = http://archive.wikiwix.com/cache/20120503131556/http://articles.orlandosentinel.com/1989-01-25/news/8901250256_1_bundy-pocatello-girl
+ |archivedate = May 3, 2012
+ |df          = mdy-all
+}}
+</ref>
+
+<ref name="CBIColdCase2">
+{{cite web
+ |title       = Colorado Bureau of Investigation Cold Case Files: Melanie Suzanne Cooley
+ |work        = CBI
+ |url         = https://www.colorado.gov/apps/coldcase/casedetail.html?id=1337
+ |accessdate  = December 27, 2011
+ |url-status     = live
+ |archiveurl  = https://web.archive.org/web/20130917151256/https://www.colorado.gov/apps/coldcase/casedetail.html?id=1337
+ |archivedate = September 17, 2013
+ |df          = mdy-all
+}}
+</ref>
+
+<ref name="CBIColdCase3">
+{{cite web
+ |title       = Colorado Bureau of Investigation Cold Case Files: Shelly Robertson
+ |work        = CBI
+ |url         = https://www.colorado.gov/apps/coldcase/casedetail.html?id=308
+ |accessdate  = May 2, 2012
+ |url-status     = live
+ |archiveurl  = https://web.archive.org/web/20130917140638/https://www.colorado.gov/apps/coldcase/casedetail.html?id=308
+ |archivedate = September 17, 2013
+ |df          = mdy-all
+}}
+</ref>
+
+<ref name="Baird">{{cite web|title=Utah Department of Public Safety: Utah's Missing Persons |work=UDPS |url=http://publicsafety.utah.gov/bci/UTAHmissingpersons.html#baird |accessdate=January 24, 2012 |url-status=dead |archiveurl=https://web.archive.org/web/20120202152539/http://publicsafety.utah.gov/bci/UTAHmissingpersons.html |archivedate=February 2, 2012 }}
+</ref>
+
+<ref name="NamUS11575">
+{{cite web
+ |url         = https://www.findthemissing.org/en/cases/11575/6/
+ |title       = NamUS Missing Persons Database: Nancy Perry Baird
+ |publisher   = National Missing and Unidentified Persons System
+ |accessdate  = May 2, 2012
+ |url-status     = live
+ |archiveurl  = https://web.archive.org/web/20130527082414/https://www.findthemissing.org/en/cases/11575/6/
+ |archivedate = May 27, 2013
+ |df          = mdy-all
+}}
+</ref>
+
+<ref name="HolmesHolmes">
+{{cite book
+|first1 = Ronald M.
+|last1 = Holmes
+|first2 = Stephen T.
+|last2 = Holmes
+|title = Profiling Violent Crimes: An Investigative Tool
+|date = 1989
+|page = [https://archive.org/details/profilingviolent0000holm/page/76 76]
+|publisher = [[SAGE Publications]]
+|location = Thousand Oaks, California
+|isbn = 978-0-8039-3681-2
+|url = https://archive.org/details/profilingviolent0000holm/page/76
+}}
+</ref>
+
+<ref name="JeffersonCo-ColdCases">
+{{cite web
+ |title=Cold Cases
+ |publisher=Jefferson County, Colorado, Sheriff's Office
+ |url=http://jeffco.us/sheriff/sheriff_T62_R60.htm
+ |accessdate=May 6, 2012 
+ |url-status=dead
+ |archiveurl=https://web.archive.org/web/20120510184141/http://jeffco.us/sheriff/sheriff_T62_R60.htm
+ |archivedate=May 10, 2012 
+ |df= 
+}}
+</ref>
+
+<ref name="SunSentinel2">
+{{cite news
+ |first       = Larry
+ |last        = Keller
+ |title       = Confessed mass murderer Bundy showed remorse
+ |date        = January 24, 1989
+ |newspaper   = [[Sun-Sentinel]]
+ |publisher   = [[Tronc]]
+ |location    = Deerfield Beach, Florida
+ |url         = http://articles.sun-sentinel.com/1989-01-24/news/8901040963_1_colorado-investigators-execution-appeal/3
+ |accessdate  = December 20, 2011
+ |url-status     = live
+ |archiveurl  = http://archive.wikiwix.com/cache/20111221202119/http://articles.sun-sentinel.com/1989-01-24/news/8901040963_1_colorado-investigators-execution-appeal/3
+ |archivedate = December 21, 2011
+ |df          = mdy-all
+}}
+</ref>
+
+<ref name="AP2002-07-30">
+{{cite news
+ |title       = Man sentenced to life in prison for 1973 murder
+ |agency      = Associated Press
+ |newspaper   = [[Seattle Times]]
+ |publisher   = [[Seattle Times Company]]
+ |location    = Seattle, Washington
+ |date        = July 30, 2002
+ |url         = http://community.seattletimes.nwsource.com/archive/?date=20020730&slug=webdna30
+ |accessdate  = April 30, 2011
+ |url-status     = live
+ |archiveurl  = https://web.archive.org/web/20130428235604/http://community.seattletimes.nwsource.com/archive/?date=20020730&slug=webdna30
+ |archivedate = April 28, 2013
+ |df          = mdy-all
+}}
+</ref>
+
+<ref name="Curran">
+{{cite web
+ |title       = Unsolved Homicide – Rita Curran
+ |publisher   = Vermont State Police
+ |url         = http://vsp.vermont.gov/unsolved/homicide/curran
+ |accessdate  = June 1, 2016
+ |url-status     = live
+ |archiveurl  = https://web.archive.org/web/20160724160240/http://vsp.vermont.gov/unsolved/homicide/curran
+ |archivedate = July 24, 2016
+ |df          = mdy-all
+}}
+</ref>
+
+<ref name="list">
+{{cite news
+ |title       = A list of women Bundy has confessed to killing
+ |agency      = [[Associated Press]]
+ |date        = January 25, 1989
+ |url         = http://www.apnewsarchive.com/1989/A-List-of-Women-Bundy-Has-Confessed-to-Killing-With-PM-Bundy-Bjt/id-c114d74d1a8a8d46d0a7bab7e35ca980
+ |accessdate  = December 29, 2012
+ |url-status     = live
+ |archiveurl  = https://web.archive.org/web/20140709043117/http://www.apnewsarchive.com/1989/A-List-of-Women-Bundy-Has-Confessed-to-Killing-With-PM-Bundy-Bjt/id-c114d74d1a8a8d46d0a7bab7e35ca980
+ |archivedate = July 9, 2014
+ |df          = mdy-all
+}}
+</ref>
+
+<ref name="'73slaying">
+{{cite news
+ |first       = Ian
+ |last        = Ith
+ |title       = Prisoner charged in teen girl's '73 slaying
+ |newspaper   = [[Seattle Times]]
+ |publisher   = [[Seattle Times Company]]
+ |location    = Seattle, Washington
+ |date        = March 9, 2002
+ |url         = http://community.seattletimes.nwsource.com/archive/?date=20020309&slug=oldmurder09m
+ |accessdate  = April 11, 2014
+ |url-status     = live
+ |archiveurl  = https://web.archive.org/web/20130428203049/http://community.seattletimes.nwsource.com/archive/?date=20020309&slug=oldmurder09m
+ |archivedate = April 28, 2013
+ |df          = mdy-all
+}}
+</ref>
+
+<ref name="FL-HighwayPatrol">{{cite web|url=http://www.flhsmv.gov/fhp/html/story3b.html |title=The History of the Florida Highway Patrol 1972–1982 |publisher=Florida Highway Safety and Motor Vehicles |work=flhsmv.gov |accessdate=April 30, 2011 |url-status=dead |archiveurl=https://web.archive.org/web/20111003162633/http://www.flhsmv.gov/fhp/html/story3b.html |archivedate=October 3, 2011 }}
+</ref>
+
+<ref name="NamUS4593">
+{{cite web
+ |url         = https://www.findthemissing.org/en/cases/4593/4/
+ |title       = NamUS Missing Persons Database: Ann Marie Burr
+ |publisher   = [[National Missing and Unidentified Persons System]]
+ |accessdate  = April 27, 2012
+ |url-status     = live
+ |archiveurl  = https://web.archive.org/web/20130527051922/https://www.findthemissing.org/en/cases/4593/4/
+ |archivedate = May 27, 2013
+ |df          = mdy-all
+}}
+</ref>
+
+<ref name="BurrDNA">
+{{cite web
+ |last        = David
+ |first       = Lohr
+ |title       = DNA Evidence Fails To Link Ted Bundy To Ann Marie Burr
+ |url         = http://www.huffingtonpost.com/2011/10/05/ann-marie-burr-ted-bundy_n_996660.html
+ |website     = [[The Huffington Post]]
+ |publisher   = [[Huffington Post Media Group]]
+ |location    = New York City
+ |date        = October 5, 2011
+ |accessdate  = December 29, 2012
+ |url-status     = live
+ |archiveurl  = https://web.archive.org/web/20111216213434/http://www.huffingtonpost.com/2011/10/05/ann-marie-burr-ted-bundy_n_996660.html
+ |archivedate = December 16, 2011
+ |df          = mdy-all
+}}
+</ref>
+
+<ref name="SpokaneDaily">
+{{cite news
+|url = https://news.google.com/newspapers?id=eGVYAAAAIBAJ&sjid=rfcDAAAAIBAJ&pg=6712,6268452&hl=en
+|title = Coast Stewardess Fatally Beaten
+|newspaper = [[Spokane Daily Chronicle]]
+|publisher = [[Cowles Company]]
+|location  = Spokane, Washington
+|date = June 22, 1966
+|accessdate = May 3, 2012
+}}
+</ref>
+
+<ref name="Free Lance">
+{{cite news
+|title = Coeds Found Dead, Victims of Murder
+|newspaper = [[The Free Lance-Star]]
+|publisher = [[BH Media]]
+|location  = Fredericksburg, Virginia
+|agency = [[Associated Press]]
+|url = https://news.google.com/newspapers?nid=1298&dat=19690603&id=U_JNAAAAIBAJ&sjid=pYoDAAAAIBAJ&pg=6375,3558590
+|date = June 3, 1969
+|accessdate = May 4, 2012
+}}
+</ref>
+
+<ref name="DailyNews">
+{{cite news
+ |first1      = Gloria
+ |last1       = Campisi
+ |first2      = Jack
+ |last2       = McGuire
+ |title       = Bundy Admitted Slayings in Area, Interviewer Says
+ |newspaper   = [[Philadelphia Daily News]]
+ |publisher   = [[Philadelphia Media Network]]
+ |location    = Philadelphia, Pennsylvania
+ |url         = http://articles.philly.com/1989-01-24/news/26125035_1_ted-bundy-bundy-on-death-row-murders
+ |date        = January 24, 1989
+ |accessdate  = May 4, 2012
+ |url-status     = live
+ |archiveurl  = http://archive.wikiwix.com/cache/20121016173648/http://articles.philly.com/1989-01-24/news/26125035_1_ted-bundy-bundy-on-death-row-murders
+ |archivedate = October 16, 2012
+ |df          = mdy-all
+}}
+</ref>
+
+<ref name="'69 Killings3">
+{{cite news
+ |first       = Larry
+ |last        = Lewis
+ |title       = '69 Killings Near Parkway Unsolved, But Bundy Is Blamed ...
+ |newspaper   = [[The Philadelphia Inquirer]]
+ |publisher   = [[Philadelphia Media Network]]
+ |location    = Philadelphia, Pennsylvania
+ |url         = http://articles.philly.com/1993-05-31/news/25964091_1_ted-bundy-serial-killer-holiday/3
+ |date        = May 31, 1993
+ |accessdate  = May 4, 2012
+ |url-status     = live
+ |archiveurl  = http://archive.wikiwix.com/cache/20160329220715/http://articles.philly.com/1993-05-31/news/25964091_1_ted-bundy-serial-killer-holiday/3
+ |archivedate = March 29, 2016
+ |df          = mdy-all
+}}
+</ref>
+
+<ref name="NamUS7780">
+{{cite web
+ |url         = https://www.findthemissing.org/en/cases/7780/0/
+ |title       = NamUS Missing Persons Database: Rita Lorraine Jolly
+ |publisher   = National Missing and Unidentified Persons System
+ |accessdate  = April 27, 2012
+ |url-status     = live
+ |archiveurl  = https://web.archive.org/web/20130527061332/https://www.findthemissing.org/en/cases/7780/0/
+ |archivedate = May 27, 2013
+ |df          = mdy-all
+}}
+</ref>
+
+<ref name="NamUS9265">
+{{cite web
+ |url         = https://www.findthemissing.org/en/cases/9265/0/
+ |title       = NamUS Missing Persons Database: Vicki Lynn Hollar
+ |publisher   = National Missing and Unidentified Persons System
+ |accessdate  = April 27, 2012
+ |url-status     = live
+ |archiveurl  = https://web.archive.org/web/20130527000127/https://www.findthemissing.org/en/cases/9265/0/
+ |archivedate = May 27, 2013
+ |df          = mdy-all
+}}
+</ref>
+
+<ref name="Tie-in">
+{{cite news
+|title = Utah tie-in to Colorado slaying?
+|newspaper = [[The Deseret News]]
+|publisher = [[Deseret News Publishing Company]]
+|location  = Salt Lake City, Utah
+|url = https://news.google.com/newspapers?nid=336&dat=19750120&id=89JSAAAAIBAJ&sjid=YX8DAAAAIBAJ&pg=3681,3961866
+|date = January 20, 1975
+|accessdate = December 1, 2012
+}}
+</ref>
+
+<ref name="Unclear">
+{{cite news
+|title = Link to state woman unclear
+|newspaper = [[The Milwaukee Journal]]
+|publisher = [[Gannett Company]]
+|location  = Milwaukee, Wisconsin
+|agency = [[Associated Press]]
+|url = https://news.google.com/newspapers?nid=1499&dat=19890125&id=pW4aAAAAIBAJ&sjid=5isEAAAAIBAJ&pg=2988,799766
+|date = January 25, 1989
+|accessdate = December 1, 2012
+}}
+</ref>
+
+<ref name="Follow up">
+{{cite news
+|title = Utah law officers follow up on serial killer's confessions
+|newspaper = [[The Spokesman-Review]]
+|publisher = [[Cowles Company]]
+|location  = Spokane, Washington
+|agency = [[Associated Press]]
+|url = https://news.google.com/newspapers?nid=1314&dat=19890124&id=D1xWAAAAIBAJ&sjid=5O8DAAAAIBAJ&pg=5082,4470159
+|date = January 24, 1989
+|accessdate = December 1, 2012
+}}
+</ref>
+}}
+
+== Further reading ==
+{{refbegin|30em}}
+* {{cite book
+|last = Dekle
+|first = George R. Sr.
+|authorlink = George R. Dekle, Sr.
+|title = The Last Murder: The Investigation, Prosecution, and Execution of Ted Bundy
+|year = 2011
+|publisher = Praeger (Imprint of ABC-CLIO, LLC)
+|location = Santa Barbara
+|edition = Hardcover
+|isbn = 978-0-313-39743-1
+|ref = harv
+}}
+* {{cite book
+|last = Foreman
+|first = Laura
+|title = Serial Killers&nbsp;– True Crime
+|year = 1992
+|publisher = Time-Life Books
+|location = Alexandria, Virginia
+|edition = Hardcover
+|isbn = 978-0-7835-0001-0
+|ref = harv
+|url-access = registration
+|url = https://archive.org/details/serialkillerspro00edit
+}}
+* {{cite book
+|last = Geberth
+|first = Vernon
+|title = Practical Homicide Investigation - Tactics, Procedures and Forensic Techniques
+|year = 2006
+|publisher = CRC Press
+|edition = 4th
+|isbn = 0-8493-3303-2
+|ref = harv
+}}
+* {{cite book
+|last = Kendall
+|first = Elizabeth
+|title = The Phantom Prince: My Life With Ted Bundy
+|date=September 1981
+|publisher = Madrona
+|location = Seattle
+|edition = Hardcover, 1st
+|isbn = 978-0-914842-70-5
+|ref = harv
+}}(Elizabeth Kloepfer, writing under a pseudonym)
+* {{cite book
+|last = Keppel
+|first = Robert
+|authorlink = Robert D. Keppel
+|title = The Riverman: Ted Bundy and I Hunt for the Green River Killer
+|year = 2005
+|publisher = Pocket Books
+|location = New York
+|edition = Paperback
+|isbn = 978-0-7434-6395-9
+|ref = harv
+}} Updated after the arrest and confession of the [[Green River killer]], [[Gary Ridgway]].
+* {{cite book
+|last = Keppel
+|first = Robert
+|title = The Riverman: Ted Bundy and I Hunt for the Green River Killer
+|year = 2010
+|publisher = Simon & Schuster
+|location = New York
+|edition = Kindle
+|isbn = 978-1-4391-9434-8
+|ref = harv
+}}
+* {{cite book
+|last1 = Keppel
+|first1 = Robert D.
+|last2 = Michaud
+|first2 = Stephen G.
+|title = Terrible Secrets: Ted Bundy on Serial Murder
+|year = 2011
+|publisher = Authorlink Press
+|location = Irving Texas
+|edition = Enhanced E-Book
+|isbn = 978-1-928704-97-3
+|ref = harv
+}}
+* {{cite book
+|last = Larsen
+|first = Richard W.
+|title = Bundy: The Deliberate Stranger
+|year = 1980
+|publisher = Prentice Hall
+|location = Englewood Cliffs, New Jersey
+|edition = Hardcover
+|isbn = 978-0-13-089185-3
+|ref = harv
+|title-link = The Deliberate Stranger
+}}
+* {{cite book
+|last = Mello
+|first = Michael A.
+|title = Dead Wrong: A Death Row Lawyer Speaks Out Against Capital Punishment
+|year = 1997
+|publisher = The University of Wisconsin Press
+|location = Madison, Wisconsin
+|edition = Paperback
+|isbn = 0-299-15344-4
+|ref = harv
+}}
+* {{cite book
+|last1 = Michaud
+|first1 = Stephen
+|last2 = Aynesworth
+|first2 = Hugh
+|authorlink2 = Hugh Aynesworth
+|title = The Only Living Witness: The True Story of Serial Sex Killer Ted Bundy
+|date = August 1999
+|origyear = 1983
+|publisher = Authorlink Press
+|location = Irving, Texas
+|edition = Paperback; revised
+|url = https://books.google.com/books?id=rO5IdAhFw_YC&lpg=PA1&pg=PA1#v=onepage&q&f=false
+|isbn = 978-1-928704-11-9
+|ref = harv
+}}
+* {{cite book
+|last1 = Michaud
+|first1 = Stephen
+|last2 = Aynesworth
+|first2 = Hugh
+|authorlink2 = Hugh Aynesworth
+|title = Ted Bundy: Conversations with a Killer
+|date = October 1989
+|publisher = Signet
+|location = New York
+|edition = Paperback
+|isbn = 978-0-451-16355-4
+|ref = harv
+|url = https://archive.org/details/tedbundyconversa00mich_0
+}} Transcripts of the authors' Death Row interviews with Bundy
+* {{cite book
+|last = Morris
+|first = Rebecca
+|title = Ted and Ann: The Mystery of a Missing Child and Her Neighbor Ted Bundy
+|year = 2013
+|publisher = CreateSpace
+|location = New York
+|edition = Paperback; revised and updated
+|isbn = 978-1484925089
+|ref = harv
+}}
+* {{cite book
+|last = Nelson
+|first = Polly
+|title = Defending the Devil: My Story as Ted Bundy's Last Lawyer
+|year = 1994
+|publisher = William Morrow
+|location = New York
+|isbn = 978-0-688-10823-6
+|ref = harv
+|title-link = Defending the Devil: My Story as Ted Bundy's Last Lawyer
+}}
+* {{cite book
+|last = Rule
+|first = Ann
+|authorlink = Ann Rule
+|title = The Stranger Beside Me
+|year = 1989
+|publisher = Signet
+|location = New York
+|edition = Paperback; revised and updated
+|isbn = 978-0-451-16493-3
+|ref = harv
+|title-link = The Stranger Beside Me
+}}
+* {{cite book
+|last = Rule
+|first = Ann
+|title = The Stranger Beside Me
+|year = 2000
+|publisher = Signet
+|location = New York
+|edition = Paperback; updated 20th anniversary
+|isbn = 978-0-451-20326-7
+|ref = harv
+|url = https://archive.org/details/strangerbesideme00rule
+}}
+* {{cite book
+|last = Rule
+|first = Ann
+|title = The Stranger Beside Me
+|year = 2009
+|publisher = Pocket Books
+|location = New York
+|edition = Paperback; updated 2009
+|isbn = 978-1-4165-5959-7
+|ref = harv
+|url = https://archive.org/details/strangerbesideme00rule_1
+}}
+* {{cite book
+|last = Sullivan
+|first = Kevin M.
+|title = The Bundy Murders: A Comprehensive History
+|year = 2009
+|publisher = McFarland and Co.
+|location = Jefferson, North Carolina
+|edition = Paperback
+|isbn = 978-0-7864-4426-7
+|ref = harv
+}}
+* {{cite book
+|last = Sullivan
+|first = Kevin
+|title = Ted Bundy's Murderous Mysteries: The Many Victims Of America's Most Infamous Serial Killer
+|year = 2019
+|publisher = WildBlue Press
+|location =Denver, Colorado 
+|edition = paperback
+|isbn = 1948239159
+|ref = harv
+|url = https://books.google.com/books?id=HfqpxAEACAAJ&dq=bundy+victims&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwjLreXv-bDlAhWnV98KHdgkDtMQ6AEwAHoECAAQAg
+}}
+* {{cite book
+|last1 = Winn
+|first1 = Steven
+|last2 = Merrill
+|first2 = David
+|title = Ted Bundy: The Killer Next Door
+|year = 1980
+|publisher = Bantam
+|location = New York
+|edition = Paperback
+|isbn = 978-0-553-13637-1
+|ref = harv
+}}
+{{refend}}
+
+== External links ==
+{{sister project links|n=no|wikt=no|b=no|v=no|commons=Category:Ted Bundy|q=Ted Bundy|s=no|d=Q192218}}
+*[http://vault.fbi.gov/Ted%20Bundy%20/ FBI file on Ted Bundy] at vault.fbi.gov
+*[https://web.archive.org/web/20131215120659/http://www.fbi.gov/news/stories/2013/november/serial-killers-part-3-ted-bundys-campaign-of-terror WANTED BY FBI – Theodore Robert Bundy], [[FBI]]
+*[https://web.archive.org/web/20120426092219/http://www.kirotv.com/news/news/bundy-confession-tapes-revealed-for-the-first-time/nDrR5/ Audiotapes] of Bundy's 1989 confessions
+*{{unbulleted list |Kimberly Leach [https://web.archive.org/web/20091111044057/http://www.law.fsu.edu/library/flsupct/59128/59128.html appeals, briefs, and court ruling]; |Chi Omega [https://web.archive.org/web/20140202165623/http://www.law.fsu.edu/library/flsupct/57772/57772.html appeals, briefs, and court ruling]; |1986 [http://supreme.justia.com/us/479/894/case.html ruling] by the [[United States Supreme Court]] in Leach case; |1989 Leach [https://web.archive.org/web/20080517113845/http://www.law.fsu.edu/library/flsupct/73585/73585.html appeal, brief and court ruling] by the Florida Supreme Court}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Bundy, Ted}}
+[[Category:Ted Bundy| ]]
+[[Category:1946 births]]
+[[Category:1989 deaths]]
+[[Category:1974 murders in the United States]]
+[[Category:1975 murders in the United States]]
+[[Category:1978 murders in the United States]]
+[[Category:20th-century American criminals]]
+[[Category:20th-century executions by Florida]]
+[[Category:20th-century executions of American people]]
+[[Category:American escapees]]
+[[Category:American male criminals]]
+[[Category:American murderers of children]]
+[[Category:American people convicted of kidnapping]]
+[[Category:American people convicted of murder]]
+[[Category:American rapists]]
+[[Category:American serial killers]]
+[[Category:Criminals from Tacoma, Washington]]
+[[Category:Escapees from Colorado detention]]
+[[Category:Executed American serial killers]]
+[[Category:Executed people from Vermont]]
+[[Category:FBI Ten Most Wanted Fugitives]]
+[[Category:Formerly wanted fugitives]]
+[[Category:Human trophy collecting]]
+[[Category:Male serial killers]]
+[[Category:Necrophiles]]
+[[Category:People convicted of murder by Florida]]
+[[Category:People executed by Florida by electric chair]]
+[[Category:People executed for murder]]
+[[Category:People from Burlington, Vermont]]
+[[Category:People from Philadelphia]]
+[[Category:People from Salt Lake City]]
+[[Category:People with antisocial personality disorder]]
+[[Category:People with narcissistic personality disorder]]
+[[Category:University of Puget Sound alumni]]
+[[Category:University of Utah alumni]]
+[[Category:University of Washington College of Arts and Sciences alumni]]
+[[Category:Violence against women in the United States]]
+[[Category:Washington (state) Republicans]]
